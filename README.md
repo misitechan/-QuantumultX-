@@ -57,7 +57,10 @@
 		<td > 12 </td> <td > 网易云VIP </td> <td ><a href="https://raw.githubusercontent.com/misitechan/rewrite-gather/main/privilege/NeteaseMusicVipCrack.js"><em>weiboVIP.js</em></a></td><td>Hausd0rff</td>
     </tr>
 	<tr>
-		<td > 13 </td> <td > WPS VIP </td> <td ><a href="https://raw.githubusercontent.com/misitechan/rewrite-gather/main/privilege/WPSVIP.js"><em>WPS VIP.js</em></a></td><td>XiaoMao</td>
+		<td > 13 </td> <td > WPS VIP </td> <td ><a href="https://raw.githubusercontent.com/misitechan/rewrite-gather/main/privilege/WPSVIP.js"><em>WPS VIP.js</em></a></td><td>aXiaoMao</td>
+    </tr>
+	<tr>
+		<td > 14 </td> <td > WPS VIP </td> <td ><a href="https://raw.githubusercontent.com/misitechan/rewrite-gather/main/privilege/Zymh.js"><em>知音漫画VIP.js</em></a></td><td>admin</td>
     </tr>
 	<tr>
 		<td colspan="5">  </td>
