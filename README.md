@@ -6,8 +6,8 @@
 * 上述配置支持QX商店最新版，包括图标库订阅、各种VIP、网易云音乐解锁教程、旧版应用推荐、IOS更新屏蔽、智能分流、墨鱼去开屏2.0、各种APP净化、Boxjs订阅、流媒体解锁查询、高德地图知乎去广告...
 * 可借助 ghproxy 为 GitHub 加速：在 ```https://raw.githubusercontent.com/``` 前添加 ```https://gh.idayer.com/```
 * 更多懒人配置合集 [***Click me***](https://github.com/misitechan/Profile-gather)
-* boxjs 教程可参考[*@limboprossr*](https://t.me/limboprossr) 提供的 [***Quantumult X 小白系列教程***](https://limbopro.com/archives/19265.html)
-> 详细的带图指南请参考 [*@Serdongchanyo*](https://github.com/erdongchanyo) 提供的 [***BoxJS 安装及订阅教程***](https://github.com/erdongchanyo/Rules/blob/main/Quantumult%20X/README.md)
+> boxjs 教程请参考[*@limboprossr*](https://t.me/limboprossr) 提供的 [***BoxJS 安装及订阅***](https://limbopro.com/archives/19265.html)
+> 详细的带图指南请参考 [*@Serdongchanyo*](https://github.com/erdongchanyo) 提供的 [***Quantumult X 小白系列教程***](https://github.com/erdongchanyo/Rules/blob/main/Quantumult%20X/README.md)
 ## 2️⃣QuantumultX 分流：
 * 网易云音乐分流 [*NeteaseMusic.list*](https://raw.githubusercontent.com/misitechan/list-gather/main/NeteaseMusic.list)
 * ChatGPT 分流 [*OpenAi.list*](https://raw.githubusercontent.com/misitechan/list-gather/main/OpenAi.list)
