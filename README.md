@@ -242,7 +242,7 @@
 * 微信屏蔽朋友圈广告[*WeChat.web*](https://mp.weixin.qq.com/s/f_miMTmLOTDnk4C0OanHyw)
 * IOS、Android[TV]、Web、AppleTV观影方案[***Notion.md***](https://ddgksf2013.notion.site/IOS-Android-TV-Web-AppleTV-737275e3de2c4def86196d8c982ef86e?pvs=4)
 * 如何有效减少Android、IOS端应用开屏广告的打扰？[*WeChat.web*](https://mp.weixin.qq.com/s/DOwEQs4Z7eFpGWOVAO-2QA)
-* 一些自用优质安卓APPS [***Awesome-Android-Apps***](https://github.com/misitechan/html/blob/main/Android)
+* 一些自用优质安卓APPS [***Awesome-Android-Apps***](https://github.com/misitechan/Android)
 
 
 
