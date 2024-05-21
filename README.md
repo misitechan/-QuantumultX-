@@ -17,7 +17,7 @@
 > 更多的分流请参考 [*@blackmatrix7*](https://github.com/blackmatrix7) 提供的 [***Quantumult X 分流***](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX)
 
 ## 3️⃣QuantumultX 复写：
-#     带●的需配合boxjs使用               
+#    <td > 带●的需配合boxjs使用 </td>            
 <table>
     <tr> <th> 类别 </th> <th> 序号 </th> <th> 功能 </th> <th> 链接 </th> <th> 作者 </th> </tr >
     <tr>
@@ -25,7 +25,8 @@
 		<td > 1</td> <td > 哔哩哔哩广告净化</td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Bilibili.conf"><em>BilibiliVip.conf</em></a></td><td>ddgksf2013</td>
     </tr>	
 	<tr>
-		<td > 2 </td> <td > Spotify会员 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/UnlockVip/Spotify.conf"><em>SpotifyPro.conf</em></a></td><td>app2smile</td>
+		<td > 2 </td> <td > Spotify会员 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/UnlockVip/Spotify.conf"><em>SpotifyPro.conf</em></a></td><td>app2smile
+		</td>
     </tr>
 	<tr>
 		<td > 3</td> <td > 墨鱼专属VIP </td> <td ><a href="https://github.com/ddgksf2013/dev/raw/master/ForOwnUse.conf"><em>ForOwnUse.conf</em></a></td><td>ddgksf2013</td>
