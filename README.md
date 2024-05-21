@@ -48,6 +48,9 @@
 		<td > 9 </td> <td > Emby解锁 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Function/EmbyPlugin.conf"><em>EmbyPlugin.conf</em></a></td><td>rartv</td>
     </tr>
 	<tr>
+		<td > 9 </td> <td > 喜马拉雅解锁 <br> [请勿和其他喜马拉雅脚本同时使用] </td> <td ><a href="https://raw.githubusercontent.com/WeiGiegie/666/main/xmly.js"><em>EmbyPlugin.conf</em></a></td><td>rartv</td>
+    </tr>
+	<tr>
 		<td colspan="5">  </td>
     </tr>
     <tr>
