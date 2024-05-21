@@ -1,8 +1,3 @@
-## [Update on 2024-05-18]
-
-
-## ![Cuttlefish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddgksf2013&show_icons=true&count_private=true&theme=vue)  
-
 > [***本库内容自用，所有内容均为网上收集，公众号、自媒体请勿进行任何形式的转载发布，造成后果均为自己承担***](https://github.com/misitechan/-QuantumultX-)
 
 ## 1️⃣QuantumultX 自用配置：
