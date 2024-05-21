@@ -60,7 +60,7 @@
 		<td > 13 </td> <td > WPS VIP </td> <td ><a href="https://raw.githubusercontent.com/misitechan/rewrite-gather/main/privilege/WPSVIP.js"><em>WPS VIP.js</em></a></td><td>aXiaoMao</td>
     </tr>
 	<tr>
-		<td > 14 </td> <td > WPS VIP </td> <td ><a href="https://raw.githubusercontent.com/misitechan/rewrite-gather/main/privilege/Zymh.js"><em>知音漫画VIP.js</em></a></td><td>admin</td>
+		<td > 14 </td> <td > 知音漫客VIP </td> <td ><a href="https://raw.githubusercontent.com/misitechan/rewrite-gather/main/privilege/Zymh.js"><em>zymkVIP.js</em></a></td><td>admin</td>
     </tr>
 	<tr>
 		<td colspan="5">  </td>
