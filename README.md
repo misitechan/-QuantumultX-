@@ -1,7 +1,7 @@
 > [***本库内容自用，所有内容均为网上收集，公众号、自媒体请勿进行任何形式的转载发布，造成后果均为自己承担***](https://github.com/misitechan/-QuantumultX-)
 
 ## 1️⃣QuantumultX 自用配置：
-* 配置更新时间：2024-05-21
+* 配置更新时间：<strong>2024-05-21</strong>
 * 自用QX配置 [***Misitechan.conf***](https://raw.githubusercontent.com/misitechan/Profile-gather/main/misitechan.conf) 
 * 上述配置支持QX商店最新版，包括图标库订阅、各种VIP、网易云音乐解锁教程、旧版应用推荐、IOS更新屏蔽、智能分流、墨鱼去开屏2.0、各种APP净化、Boxjs订阅、流媒体解锁查询、高德地图知乎去广告...
 * 可借助 ghproxy 为 GitHub 加速：在 ```https://raw.githubusercontent.com/``` 前添加 ```https://gh.idayer.com/```
