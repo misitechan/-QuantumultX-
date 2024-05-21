@@ -6,13 +6,14 @@
 * 上述配置支持QX商店最新版，包括图标库订阅、各种VIP、网易云音乐解锁教程、旧版应用推荐、IOS更新屏蔽、智能分流、墨鱼去开屏2.0、各种APP净化、Boxjs订阅、流媒体解锁查询、高德地图知乎去广告...
 * 可借助 ghproxy 为 GitHub 加速：在 ```https://raw.githubusercontent.com/``` 前添加 ```https://gh.idayer.com/```
 * 更多懒人配置合集 [***Click me***](https://github.com/misitechan/Profile-gather)
-> 详细的带图指南请参考 [*@Shawn*](https://t.me/QuanX_API) 提供的 [***Quantumult X 不完全指南***](https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917#bb2dce7c01114955bbdbbd222f2a5fcf)
+> 详细的带图指南请参考 [*@Shawn*](https://t.me/QuanX_API) 提供的 [***Quantumult X 不完全指南***](https://www.notion.soQuantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917#bb2dce7c01114955bbdbbd222f2a5fcf)
 
 ## 2️⃣QuantumultX 分流：
-* 网易云音乐分流 [*NeteaseMusic.list*](https://github.com/ddgksf2013/Filter/raw/master/NeteaseMusic.list)
-* 自用 ChatGPT 分流 [*OpenAi.list*](https://raw.githubusercontent.com/ddgksf2013/Filter/master/OpenAi.list)
-* IP隐藏の分流[不建议使用] [*Anti-ip.list*](https://github.com/ddgksf2013/Filter/raw/master/anti-ip-attribution.list)
-* Emby分流 [*Emby.list*](https://github.com/ddgksf2013/Filter/blob/master/Emby.list)
+* 网易云音乐分流 [*NeteaseMusic.list*](https://raw.githubusercontent.com/misitechan/list-gather/main/NeteaseMusic.list)
+* ChatGPT 分流 [*OpenAi.list*](https://raw.githubusercontent.com/misitechan/list-gather/main/OpenAi.list)
+* 国内软件IP修改分流 [*Anti-ip.list*](https://raw.githubusercontent.com/misitechan/list-gather/main/Anti-ip.list)
+* TikTok地区分流 [*TikTok.list*](https://raw.githubusercontent.com/misitechan/list-gather/main/TikTok.list)
+* 抖音IP分流 [*DouYin.list*](https://raw.githubusercontent.com/misitechan/list-gather/main/DouYin.list)
 > 更多的分流请参考 [*@blackmatrix7*](https://github.com/blackmatrix7) 提供的 [***Quantumult X 分流***](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX)
 
 ## 3️⃣QuantumultX 复写：
