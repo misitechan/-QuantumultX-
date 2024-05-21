@@ -20,7 +20,7 @@
 <table>
     <tr> <th> 类别 </th> <th> 序号 </th> <th> 功能 </th> <th> 链接 </th> <th> 作者 </th> </tr >
     <tr>
-		<td rowspan="10"><strong>会员解锁</strong></td>
+		<td rowspan="11"><strong>会员解锁</strong></td>
 		<td > 1</td> <td > 哔哩哔哩广告净化</td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Bilibili.conf"><em>BilibiliVip.conf</em></a></td><td>ddgksf2013</td>
     </tr>	
 	<tr>
@@ -45,10 +45,13 @@
 		<td > 8 </td> <td > BuyiTunes多合一 </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/9e0f6c7341beea09a31aa309d9d7f502/raw/buyitunes.js"><em>buyitunes.js</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
-		<td > 9</td> <td > 喜马拉雅解锁 </td> <td ><a href="https://raw.githubusercontent.com/misitechan/rewrite-gather/main/privilege/ximalayaVIP.js"><em>buyitunes.js</em></a></td><td>GieGie777</td>
+		<td > 9</td> <td > 喜马拉雅解锁 </td> <td ><a href="https://raw.githubusercontent.com/misitechan/rewrite-gather/main/privilege/ximalayaVIP.js"><em>ximalayaVIP.js</em></a></td><td>GieGie777</td>
     </tr>
 	<tr>
 		<td > 10 </td> <td > Emby解锁 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Function/EmbyPlugin.conf"><em>EmbyPlugin.conf</em></a></td><td>rartv</td>
+    </tr>
+	<tr>
+		<td > 11 </td> <td > 微博VIP </td> <td ><a href="https://raw.githubusercontent.com/misitechan/rewrite-gather/main/privilege/weiboVIP.js"><em>weiboVIP.js</em></a></td><td>XiaoMao</td>
     </tr>
 	<tr>
 		<td colspan="5">  </td>
