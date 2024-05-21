@@ -1,13 +1,4 @@
-[![Stars](https://img.shields.io/github/stars/ddgksf2013/ddgksf2013)](https://github.com/ddgksf2013/ddgksf2013/stargazers)
-[![Fork](https://img.shields.io/github/forks/ddgksf2013/ddgksf2013)](https://github.com/ddgksf2013/ddgksf2013/network/members)
-[![Commit](https://img.shields.io/github/commit-activity/m/ddgksf2013/ddgksf2013?label=Commits)](https://github.com/ddgksf2013/ddgksf2013/commits/master)
-[![Telegram](https://img.shields.io/badge/Telegram-Channel-33A8E3)](https://t.me/ddgksf2021)
-[![Issues](https://img.shields.io/github/issues/ddgksf2013/ddgksf2013)](https://github.com/ddgksf2013/ddgksf2013/issues)
-[![](https://img.shields.io/github/last-commit/ddgksf2013/ddgksf2013)](https://github.com/ddgksf2013)
-[![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
-
-
-## 墨魚手記（[赞助](https://qr.alipay.com/fkx14452pqgkxzbji4tscd2 "感谢打赏")）[Update on 2024-05-18](https://github.com/ddgksf2013/Rewrite/blob/master/README.md)  
+## [Update on 2024-05-18](https://github.com/ddgksf2013/Rewrite/blob/master/README.md)  
 ### Tg 通知頻道 👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
 ![Visitor Count](https://profile-counter.glitch.me/ddgksf2013/count.svg)  
 
