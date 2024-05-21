@@ -226,7 +226,6 @@
 > 更多的图标订阅请参考 [*@ddgksf2013*](https://github.com/ddgksf2013) 集合的 [***Quantumult X 图标库***](https://github.com/ddgksf2013/Icon/blob/master/README.md)
 
 ## 6️⃣Awesome Resource：
-* 屏蔽IOS更新[***点我***](https://initnil.com/tvOS.mobileconfig)
 * 1080P超清IPTV国内[***直播源***](https://github.com/ddgksf2013/M3U8LIST/raw/master/IPTV2022.m3u)
 * 墨鱼网盘资源 [*Tg.md*](https://t.me/ddgksf2023): TrollStore、Windows、Cracker.ipa、Android.apk...
 * [***优秀Web网站合集***](https://github.com/ddgksf2013/WebSite)：影视、工具、下载、阅读、Porn...
