@@ -9,11 +9,11 @@
 * <strong>boxjs</strong> 教程请参考[*@limboprossr*](https://t.me/limboprossr) 提供的 [***BoxJS 安装及订阅***](https://limbopro.com/archives/19265.html)
 > 详细的带图指南请参考 [*@Serdongchanyo*](https://github.com/erdongchanyo) 提供的 [***Quantumult X 小白系列教程***](https://github.com/erdongchanyo/Rules/blob/main/Quantumult%20X/README.md)
 ## 2️⃣QuantumultX 分流：
-* 网易云音乐分流 [*NeteaseMusic.list*](https://raw.githubusercontent.com/misitechan/list-gather/main/NeteaseMusic.list)
-* ChatGPT 分流 [*OpenAi.list*](https://raw.githubusercontent.com/misitechan/list-gather/main/OpenAi.list)
-* 国内软件IP修改分流 [*Anti-ip.list*](https://raw.githubusercontent.com/misitechan/list-gather/main/Anti-ip.list)
-* TikTok地区分流 [*TikTok.list*](https://raw.githubusercontent.com/misitechan/list-gather/main/TikTok.list)
-* 抖音IP分流 [*DouYin.list*](https://raw.githubusercontent.com/misitechan/list-gather/main/DouYin.list)
+* 网易云音乐分流 [*NeteaseMusic.list*](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/list-gather/NeteaseMusic.list)
+* ChatGPT 分流 [*OpenAi.list*](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/list-gather/OpenAi.list)
+* 国内软件IP修改分流 [*Anti-ip.list*](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/list-gather/Anti-ip.list)
+* TikTok地区分流 [*TikTok.list*](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/list-gather/TikTok.list)
+* 抖音IP分流 [*DouYin.list*](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/list-gather/DouYin.list)
 > 更多的分流请参考 [*@blackmatrix7*](https://github.com/blackmatrix7) 提供的 [***Quantumult X 分流***](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX)
 
 ## 3️⃣QuantumultX 复写：
