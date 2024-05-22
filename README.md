@@ -47,22 +47,22 @@
 		<td > 8 </td> <td > BuyiTunes多合一 </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/9e0f6c7341beea09a31aa309d9d7f502/raw/buyitunes.js"><em>buyitunes.js</em></a></td><td>ddgksf2013</td>
     </tr>
 	<tr>
-		<td > 9</td> <td > 喜马拉雅解锁 </td> <td ><a href="https://raw.githubusercontent.com/misitechan/rewrite-gather/main/privilege/ximalayaVIP.js"><em>ximalayaVIP.js</em></a></td><td>GieGie777</td>
+		<td > 9</td> <td > 喜马拉雅解锁 </td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/privilege/ximalayaVIP.js"><em>ximalayaVIP.js</em></a></td><td>GieGie777</td>
     </tr>
 	<tr>
 		<td > 10 </td> <td > Emby解锁 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Function/EmbyPlugin.conf"><em>EmbyPlugin.conf</em></a></td><td>rartv</td>
     </tr>
 	<tr>
-		<td > 11 </td> <td > 微博VIP </td> <td ><a href="https://raw.githubusercontent.com/misitechan/rewrite-gather/main/privilege/weiboVIP.js"><em>weiboVIP.js</em></a></td><td>XiaoMao</td>
+		<td > 11 </td> <td > 微博VIP </td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/privilege/weiboVIP.js"><em>weiboVIP.js</em></a></td><td>XiaoMao</td>
     </tr>
 	<tr>
-		<td > 12 </td> <td > 网易云VIP </td> <td ><a href="https://raw.githubusercontent.com/misitechan/rewrite-gather/main/privilege/NeteaseMusicVipCrack.js"><em>weiboVIP.js</em></a></td><td>Hausd0rff</td>
+		<td > 12 </td> <td > 网易云VIP </td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/privilege/NeteaseMusicVipCrack.js"><em>weiboVIP.js</em></a></td><td>Hausd0rff</td>
     </tr>
 	<tr>
-		<td > 13 </td> <td > WPS VIP ●</td> <td ><a href="https://raw.githubusercontent.com/misitechan/rewrite-gather/main/privilege/WPSVIP.js"><em>WPS VIP.js</em></a></td><td>aXiaoMao</td>
+		<td > 13 </td> <td > WPS VIP ●</td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/privilege/WPSVIP.js"><em>WPS VIP.js</em></a></td><td>aXiaoMao</td>
     </tr>
 	<tr>
-		<td > 14 </td> <td > 知音漫客VIP </td> <td ><a href="https://raw.githubusercontent.com/misitechan/rewrite-gather/main/privilege/Zymh.js"><em>zymkVIP.js</em></a></td><td>admin</td>
+		<td > 14 </td> <td > 知音漫客VIP </td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/privilege/Zymh.js"><em>zymkVIP.js</em></a></td><td>admin</td>
     </tr>
 	<tr>
 		<td colspan="5">  </td>
@@ -187,7 +187,7 @@
 		<td > 12 </td> <td > VVebo修复用户时间线 </td> <td ><a href="https://raw.githubusercontent.com/bin64/Scripts/main/QuantumultX/vvebo.js"><em>vvebo.js</em></a></td><td>suiyuran</td>  
     </tr>
 	<tr>
-		<td > 13 </td> <td > Siri解锁全功能 ●</td> <td ><a href="https://raw.githubusercontent.com/misitechan/rewrite-gather/main/other/Siri.snippet"><em>Siri.js</em></a></td><td>iRingo</td>  
+		<td > 13 </td> <td > Siri解锁全功能 ●</td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/other/Siri.snippet"><em>Siri.js</em></a></td><td>iRingo</td>  
     </tr>
 	<tr>
 		<td colspan="5">  </td>
