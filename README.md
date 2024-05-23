@@ -91,7 +91,9 @@
 - 在使用过程中，如果遇到任何问题，请先查阅本仓库的 [FAQ](https://github.com/misitechan/Frequently-Asked-Questions/blob/main/README.md) 或在 [Issues](https://github.com/misitechan/-QuantumultX-/issues) 中搜索或提问。
 - 本仓库内容仅供学习和研究使用，不得用于任何商业用途。
 - 使用本仓库内容时，请遵守当地法律法规。
+- 更新日志
 
+要查看最新的更新和历史版本记录，请访问 [QuantumultX 历史版本存档](https://github.com/misitechan/-QuantumultX-/tree/main/historic%20version)。
 ## 7. 免责声明
 
 - 本仓库提供的所有内容均由用户自主收集和分享，作者不对使用过程中可能出现的任何问题承担责任。
