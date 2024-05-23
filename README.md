@@ -401,6 +401,8 @@ https://gh.idayer.com/
 </table>
 
 > 更多的重写请参考 [*@ddgksf2013*](https://github.com/ddgksf2013) 提供的 [***Quantumult X 重写配置***](https://github.com/ddgksf2013/Rewrite/tree/master)
+> 更多的重写请参考 [*@deezertidal*](https://github.com/deezertidal/QuantumultX-Rewrite) 提供的 [***Quantumult X 重写配置***](https://whatshub.top/quantumultx)
+
 
 ## 4️⃣QuantumultX 脚本Task：
 - [x] QX每日色图脚本 [*setu.js*](https://github.com/ddgksf2013/Scripts/raw/master/setu.js)
