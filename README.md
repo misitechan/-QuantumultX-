@@ -13,12 +13,12 @@
   - [注意事项](#Precautions1)
   - [其他贡献者教程](#Precautions3)
   - [自用QX配置](#Precautions2)
-- [更新日志](#Persona)
-- [贡献指南](#Persona)
-- [FAQ](#faq)
-- [免责声明](#Persona9)
-- [联系我们](#Persona)
-- [特别感谢](#Persona)
+- [更新日志](https://github.com/misitechan/-QuantumultX-/tree/main/historic%20version)
+- [贡献指南](https://github.com/misitechan/Frequently-Asked-Questions/issues)
+- [FAQ](https://github.com/misitechan/Frequently-Asked-Questions)
+- [免责声明](#7️⃣)
+- [联系我们](#Precautions5)
+- [特别感谢](#8️⃣特别感谢)
 
 ---
 
@@ -142,12 +142,12 @@ https://gh.idayer.com/
 - 另外，我们推荐[@Serdongchanyo](https://github.com/erdongchanyo) 提供的详细带图指南，它将帮助您更好地理解和使用Quantumult X：
 [**Quantumult X 小白系列教程**](https://github.com/erdongchanyo/Rules/blob/main/Quantumult%20X/README.md)
 
-## 9. 免责声明 <a name="Persona9"></a>
+## 9. 免责声明
 
 - 本仓库提供的所有内容均由用户自主收集和分享，作者不对使用过程中可能出现的任何问题承担责任。
 - 使用本仓库内容即表示您已阅读并同意 [免责声明](https://github.com/misitechan/-QuantumultX-)。
 
-## 10. 联系我们
+## 10. 联系我们 <a name="Precautions5"></a>
 
 如果您在使用过程中遇到任何问题或有任何建议，我们鼓励您通过以下渠道联系我们：
 - **GitHub Issues**: [提交问题](https://github.com/misitechan/-QuantumultX-/issues/new)
@@ -420,7 +420,7 @@ https://gh.idayer.com/
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 7️⃣ [免责声明](https://github.com/misitechan/-QuantumultX-) 
+## 7️⃣ [免责声明](https://github.com/misitechan/-QuantumultX-)  <a name="7️⃣"></a>
 ### 本仓库声明
 
 **本仓库**（以下简称“**本库**”）提供的所有信息、文档、脚本、配置文件（以下简称“**内容**”）均由用户自主收集、整理和分享，旨在为QuantumultX等工具的用户提供参考和便利。使用本库内容时，请用户自行承担风险，并遵守以下条款：
