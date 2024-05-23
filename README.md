@@ -4,10 +4,10 @@
 ## 目录
 
 - [简介](#introduction)
-- [使用说明](#使用说明)
-  - [准备工作](#准备工作)
-  - [下载配置文件](#下载配置文件)
-  - [导入配置文件至QuantumultX](#导入配置文件至QuantumultX)
+- [使用说明](#usage)
+  - [准备工作](#preparation)
+  - [下载配置文件](#download-configuration)
+  - [导入配置文件至QuantumultX](#Import configuration file)
   - [使用分流规则](#使用分流规则)
   - [复写规则使用](#复写规则使用)
 - [更新日志](#更新日志)
@@ -46,11 +46,11 @@
 如果您有任何疑问或建议，请通过[联系我们](#联系我们)部分提供的渠道与我们取得联系。
 
 
-## 1️⃣QuantumultX 自用配置：
+## 1️⃣QuantumultX 自用配置：<a name="usage"></a>
 **最后更新时间：2024-05-22**
 - 欢迎使用本仓库提供的QuantumultX配置和脚本资源。在开始使用之前，请仔细阅读以下指南以确保您能够正确并安全地使用本仓库提供的内容。
 
-## 1. 准备工作
+## 1. 准备工作  <a name="preparation"></a>
 
 在开始使用之前，请确保您已经满足以下条件：
 
@@ -58,7 +58,7 @@
 - 已安装[QuantumultX](https://apps.apple.com/us/app/quantumult-x/id1443988620)应用，并能够正常使用。
 - 理解基本的网络代理和分流概念。
 
-## 2. 下载配置文件
+## 2. 下载配置文件 <a name="download-configuration"></a>
 
 本仓库提供了多种配置文件，您可以根据需要下载：
 
@@ -67,7 +67,7 @@
 - 选择您需要的配置文件，例如 `Misitechan.conf`。
 - 点击文件名，然后点击 "Raw" 按钮，文件将自动下载到您的设备。
 
-## 3. 导入配置文件至QuantumultX
+## 3. 导入配置文件至QuantumultX <a name="Import configuration file"></a>
 
 - 打开QuantumultX应用。
 - 进入配置管理界面。
