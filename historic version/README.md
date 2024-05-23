@@ -9,7 +9,7 @@
 ### 变更
 - 2024-04-24 (66)：修复了用户反馈的开启running_mode后，在WiFi直连下，掌上银行或招商银行无法联网的问题。
 - 2024-03-21 (65)：由于广告屏蔽无法做到100%完美，故由墨鱼维护的Unbreak.list分流规则，用以修正误屏蔽的域名，请及时更新替换。
-- 2024-05-23 (64)：将广告屏蔽的分流规则链接更换为[新链接](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/ad%20guard/adblock.conf)。
+- 2024-05-23 (70)：将广告屏蔽的分流规则链接更换为[新链接](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/ad%20guard/adblock.conf)。
 
 ### 弃用
 - 暂无已弃用内容。
