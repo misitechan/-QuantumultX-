@@ -10,7 +10,11 @@
   - [导入配置文件至QuantumultX](#Import)
   - [使用分流规则](#Use)
   - [复写规则使用](#Replication)
-- [注意事项](#6)
+  - [注意事项](#Precautions6)
+  - [其他贡献者教程](#Personal)
+  - [免责声明](#Personal)
+  - [自用QX配置](#Personal)
+  - [联系我们](#Personal)
 - [更新日志](#更新日志)
 - [贡献指南](#贡献指南)
 - [FAQ](#faq)
@@ -93,14 +97,14 @@
 - 在QuantumultX中，进入复写规则管理界面。
 - 导入下载的复写规则文件。
 
-## 6. 注意事项
+## 6. 注意事项<a name="Precautions"></a>
 
 - 在使用过程中，如果遇到任何问题，请先查阅本仓库的 [FAQ](https://github.com/misitechan/Frequently-Asked-Questions/blob/main/README.md) 或在 [Issues](https://github.com/misitechan/-QuantumultX-/issues) 中搜索或提问。
 - 本仓库内容仅供学习和研究使用，不得用于任何商业用途。
 - 使用本仓库内容时，请遵守当地法律法规。
 - 要查看最新的更新和历史版本记录，请访问 [QuantumultX 历史版本存档](https://github.com/misitechan/-QuantumultX-/tree/main/historic%20version)。
 
-## 7. 自用QX配置
+## 7. 自用QX配置<a name="Personal"></a>
 
 - 我们提供了一个自用的QX配置文件，您可以通过以下链接访问并下载：
   [**Misitechan.conf**](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/Profile-gather/misitechan.conf)
