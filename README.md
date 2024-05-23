@@ -82,7 +82,18 @@
 - 选择 "导入" 功能，然后上传您刚才下载的配置文件。
 - 配置文件将被导入QuantumultX，您可以根据需要进行调整。
 
-## 4. 使用分流规则 <a name="Use"></a>
+## 4. 导入配置文件至QuantumultX <a name="Import"></a>
+- 如果再此之前已经生成并信任证书则 生成并配置证书这一步可选择忽略；
+- 进入 QuantumultX ，点击右下角 [三菱按钮]
+- 找到 [MitM] 模块 - 生成并配置证书📄
+- 进入QuantumultX，点击页面右下角三菱按钮，找到MinM模块，点击生成证书，提示生成成功，点击安装证书此时会跳转至 Safari，提示此网站...下载一个配置描述文件。您要允许吗？，点击允许，网页提示已下载描述文件；
+- 进入 iOS 系统设置- 通用-描述文件-已下载的描述文件-选中，并安装，输入密码...完成描述文件安装；
+- 进入 iOS 系统设置- 通用-关于本机-证书信任设置-针对根证书启用完全信任-选中刚刚安装的并启用即可；
+- 找到 [重写] 模块 - 开启按钮 🔘
+- 找到 [MitM] 模块 - 开启按钮 🔘
+⚠️ 点击安装证书需要在 Safari 打开，而不是在其他浏览器打开，否则会导致证书无法安装；
+
+## 5. 使用分流规则 <a name="Use"></a>
 
 本仓库还提供了多种分流规则，用于优化您的网络体验：
 
@@ -91,7 +102,7 @@
 - 在QuantumultX中，进入分流规则管理界面。
 - 导入下载的分流规则文件。
 
-## 5. 复写规则使用 <a name="Replication"></a>
+## 6. 复写规则使用 <a name="Replication"></a>
 
 复写规则可以解锁会员服务、屏蔽广告等：
 
@@ -100,14 +111,14 @@
 - 在QuantumultX中，进入复写规则管理界面。
 - 导入下载的复写规则文件。
 
-## 6. 注意事项<a name="Precautions1"></a>
+## 7. 注意事项<a name="Precautions1"></a>
 
 - 在使用过程中，如果遇到任何问题，请先查阅本仓库的 [FAQ](https://github.com/misitechan/Frequently-Asked-Questions/blob/main/README.md) 或在 [Issues](https://github.com/misitechan/-QuantumultX-/issues) 中搜索或提问。
 - 本仓库内容仅供学习和研究使用，不得用于任何商业用途。
 - 使用本仓库内容时，请遵守当地法律法规。
 - 要查看最新的更新和历史版本记录，请访问 [QuantumultX 历史版本存档](https://github.com/misitechan/-QuantumultX-/tree/main/historic%20version)。
 
-## 7. 自用QX配置<a name="Precautions2"></a>
+## 8. 自用QX配置<a name="Precautions2"></a>
 
 - 我们提供了一个自用的QX配置文件，您可以通过以下链接访问并下载：
   [**Misitechan.conf**](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/Profile-gather/misitechan.conf)
@@ -127,7 +138,7 @@
   - 流媒体解锁查询
   - 高德地图和知乎去广告等
 
-## 8. 其他贡献者教程<a name="Precautions3"></a>
+## 9. 其他贡献者教程<a name="Precautions3"></a>
 
 
 ### GitHub加速代理
@@ -147,12 +158,12 @@ https://gh.idayer.com/
 - 另外，我们推荐[@Serdongchanyo](https://github.com/erdongchanyo) 提供的详细带图指南，它将帮助您更好地理解和使用Quantumult X：
 [**Quantumult X 小白系列教程**](https://github.com/erdongchanyo/Rules/blob/main/Quantumult%20X/README.md)
 
-## 9. 免责声明
+## 10. 免责声明
 
 - 本仓库提供的所有内容均由用户自主收集和分享，作者不对使用过程中可能出现的任何问题承担责任。
 - 使用本仓库内容即表示您已阅读并同意 [免责声明](#7️⃣)。
 
-## 10. 联系我们 <a name="Precautions5"></a>
+## 11. 联系我们 <a name="Precautions5"></a>
 
 如果您在使用过程中遇到任何问题或有任何建议，我们鼓励您通过以下渠道联系我们：
 - **GitHub Issues**: [提交问题](https://github.com/misitechan/-QuantumultX-/issues/new)
