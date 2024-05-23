@@ -12,9 +12,9 @@
   - [复写规则使用](#Replication)
   - [注意事项](#Precautions6)
   - [其他贡献者教程](#Personal)
-  - [免责声明](#Personal)
-  - [自用QX配置](#Personal)
-  - [联系我们](#Personal)
+  - [免责声明](#Persona)
+  - [自用QX配置](#Persona)
+  - [联系我们](#Persona)
 - [更新日志](#Persona)
 - [贡献指南](#Persona)
 - [FAQ](#faq)
@@ -143,7 +143,7 @@ https://gh.idayer.com/
 - 另外，我们推荐[@Serdongchanyo](https://github.com/erdongchanyo) 提供的详细带图指南，它将帮助您更好地理解和使用Quantumult X：
 [**Quantumult X 小白系列教程**](https://github.com/erdongchanyo/Rules/blob/main/Quantumult%20X/README.md)
 
-## 9. 免责声明
+## 9. 免责声明 <a name="Persona"></a>
 
 - 本仓库提供的所有内容均由用户自主收集和分享，作者不对使用过程中可能出现的任何问题承担责任。
 - 使用本仓库内容即表示您已阅读并同意 [免责声明](https://github.com/misitechan/-QuantumultX-)。
