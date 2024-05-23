@@ -96,14 +96,8 @@
 
 - 本仓库提供的所有内容均由用户自主收集和分享，作者不对使用过程中可能出现的任何问题承担责任。
 - 使用本仓库内容即表示您已阅读并同意 [免责声明](https://github.com/misitechan/-QuantumultX-)。
-## 8. 联系我们
 
-如果您在使用过程中遇到任何问题或有任何建议，我们鼓励您通过以下渠道联系我们：
-
-- **GitHub Issues**: [提交问题](https://github.com/misitechan/-QuantumultX-/issues/new)
-- **电子邮件**: [电子邮件地址](chenjunf1147262614@gmail.com)
-
-### 自用QX配置
+## 8. 自用QX配置
 
 - 我们提供了一个自用的QX配置文件，您可以通过以下链接访问并下载：
   [**Misitechan.conf**](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/Profile-gather/misitechan.conf)
@@ -123,6 +117,8 @@
   - 流媒体解锁查询
   - 高德地图和知乎去广告等
 
+## 9. 其他贡献者教程
+
 ### GitHub加速代理
 
 - 为了加速GitHub的访问速度，您可以使用`ghproxy`服务。使用时，在GitHub raw链接前添加以下代理地址：
@@ -139,6 +135,13 @@ https://gh.idayer.com/
 
 - 另外，我们推荐[@Serdongchanyo](https://github.com/erdongchanyo) 提供的详细带图指南，它将帮助您更好地理解和使用Quantumult X：
 [**Quantumult X 小白系列教程**](https://github.com/erdongchanyo/Rules/blob/main/Quantumult%20X/README.md)
+
+## 10. 联系我们
+
+如果您在使用过程中遇到任何问题或有任何建议，我们鼓励您通过以下渠道联系我们：
+- **GitHub Issues**: [提交问题](https://github.com/misitechan/-QuantumultX-/issues/new)
+- **电子邮件**: [电子邮件地址](chenjunf1147262614@gmail.com)
+
 ## 2️⃣QuantumultX 分流：
 ## 分流规则列表
 
