@@ -203,6 +203,10 @@ https://gh.idayer.com/
 - **抖音IP分流**
   [DouYin.list](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/list-gather/DouYin.list)
 
+- **GitHub分流**
+  [GitHub.list](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/list-gather/GitHub.list)
+
+
 > 更多的分流请参考 [*@blackmatrix7*](https://github.com/blackmatrix7) 提供的 [***Quantumult X 分流***](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX)， [*@deezertidal*](https://github.com/deezertidal/QuantumultX-Rewrite) 提供的 [***Quantumult X 分流***](https://whatshub.top/rule)
 
 ## 3️⃣QuantumultX 复写：
