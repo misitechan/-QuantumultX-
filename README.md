@@ -10,7 +10,7 @@
   - [导入配置文件至QuantumultX](#Import)
   - [使用分流规则](#Use)
   - [复写规则使用](#Replication)
-  - [注意事项](#Precautions6)
+  - [注意事项](#Precautions)
   - [其他贡献者教程](#Personal)
   - [免责声明](#Persona)
   - [自用QX配置](#Persona)
@@ -104,7 +104,7 @@
 - 使用本仓库内容时，请遵守当地法律法规。
 - 要查看最新的更新和历史版本记录，请访问 [QuantumultX 历史版本存档](https://github.com/misitechan/-QuantumultX-/tree/main/historic%20version)。
 
-## 7. 自用QX配置<a name="Personal"></a>
+## 7. 自用QX配置<a name="Persona"></a>
 
 - 我们提供了一个自用的QX配置文件，您可以通过以下链接访问并下载：
   [**Misitechan.conf**](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/Profile-gather/misitechan.conf)
