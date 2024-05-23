@@ -140,11 +140,25 @@ https://gh.idayer.com/
 - 另外，我们推荐[@Serdongchanyo](https://github.com/erdongchanyo) 提供的详细带图指南，它将帮助您更好地理解和使用Quantumult X：
 [**Quantumult X 小白系列教程**](https://github.com/erdongchanyo/Rules/blob/main/Quantumult%20X/README.md)
 ## 2️⃣QuantumultX 分流：
-* 网易云音乐分流 [*NeteaseMusic.list*](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/list-gather/NeteaseMusic.list)
-* ChatGPT 分流 [*OpenAi.list*](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/list-gather/OpenAi.list)
-* 国内软件IP修改分流 [*Anti-ip.list*](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/list-gather/Anti-ip.list)
-* TikTok地区分流 [*TikTok.list*](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/list-gather/TikTok.list)
-* 抖音IP分流 [*DouYin.list*](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/list-gather/DouYin.list)
+## 分流规则列表
+
+获取以下分流规则，以优化您的网络体验和访问特定服务：
+
+- **网易云音乐分流**
+  [NeteaseMusic.list](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/list-gather/NeteaseMusic.list)
+
+- **ChatGPT 分流**
+  [OpenAi.list](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/list-gather/OpenAi.list)
+
+- **国内软件IP修改分流**
+  [Anti-ip.list](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/list-gather/Anti-ip.list)
+
+- **TikTok地区分流**
+  [TikTok.list](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/list-gather/TikTok.list)
+
+- **抖音IP分流**
+  [DouYin.list](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/list-gather/DouYin.list)
+  
 > 更多的分流请参考 [*@blackmatrix7*](https://github.com/blackmatrix7) 提供的 [***Quantumult X 分流***](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX)
 
 ## 3️⃣QuantumultX 复写：
