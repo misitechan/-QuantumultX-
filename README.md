@@ -1,4 +1,4 @@
-> ### 免责声明 (https://github.com/misitechan/-QuantumultX-)
+[***> ###免责声明***] (https://github.com/misitechan/-QuantumultX-)
 
 **本仓库**（以下简称“**本库**”）提供的所有信息、文档、脚本、配置文件（以下简称“**内容**”）均由用户自主收集、整理和分享，旨在为QuantumultX等工具的用户提供参考和便利。然而，使用本库内容时，用户应自行承担风险，并注意以下事项：
 
