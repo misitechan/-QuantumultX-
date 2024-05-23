@@ -167,7 +167,7 @@ https://gh.idayer.com/
 ## 3️⃣QuantumultX 复写：
 ## 分类与功能列表
 
-##  注意：带 ● 的需配合boxjs使用         
+###  注意：带 ● 的需配合boxjs使用         
 <table>
     <tr> <th> 类别 </th> <th> 序号 </th> <th> 功能 </th> <th> 链接 </th> <th> 作者 </th> </tr >
     <tr>
@@ -366,6 +366,7 @@ https://gh.idayer.com/
     </tr>
 </table>
 
+> 更多的重写请参考 [*@ddgksf2013*](https://github.com/ddgksf2013)  提供的 [***Quantumult X 重写配置***](https://github.com/ddgksf2013/Rewrite/tree/master)
 > 更多的重写请参考 [*@ddgksf2013*](https://github.com/ddgksf2013)  提供的 [***Quantumult X 重写配置***](https://github.com/ddgksf2013/Rewrite/tree/master)
 ## 4️⃣QuantumultX 脚本Task：
 - [x] QX每日色图脚本 [*setu.js*](https://github.com/ddgksf2013/Scripts/raw/master/setu.js)
