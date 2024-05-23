@@ -5,7 +5,7 @@
 
 - [简介](#简介)
 - [使用说明](#使用说明)
-  - [1.准备工作](#准备工作)
+  - [准备工作](#准备工作)
   - [下载配置文件](#下载配置文件)
   - [导入配置文件至QuantumultX](#导入配置文件至QuantumultX)
   - [使用分流规则](#使用分流规则)
@@ -45,8 +45,6 @@
 ### 联系我们
 如果您有任何疑问或建议，请通过[联系我们](#联系我们)部分提供的渠道与我们取得联系。
 
-### Logo
-![QuantumultX Logo](https://example.com/path-to-quantumultx-icon.png "QuantumultX Logo")
 
 ## 1️⃣QuantumultX 自用配置：
 **最后更新时间：2024-05-22**
