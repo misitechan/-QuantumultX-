@@ -88,7 +88,7 @@
 
 ## 6. 注意事项
 
-- 在使用过程中，如果遇到任何问题，请先查阅本仓库的 [FAQ](#) 或在 [Issues](https://github.com/misitechan/-QuantumultX-/issues) 中搜索或提问。
+- 在使用过程中，如果遇到任何问题，请先查阅本仓库的 [FAQ](https://github.com/misitechan/Frequently-Asked-Questions/blob/main/README.md) 或在 [Issues](https://github.com/misitechan/-QuantumultX-/issues) 中搜索或提问。
 - 本仓库内容仅供学习和研究使用，不得用于任何商业用途。
 - 使用本仓库内容时，请遵守当地法律法规。
 
