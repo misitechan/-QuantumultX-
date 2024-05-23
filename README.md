@@ -55,7 +55,7 @@
 
 
 ## 1️⃣QuantumultX 配置：<a name="usage"></a>
-**最后更新时间：2024-05-22**
+**最后更新时间：2024-05-23**
 - 欢迎使用本仓库提供的QuantumultX配置和脚本资源。在开始使用之前，请仔细阅读以下指南以确保您能够正确并安全地使用本仓库提供的内容。
 
 ## 1. 准备工作  <a name="preparation"></a>
@@ -150,7 +150,7 @@ https://gh.idayer.com/
 ## 9. 免责声明
 
 - 本仓库提供的所有内容均由用户自主收集和分享，作者不对使用过程中可能出现的任何问题承担责任。
-- 使用本仓库内容即表示您已阅读并同意 [免责声明](https://github.com/misitechan/-QuantumultX-)。
+- 使用本仓库内容即表示您已阅读并同意 [免责声明](#7️⃣-免责声明)。
 
 ## 10. 联系我们 <a name="Precautions5"></a>
 
@@ -170,7 +170,7 @@ https://gh.idayer.com/
 - **ChatGPT 分流**
   [OpenAi.list](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/list-gather/OpenAi.list)
 
-- **国内软件IP修改分流**
+- **中国大陆软件IP修改分流**
   [Anti-ip.list](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/list-gather/Anti-ip.list)
 
 - **TikTok地区分流**
