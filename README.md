@@ -49,7 +49,7 @@
 在开始使用之前，请确保您已经满足以下条件：
 
 - 拥有一个GitHub账号。
-- 已安装[QuantumultX](https://apps.apple.com/us/app/quantumult/id1252015438)应用，并能够正常使用。
+- 已安装[QuantumultX](https://apps.apple.com/us/app/quantumult-x/id1443988620)应用，并能够正常使用。
 - 理解基本的网络代理和分流概念。
 
 ## 2. 下载配置文件
