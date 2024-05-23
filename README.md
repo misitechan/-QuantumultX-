@@ -95,13 +95,13 @@
 ## 7. 免责声明
 
 - 本仓库提供的所有内容均由用户自主收集和分享，作者不对使用过程中可能出现的任何问题承担责任。
-- 使用本仓库内容即表示您已阅读并同意 [免责声明](https://github.com/misitechan/-QuantumultX-/blob/main/Malgarantio)。
+- 使用本仓库内容即表示您已阅读并同意 [免责声明](https://github.com/misitechan/-QuantumultX-)。
 ## 8. 联系我们
 
 如果您在使用过程中遇到任何问题或有任何建议，我们鼓励您通过以下渠道联系我们：
 
 - **GitHub Issues**: [提交问题](https://github.com/misitechan/-QuantumultX-/issues/new)
-- **电子邮件**: [您的电子邮件地址](mailto:your-email@example.com)
+- **电子邮件**: [电子邮件地址](chenjunf1147262614@gmail.com)
 
 ### 自用QX配置
 
