@@ -21,7 +21,72 @@
 通过使用本库内容，即表示用户已阅读、理解并同意上述免责声明。如有任何疑问或异议，请在继续使用前停止使用本库内容。
 
 ## 1️⃣QuantumultX 自用配置：
-* 配置更新时间：<strong>2024-05-22</strong>
+# 使用说明
+
+**最后更新时间：2024-05-22**
+
+欢迎使用本仓库提供的QuantumultX配置和脚本资源。在开始使用之前，请仔细阅读以下指南以确保您能够正确并安全地使用本仓库提供的内容。
+
+## 1. 准备工作
+
+在开始使用之前，请确保您已经满足以下条件：
+
+- 拥有一个GitHub账号。
+- 已安装QuantumultX应用，并能够正常使用。
+- 理解基本的网络代理和分流概念。
+
+## 2. 下载配置文件
+
+本仓库提供了多种配置文件，您可以根据需要下载：
+
+- 访问 [本仓库主页](https://github.com/misitechan/-QuantumultX-)。
+- 找到 `Profile-gather` 文件夹。
+- 选择您需要的配置文件，例如 `Misitechan.conf`。
+- 点击文件名，然后点击 "Raw" 按钮，文件将自动下载到您的设备。
+
+## 3. 导入配置文件至QuantumultX
+
+- 打开QuantumultX应用。
+- 进入配置管理界面。
+- 选择 "导入" 功能，然后上传您刚才下载的配置文件。
+- 配置文件将被导入QuantumultX，您可以根据需要进行调整。
+
+## 4. 使用分流规则
+
+本仓库还提供了多种分流规则，用于优化您的网络体验：
+
+- 访问 [分流规则文件夹](https://github.com/misitechan/-QuantumultX-/tree/main/list-gather)。
+- 下载您需要的分流规则文件，例如 `NeteaseMusic.list`。
+- 在QuantumultX中，进入分流规则管理界面。
+- 导入下载的分流规则文件。
+
+## 5. 复写规则使用
+
+复写规则可以解锁会员服务、屏蔽广告等：
+
+- 访问 [复写规则文件夹](https://github.com/misitechan/-QuantumultX-/tree/main/rewrite-gather)。
+- 下载您需要的复写规则文件。
+- 在QuantumultX中，进入复写规则管理界面。
+- 导入下载的复写规则文件。
+
+## 6. 注意事项
+
+- 在使用过程中，如果遇到任何问题，请先查阅本仓库的 [FAQ](#) 或在 [Issues](https://github.com/misitechan/-QuantumultX-/issues) 中搜索或提问。
+- 本仓库内容仅供学习和研究使用，不得用于任何商业用途。
+- 使用本仓库内容时，请遵守当地法律法规。
+
+## 7. 免责声明
+
+- 本仓库提供的所有内容均由用户自主收集和分享，作者不对使用过程中可能出现的任何问题承担责任。
+- 使用本仓库内容即表示您已阅读并同意 [免责声明](https://github.com/misitechan/-QuantumultX-)。
+
+## 8. 联系我们
+
+如果您有任何建议或需要帮助，可以通过以下方式联系我们：
+
+- GitHub Issues: [提交问题](https://github.com/misitechan/-QuantumultX-/issues/new)
+- 电子邮件: [您的电子邮件地址](mailto:your-email@example.com)
+
 * 自用QX配置 [***Misitechan.conf***](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/Profile-gather/misitechan.conf) 
 * 上述配置支持QX商店最新版，包括图标库订阅、各种VIP、网易云音乐解锁教程、旧版应用推荐、IOS更新屏蔽、智能分流、墨鱼去开屏2.0、各种APP净化、Boxjs订阅、流媒体解锁查询、高德地图知乎去广告...
 * 可借助 ghproxy 为 GitHub 加速：在 ```https://raw.githubusercontent.com/``` 前添加 ```https://gh.idayer.com/```
