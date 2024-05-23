@@ -103,7 +103,7 @@
 - 使用本仓库内容时，请遵守当地法律法规。
 - 要查看最新的更新和历史版本记录，请访问 [QuantumultX 历史版本存档](https://github.com/misitechan/-QuantumultX-/tree/main/historic%20version)。
 
-## 7. 自用QX配置<a name="#Personal"></a>
+## 7. 自用QX配置<a name="Precautions"></a>
 
 - 我们提供了一个自用的QX配置文件，您可以通过以下链接访问并下载：
   [**Misitechan.conf**](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/Profile-gather/misitechan.conf)
