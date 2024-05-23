@@ -79,16 +79,49 @@
 
 - 本仓库提供的所有内容均由用户自主收集和分享，作者不对使用过程中可能出现的任何问题承担责任。
 - 使用本仓库内容即表示您已阅读并同意 [免责声明](https://github.com/misitechan/-QuantumultX-)。
-
 ## 8. 联系我们
-* 自用QX配置 [***Misitechan.conf***](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/Profile-gather/misitechan.conf) 
-* 上述配置支持QX商店最新版，包括图标库订阅、各种VIP、网易云音乐解锁教程、旧版应用推荐、IOS更新屏蔽、智能分流、墨鱼去开屏2.0、各种APP净化、Boxjs订阅、流媒体解锁查询、高德地图知乎去广告...
-* 可借助 ghproxy 为 GitHub 加速：在 ```https://raw.githubusercontent.com/``` 前添加 ```https://gh.idayer.com/```
-* <strong>BoxJs</strong> 教程请参考[*@limboprossr*](https://t.me/limboprossr) 提供的 [***BoxJS 安装及订阅***](https://limbopro.com/archives/19265.html)
-如果您有任何建议或需要帮助，可以通过以下方式联系我们：
-- GitHub Issues: [提交问题](https://github.com/misitechan/-QuantumultX-/issues/new)
-- 电子邮件: [您的电子邮件地址](mailto:your-email@example.com)
-> 详细的带图指南请参考 [*@Serdongchanyo*](https://github.com/erdongchanyo) 提供的 [***Quantumult X 小白系列教程***](https://github.com/erdongchanyo/Rules/blob/main/Quantumult%20X/README.md)
+
+如果您在使用过程中遇到任何问题或有任何建议，我们鼓励您通过以下渠道联系我们：
+
+- **GitHub Issues**: [提交问题](https://github.com/misitechan/-QuantumultX-/issues/new)
+- **电子邮件**: [您的电子邮件地址](mailto:your-email@example.com)
+
+### 自用QX配置
+
+- 我们提供了一个自用的QX配置文件，您可以通过以下链接访问并下载：
+  [**Misitechan.conf**](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/Profile-gather/misitechan.conf)
+
+### 配置详情
+
+- 上述配置文件支持QX商店最新版，并包含以下功能：
+  - 图标库订阅
+  - 各种VIP服务
+  - 网易云音乐解锁教程
+  - 旧版应用推荐
+  - iOS更新屏蔽
+  - 智能分流
+  - 墨鱼去开屏2.0
+  - 各种APP净化
+  - Boxjs订阅
+  - 流媒体解锁查询
+  - 高德地图和知乎去广告等
+
+### GitHub加速代理
+
+- 为了加速GitHub的访问速度，您可以使用`ghproxy`服务。使用时，在GitHub raw链接前添加以下代理地址：
+https://gh.idayer.com/
+
+例如，将 `https://raw.githubusercontent.com/` 替换为 `https://gh.idayer.com/`
+
+### BoxJs教程
+
+- 如果您需要BoxJs的安装及订阅教程，可以参考[@limboprossr](https://t.me/limboprossr) 提供的指南：
+[**BoxJS 安装及订阅**](https://limbopro.com/archives/19265.html)
+
+### 带图指南
+
+- 另外，我们推荐[@Serdongchanyo](https://github.com/erdongchanyo) 提供的详细带图指南，它将帮助您更好地理解和使用Quantumult X：
+[**Quantumult X 小白系列教程**](https://github.com/erdongchanyo/Rules/blob/main/Quantumult%20X/README.md)
 ## 2️⃣QuantumultX 分流：
 * 网易云音乐分流 [*NeteaseMusic.list*](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/list-gather/NeteaseMusic.list)
 * ChatGPT 分流 [*OpenAi.list*](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/list-gather/OpenAi.list)
