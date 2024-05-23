@@ -7,9 +7,9 @@
 - [使用说明](#usage)
   - [准备工作](#preparation)
   - [下载配置文件](#download-configuration)
-  - [导入配置文件至QuantumultX](#Import configuration file)
-  - [使用分流规则](#使用分流规则)
-  - [复写规则使用](#复写规则使用)
+  - [导入配置文件至QuantumultX](#Import)
+  - [使用分流规则](#Use)
+  - [复写规则使用](#Replication)
 - [更新日志](#更新日志)
 - [贡献指南](#贡献指南)
 - [FAQ](#faq)
@@ -67,14 +67,14 @@
 - 选择您需要的配置文件，例如 `Misitechan.conf`。
 - 点击文件名，然后点击 "Raw" 按钮，文件将自动下载到您的设备。
 
-## 3. 导入配置文件至QuantumultX <a name="Import configuration file"></a>
+## 3. 导入配置文件至QuantumultX <a name="Import"></a>
 
 - 打开QuantumultX应用。
 - 进入配置管理界面。
 - 选择 "导入" 功能，然后上传您刚才下载的配置文件。
 - 配置文件将被导入QuantumultX，您可以根据需要进行调整。
 
-## 4. 使用分流规则
+## 4. 使用分流规则 <a name="Use"></a>
 
 本仓库还提供了多种分流规则，用于优化您的网络体验：
 
@@ -83,7 +83,7 @@
 - 在QuantumultX中，进入分流规则管理界面。
 - 导入下载的分流规则文件。
 
-## 5. 复写规则使用
+## 5. 复写规则使用 <a name="Replication"></a>
 
 复写规则可以解锁会员服务、屏蔽广告等：
 
