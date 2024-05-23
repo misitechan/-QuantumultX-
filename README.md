@@ -32,14 +32,14 @@
 在开始使用之前，请确保您已经满足以下条件：
 
 - 拥有一个GitHub账号。
-- 已安装QuantumultX应用，并能够正常使用。
+- 已安装[QuantumultX](https://apps.apple.com/us/app/quantumult/id1252015438)应用，并能够正常使用。
 - 理解基本的网络代理和分流概念。
 
 ## 2. 下载配置文件
 
 本仓库提供了多种配置文件，您可以根据需要下载：
 
-- 访问 [本仓库主页](https://github.com/misitechan/-QuantumultX-)。
+- 访问 [配置仓库主页](https://github.com/misitechan/-QuantumultX-/tree/main/Profile-gather)。
 - 找到 `Profile-gather` 文件夹。
 - 选择您需要的配置文件，例如 `Misitechan.conf`。
 - 点击文件名，然后点击 "Raw" 按钮，文件将自动下载到您的设备。
@@ -81,17 +81,13 @@
 - 使用本仓库内容即表示您已阅读并同意 [免责声明](https://github.com/misitechan/-QuantumultX-)。
 
 ## 8. 联系我们
-
-如果您有任何建议或需要帮助，可以通过以下方式联系我们：
-
-- GitHub Issues: [提交问题](https://github.com/misitechan/-QuantumultX-/issues/new)
-- 电子邮件: [您的电子邮件地址](mailto:your-email@example.com)
-
 * 自用QX配置 [***Misitechan.conf***](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/Profile-gather/misitechan.conf) 
 * 上述配置支持QX商店最新版，包括图标库订阅、各种VIP、网易云音乐解锁教程、旧版应用推荐、IOS更新屏蔽、智能分流、墨鱼去开屏2.0、各种APP净化、Boxjs订阅、流媒体解锁查询、高德地图知乎去广告...
 * 可借助 ghproxy 为 GitHub 加速：在 ```https://raw.githubusercontent.com/``` 前添加 ```https://gh.idayer.com/```
-* 更多懒人配置合集 [***Click me***](https://github.com/misitechan/-QuantumultX-/tree/main/Profile-gather)
-* <strong>boxjs</strong> 教程请参考[*@limboprossr*](https://t.me/limboprossr) 提供的 [***BoxJS 安装及订阅***](https://limbopro.com/archives/19265.html)
+* <strong>BoxJs</strong> 教程请参考[*@limboprossr*](https://t.me/limboprossr) 提供的 [***BoxJS 安装及订阅***](https://limbopro.com/archives/19265.html)
+如果您有任何建议或需要帮助，可以通过以下方式联系我们：
+- GitHub Issues: [提交问题](https://github.com/misitechan/-QuantumultX-/issues/new)
+- 电子邮件: [您的电子邮件地址](mailto:your-email@example.com)
 > 详细的带图指南请参考 [*@Serdongchanyo*](https://github.com/erdongchanyo) 提供的 [***Quantumult X 小白系列教程***](https://github.com/erdongchanyo/Rules/blob/main/Quantumult%20X/README.md)
 ## 2️⃣QuantumultX 分流：
 * 网易云音乐分流 [*NeteaseMusic.list*](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/list-gather/NeteaseMusic.list)
