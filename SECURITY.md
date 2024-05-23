@@ -5,11 +5,11 @@ Thank you for your interest in [QuantumultX-misitechan] security. This policy ou
 Reporting Security Vulnerabilities
 We take the reporting of security vulnerabilities seriously. Please follow the steps below to report any security issues you discover:
 
-Determine Scope: Make sure the issue you are reporting is part of [Project Name] and is a security issue.
+Determine Scope: Make sure the issue you are reporting is part of [QuantumultX-misitechan] and is a security issue.
 
 Gather Information: Gather detailed information about the security issue, including steps taken to reproduce it, a description of the impact, and any logs or screenshots.
 
-Send Report: Send your report to our security email address [security team email address]. Your report should include the following information:
+Send Report: Send your report to our security email address [chenjunf1147262614@gmail.com]. Your report should include the following information:
 
 A detailed description of the problem
 Steps on how to reproduce the problem
