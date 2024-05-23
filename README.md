@@ -19,7 +19,7 @@
 - [贡献指南](#Persona)
 - [FAQ](#faq)
 - [免责声明](#Persona
-- [联系我们](#联系我们)
+- [联系我们](#Persona)
 - [特别感谢](#Persona)
 
 ---
