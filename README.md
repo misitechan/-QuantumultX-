@@ -12,13 +12,12 @@
   - [复写规则使用](#Replication)
   - [注意事项](#Precautions)
   - [其他贡献者教程](#Personal)
-  - [免责声明](#Persona9)
   - [自用QX配置](#Persona)
   - [联系我们](#Persona)
 - [更新日志](#Persona)
 - [贡献指南](#Persona)
 - [FAQ](#faq)
-- [免责声明](#Persona
+- [免责声明](#Persona9)
 - [联系我们](#Persona)
 - [特别感谢](#Persona)
 
