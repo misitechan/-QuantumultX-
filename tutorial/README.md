@@ -41,7 +41,7 @@ IOS 端开屏广告屏蔽 Demo，以「看天下」为例。
 
 
 ### 找到开屏广告的响应请求后，我们只需屏蔽它即可，对于小编经常使用的QuantumultX 工具，其广告屏蔽方式如下：
-<span style="background-color: #333333; color: #ffffff; padding: 2px 4px; border-radius: 4px;">
+<span style="background-color: #333333; color: #ffffff; padding: 20px 40px; border-radius: 10px;">
 [rewrite_local] <br>
 ^https?:\/\/open3\.vistastory\.com\/v\d\/api\/index\/loading_ad url reject  <br>
 [mitm]  <br>
