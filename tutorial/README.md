@@ -36,9 +36,8 @@ IOS 端开屏广告屏蔽 Demo，以「看天下」为例。
 - 定位`https://open3.vistastory.com/v3/api/index/loading_ad2`并屏蔽。
 
 <p float="left">
-  <img src="https://github.com/misitechan/-QuantumultX-/blob/37edc88d567796d0300982963099b5fb20107f53/images/642.png" width="350" />
-  <img src="https://github.com/misitechan/-QuantumultX-/blob/37edc88d567796d0300982963099b5fb20107f53/images/643.png" width="350" />
-</p>
+  <img src="https://github.com/misitechan/-QuantumultX-/blob/63cd69edd55a8634503516b463f7e2a3e789992c/images/642.png" width="350" />
+  <img src="https://github.com/misitechan/-QuantumultX-/blob/63cd69edd55a8634503516b463f7e2a3e789992c/images/643.png
 
 ### 捷径断网去广告
 在app打开瞬间关闭无线网络和蜂窝数据，等待一秒后再次打开，以跳过开屏广告。
