@@ -27,12 +27,13 @@ IOS 端开屏广告屏蔽 Demo，以「看天下」为例。
 首先使用抓包软件对应用进行**全局抓包**，这里使用的是 Http Catcher，当前也可使用免费的 Stream 软件，当开屏广告出现 1~2 秒后，完全退出应用，返回抓包软件。
 
 分析相关域名，并寻找开屏广告图片的 URL，进行全局搜索，定位其是由哪个请求返回的，即在响应体中找对应域名。
-#### 示例
-- 定位`https://open3.vistastory.com/v3/api/index/loading_ad2`并屏蔽。
 <p float="left">
   <img src="https://github.com/misitechan/-QuantumultX-/blob/37edc88d567796d0300982963099b5fb20107f53/images/640.png" width="350" />
   <img src="https://github.com/misitechan/-QuantumultX-/blob/37edc88d567796d0300982963099b5fb20107f53/images/641.png" width="350" />
 </p>
+
+#### 示例
+- 定位`https://open3.vistastory.com/v3/api/index/loading_ad2`并屏蔽。
 
 
 ### 捷径断网去广告
