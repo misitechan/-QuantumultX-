@@ -1,11 +1,5 @@
 # 屏蔽APP开屏广告指南
 
-## 碎碎语
-很多用户在公众号后台询问如何去除APP的开屏广告，手动跳过广告时容易误点。本文将介绍如何有效减少Android和iOS端应用开屏广告的打扰。
-
-## 开屏广告简介
-开屏广告是在App启动时展示5秒的可感知广告，用户可以点击跳转到目标页面或点击右上角的“跳过”按钮跳转到App内容首页。
-
 ## Android端
 ### 李跳跳
 李跳跳是一款启动广告跳过软件，通过模拟人手指点击开屏广告右上角的“跳过广告”按钮来实现瞬间跳过广告。
@@ -44,11 +38,22 @@ IOS 端开屏广告屏蔽 Demo，以「看天下」为例。
 <p float="left">
   <img src="https://github.com/misitechan/-QuantumultX-/blob/63cd69edd55a8634503516b463f7e2a3e789992c/images/642.png" width="350" />
   <img src="https://github.com/misitechan/-QuantumultX-/blob/63cd69edd55a8634503516b463f7e2a3e789992c/images/643.png" width="350" />
-### 捷径断网去广告
-在app打开瞬间关闭无线网络和蜂窝数据，等待一秒后再次打开，以跳过开屏广告。
+
+
+### 找到开屏广告的响应请求后，我们只需屏蔽它即可，对于小编经常使用的QuantumultX 工具，其广告屏蔽方式如下：
+<span style="background-color: #cccccc; padding: 2px 4px; border-radius: 3px;">[rewrite_local]
+^https?:\/\/open3\.vistastory\.com\/v\d\/api\/index\/loading_ad url reject
+[mitm]
+hostname=open3.vistastory.com</span>
+
+
+- 广告屏蔽规则写好后，就可以测试下规则的有效性，看其能否屏蔽开屏广告（由于广告的缓存机制，在多数情况下，应用需要卸载重新安装）。
+
 
 ### 捷径轻启动
-使用快捷指令和URL Scheme无广告打开应用。
+在iOS中，URL Scheme是一种允许应用程序通过URL调用其他应用程序的机制。通过URL Scheme，你可以从一个应用程序跳转到另一个应用程序，并且可以传递一些数据。这对于在不同应用之间进行集成和交互非常有用[文字来源于ChatGPT]。
+
+步骤：使用快捷指令，创建打开URL命令，将AppScheme输入，并将改捷径命名为需要打开APP的软件名，建议提前找好软件图标，将捷径添加到主屏幕，更改图标，返回桌面点击启动，点击同意权限，之后便可无广告打开应用，友情提醒，此方法不会随着应用的更新而失效。
 
 #### AppScheme资源
 - [AppScheme GitHub库](https://github.com/ddgksf2013/AppScheme)
