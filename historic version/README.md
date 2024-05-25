@@ -2,6 +2,9 @@
 
 ## [2.0] - 2024-05-23
 ### 新增
+- 2024-05-24 (74)：增加了更新文档指引。
+- 2024-05-25 (73)：增加了各类软件app去除开屏广告的教程，详见。
+- 2024-05-25 (72)：增加了腾讯视频去开屏广告，由misitechan维护。
 - 2024-05-24 (71)：增加了GitHub单独分流规则。
 - 2024-05-20 (69)：增加了Siri解锁全功能，需要[boxjs](https://boxjs.com)支持，不熟悉配置的用户请勿开启。
 - 2024-05-20 (68)：增加了多个VIP解锁功能，详情请查看[QuantumultX复写](https://github.com/misitechan/-QuantumultX-/tree/main?tab=readme-ov-file#3%EF%B8%8F%E2%83%A3quantumultx-%E5%A4%8D%E5%86%99)。
