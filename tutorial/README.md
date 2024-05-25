@@ -5,22 +5,20 @@
 李跳跳·派大星是一款启动广告跳过软件，通过模拟人手指点击开屏广告右上角的“跳过广告”按钮来实现瞬间跳过广告。
 
 #### 安装与使用
-1. 下载李跳跳·派大星。
-2. 打开手机的无障碍权限。
-3. 在李跳跳设置中找到需要屏蔽广告的APP，并打开开关。
+1. 下载李跳跳APP。
+2. 打开手机的**无障碍权限**。
+3. 导入去开屏广告规则。
+4. 在李跳跳设置中找到需要屏蔽广告的APP，并打开开关。
 
 #### 附加功能
 - 自动跳过网易云、抖音的更新弹窗。
 - 支持自定义规则跳过任意弹窗。
 
-#### 下载地址
-- [李跳跳·派大星 APK](https://wwa.lanzoui.com/b00um9rih) 密码: 65c9
-
-### SKIP
-另一种自动跳过启动页广告的工具。
 
 #### 下载地址
-- [SKIP on GitHub](https://github.com/GuoXiCheng/SKIP/releases)
+- [李跳跳APK](https://wwa.lanzoui.com/b00um9rih) 密码: 65c9 
+- [李跳跳去除开屏广告规则](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/tutorial/ltt_regulation.txt)
+
 
 ## iOS端
 ### 抓包去广告
