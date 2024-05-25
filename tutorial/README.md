@@ -29,8 +29,11 @@ IOS 端开屏广告屏蔽 Demo，以「看天下」为例。
 分析相关域名，并寻找开屏广告图片的 URL，进行全局搜索，定位其是由哪个请求返回的，即在响应体中找对应域名。
 #### 示例
 - 定位`https://open3.vistastory.com/v3/api/index/loading_ad2`并屏蔽。
-![示例图片](https://github.com/misitechan/-QuantumultX-/blob/main/images/640.png)
-![示例图片](https://github.com/misitechan/-QuantumultX-/blob/main/images/641.png)
+<p float="left">
+  <img src="-QuantumultX-/images/640.png" width="200" />
+  <img src="-QuantumultX-/images/641.png" width="200" />
+</p>
+
 
 ### 捷径断网去广告
 在app打开瞬间关闭无线网络和蜂窝数据，等待一秒后再次打开，以跳过开屏广告。
