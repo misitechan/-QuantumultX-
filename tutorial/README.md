@@ -1,5 +1,5 @@
-# 屏蔽APP开屏广告指南
 
+# 屏蔽APP开屏广告指南
 ## Android端
 ### 李跳跳
 李跳跳是一款启动广告跳过软件，通过模拟人手指点击开屏广告右上角的“跳过广告”按钮来实现瞬间跳过广告。
@@ -41,13 +41,12 @@ IOS 端开屏广告屏蔽 Demo，以「看天下」为例。
 
 
 ### 找到开屏广告的响应请求后，我们只需屏蔽它即可，对于小编经常使用的QuantumultX 工具，其广告屏蔽方式如下：
-<span style="background-color: #333333; color: #ffffff; padding: 20px 40px; border-radius: 10px;">
+::: danger
 [rewrite_local] <br>
 ^https?:\/\/open3\.vistastory\.com\/v\d\/api\/index\/loading_ad url reject  <br>
 [mitm]  <br>
 hostname=open3.vistastory.com <br>
-</span>
-
+:::
 
 
 - 广告屏蔽规则写好后，就可以测试下规则的有效性，看其能否屏蔽开屏广告（由于广告的缓存机制，在多数情况下，应用需要卸载重新安装）。
