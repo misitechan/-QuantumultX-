@@ -168,7 +168,7 @@ https://gh.idayer.com/
 ### 更多去开屏广告教程
 
 - 如果您需要更多的iOS和Android去开屏广告教程，可以参考[@dgksf2013](https://github.com/ddgksf2013) 提供的：
-[**如何有效减少Android、IOS端应用开屏广告的打扰**](https://limbopro.com/archives/19265.html)
+[**如何有效减少Android、IOS端应用开屏广告的打扰**](https://mp.weixin.qq.com/s/DOwEQs4Z7eFpGWOVAO-2QA)
 
 ### Quantumult X 视频指南
 
