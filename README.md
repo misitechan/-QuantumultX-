@@ -153,7 +153,6 @@
 
 ## 9. 其他贡献者教程<a name="Precautions3"></a>
 
-
 ### GitHub加速代理
 
 - 为了加速GitHub的访问速度，您可以使用`ghproxy`服务。使用时，在GitHub raw链接前添加以下代理地址：
@@ -166,9 +165,14 @@ https://gh.idayer.com/
 - 如果您需要BoxJs的安装及订阅教程，可以参考[@limboprossr](https://t.me/limboprossr) 提供的指南：
 [**BoxJS 安装及订阅**](https://limbopro.com/archives/19265.html)
 
-### 带图指南
+### 更多去开屏广告教程
 
-- 另外，我们推荐[@Serdongchanyo](https://github.com/erdongchanyo) 提供的详细带图指南，它将帮助您更好地理解和使用Quantumult X：
+- 如果您需要更多的iOS和Android去开屏广告教程，可以参考[@dgksf2013](https://github.com/ddgksf2013) 提供的：
+[**如何有效减少Android、IOS端应用开屏广告的打扰**](https://limbopro.com/archives/19265.html)
+
+### Quantumult X 视频指南
+
+- 另外，我们推荐[@Serdongchanyo](https://github.com/erdongchanyo) 提供的详细视频指南，它将帮助您更好地理解和使用Quantumult X：
 [**Quantumult X 小白系列教程**](https://github.com/erdongchanyo/Rules/blob/main/Quantumult%20X/README.md)
 
 ## 10. 免责声明
