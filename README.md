@@ -381,7 +381,7 @@ https://gh.idayer.com/
 		<td > 10 </td> <td > <strong>阿里云盘倍速</strong> </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/f4752e632fd3375ea2811985c5b635dc/raw/alicloud.js"><em>alicloud.js</em></a></td><td>ddgksf2013</td><td>2024.5.23</td>
     </tr>
 	<tr>
-		<td > 11 </td> <td > Spotify歌词翻译 ●</td> <td ><a href="https://raw.githubusercontent.com/app2smile/rules/master/js/spotify-lyric.js"><em>spotify-lyric.js</em></a></td><td>app2smile</td><td>2024.5.23</td>
+		<td > 11 </td> <td > Spotify歌词翻译 [需要API] ●</td> <td ><a href="https://raw.githubusercontent.com/app2smile/rules/master/js/spotify-lyric.js"><em>spotify-lyric.js</em></a></td><td>app2smile</td><td>2024.5.23</td>
     </tr>
 	<tr>
 		<td > 12 </td> <td > VVebo修复用户时间线 </td> <td ><a href="https://raw.githubusercontent.com/bin64/Scripts/main/QuantumultX/vvebo.js"><em>vvebo.js</em></a></td><td>suiyuran</td>  <td>2024.5.23</td>
