@@ -2,6 +2,7 @@
 
 ## [2.0] - 2024-05-23
 ### 新增
+- 2024-05-26 (76)：增加了懒人听书解锁VIP。
 - 2024-05-26 (75)：增加了英国，韩国和其他冷门节点策略，优化了代码方便阅读。
 - 2024-05-25 (74)：增加了更新文档指引[更新日志](https://github.com/misitechan/-QuantumultX-/blob/main/historic%20version/README.md)。
 - 2024-05-25 (73)：增加了各类软件app去除开屏广告的教程，详见[屏蔽APP开屏广告指南](https://github.com/misitechan/-QuantumultX-/blob/main/tutorial/README.md)。
