@@ -219,7 +219,7 @@ https://gh.idayer.com/
     <tr> <th> 类别 </th> <th> 序号 </th> <th> 功能 </th> <th> 链接 </th> <th> 作者 </th> <th> 更新日期 </th></tr >
     <tr>
 		<td rowspan="15"><strong>会员解锁</strong></td>
-		<td > 1</td> <td > 哔哩哔哩广告净化</td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Bilibili.conf"><em>BilibiliVip.conf</em></a></td><td>ddgksf2013</td><td>2024.5.23</td>
+		<td > 1 </td> <td > 哔哩哔哩广告净化</td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Bilibili.conf"><em>BilibiliVip.conf</em></a></td><td>ddgksf2013</td><td>2024.5.23</td>
     </tr>	
 	<tr>
 		<td > 2 </td> <td > Spotify会员 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/UnlockVip/Spotify.conf"><em>SpotifyPro.conf</em></a></td><td>app2smile
@@ -268,7 +268,7 @@ https://gh.idayer.com/
 		<td colspan="5">  </td>
     </tr>
     <tr>
-		<td rowspan="26"><strong>广告屏蔽</strong></td>
+		<td rowspan="27"><strong>广告屏蔽</strong></td>
 		<td > 1 </td> <td > 微信小程序去广告 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Applet.conf"><em>Applet.conf</em></a></td><td>ddgksf2013</td><td>2024.5.23</td>
     </tr>
     <tr>
@@ -343,8 +343,11 @@ https://gh.idayer.com/
 	<tr>
 		<td > 25 </td> <td > 什么值得买 </td> <td ><a href="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_remove_ads.qxrewrite"><em>smzdmAds.conf</em></a></td><td>blackmatrix7</td>  <td>2024.5.23</td>
     </tr>
-			<tr>
+	<tr>
 		<td > 26 </td> <td > 微信阅读精简 </td> <td ><a href="https://raw.githubusercontent.com/Maasea/sgmodule/master/WeRead.sgmodule"><em>WeRead.sgmodule</em></a></td><td>Maasea</td><td>2024.5.23</td>  
+    </tr>
+	<tr>
+		<td > 27 </td> <td > 去广告合集 </td> <td ><a href="https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/rewrite/chongxie.txt"><em>chongxie.txt</em></a></td><td>fmz200</td><td>2024.6.02</td>  
     </tr>
 	<tr>
 		<td colspan="5">  </td>
