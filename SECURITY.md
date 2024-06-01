@@ -9,7 +9,7 @@ Determine Scope: Make sure the issue you are reporting is part of [QuantumultX-m
 
 Gather Information: Gather detailed information about the security issue, including steps taken to reproduce it, a description of the impact, and any logs or screenshots.
 
-Send Report: Send your report to our security email address [chenjunf1147262614@gmail.com]. Your report should include the following information:
+Send Report: Send your report to our security email address [connect](chenjunf1147262614@gmail.com). Your report should include the following information:
 
 A detailed description of the problem
 Steps on how to reproduce the problem
