@@ -175,6 +175,11 @@ https://gh.idayer.com/
 - 另外，我们推荐[@Serdongchanyo](https://github.com/erdongchanyo) 提供的详细视频指南，它将帮助您更好地理解和使用Quantumult X：
 [**Quantumult X 小白系列教程**](https://github.com/erdongchanyo/Rules/blob/main/Quantumult%20X/README.md)
 
+### 解锁网易云音乐教程
+
+- 如果您需要解锁网易云音乐，可以参考[@dgksf2013](https://github.com/ddgksf2013) 提供的：
+[**利用QuantumultX解锁网易云付费及非版权音乐**](https://mp.weixin.qq.com/s/ca6U1O2FTfcqzL7TnJ04IQ)
+
 ## 10. 免责声明
 
 - 本仓库提供的所有内容均由用户自主收集和分享，作者不对使用过程中可能出现的任何问题承担责任。
