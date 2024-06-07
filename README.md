@@ -1,4 +1,5 @@
 # 使用说明
+
 # QuantumultX 配置仓库
 
 ## 目录
@@ -34,28 +35,34 @@
 欢迎来到QuantumultX配置仓库！这是一个专为QuantumultX用户设计的资源集合，旨在提供定制化的网络配置和脚本，优化您的网络体验和日常使用便利性。
 
 ### 特点
+
 - **定制化配置**：提供个性化的QuantumultX配置文件，满足不同用户的需求。
 - **持续更新**：定期更新配置文件，确保与QuantumultX的最新版本兼容。
 - **丰富功能**：包括但不限于广告屏蔽、VIP服务解锁、智能分流等高级功能。
 - **社区驱动**：鼓励社区成员贡献和分享他们的配置和脚本，共同提升用户体验。
 
 ### 使用场景
+
 - **个人使用**：提升个人设备上的QuantumultX性能和定制化程度。
 - **学习和研究**：作为学习和研究QuantumultX及其脚本功能的资源库。
 - **社区贡献**：为QuantumultX社区贡献力量，分享您的创意和改进。
 
 ### 如何开始
+
 按照我们的[使用说明](#usage)部分，您可以快速开始下载和应用这些配置到您的QuantumultX应用中。
 
 ### 参与贡献
+
 我们非常欢迎任何形式的贡献，包括但不限于提交新的配置脚本、改进现有脚本、修复问题或完善文档。请查看我们的[贡献指南](https://github.com/misitechan/Frequently-Asked-Questions/issues)以获取更多信息。
 
 ### 联系我们
+
 如果您有任何疑问或建议，请通过[联系我们](#Precautions5)部分提供的渠道与我们取得联系。
 
-
 ## 1️⃣QuantumultX 配置：<a name="usage"></a>
+
 **最后更新时间：2024-06-02**
+
 - 欢迎使用本仓库提供的QuantumultX配置和脚本资源。在开始使用之前，请仔细阅读以下指南以确保您能够正确并安全地使用本仓库提供的内容。
 
 ## 1. 准备工作  <a name="preparation"></a>
@@ -142,43 +149,43 @@
   - 图标库订阅
   - 各种VIP服务
   - 网易云音乐解锁教程
-  - 旧版应用推荐
   - iOS更新屏蔽
   - 智能分流
   - 墨鱼去开屏2.0
   - 各种APP净化
   - Boxjs订阅
   - 流媒体解锁查询
-  - 高德地图和知乎去广告等
+  - 高德地图和知乎去广告
+  - 节点信息查询
 
 ## 9. 其他贡献者教程<a name="Precautions3"></a>
 
 ### GitHub加速代理
 
 - 为了加速GitHub的访问速度，您可以使用`ghproxy`服务。使用时，在GitHub raw链接前添加以下代理地址：
-https://gh.idayer.com/
+  https://gh.idayer.com/
 
 例如，将 `https://raw.githubusercontent.com/` 替换为 `https://gh.idayer.com/`
 
 ### BoxJs教程
 
 - 如果您需要BoxJs的安装及订阅教程，可以参考[@limboprossr](https://t.me/limboprossr) 提供的指南：
-[**BoxJS 安装及订阅**](https://limbopro.com/archives/19265.html)
+  [**BoxJS 安装及订阅**](https://limbopro.com/archives/19265.html)
 
 ### 更多去开屏广告教程
 
 - 如果您需要更多的iOS和Android去开屏广告教程，可以参考[@dgksf2013](https://github.com/ddgksf2013) 提供的：
-[**如何有效减少Android、IOS端应用开屏广告的打扰**](https://mp.weixin.qq.com/s/DOwEQs4Z7eFpGWOVAO-2QA)
+  [**如何有效减少Android、IOS端应用开屏广告的打扰**](https://mp.weixin.qq.com/s/DOwEQs4Z7eFpGWOVAO-2QA)
 
 ### Quantumult X 视频指南
 
 - 另外，我们推荐[@Serdongchanyo](https://github.com/erdongchanyo) 提供的详细视频指南，它将帮助您更好地理解和使用Quantumult X：
-[**Quantumult X 小白系列教程**](https://github.com/erdongchanyo/Rules/blob/main/Quantumult%20X/README.md)
+  [**Quantumult X 小白系列教程**](https://github.com/erdongchanyo/Rules/blob/main/Quantumult%20X/README.md)
 
 ### 解锁网易云音乐教程
 
 - 如果您需要解锁网易云音乐，可以参考[@dgksf2013](https://github.com/ddgksf2013) 提供的：
-[**利用QuantumultX解锁网易云付费及非版权音乐**](https://mp.weixin.qq.com/s/ca6U1O2FTfcqzL7TnJ04IQ)
+  [**利用QuantumultX解锁网易云付费及非版权音乐**](https://mp.weixin.qq.com/s/ca6U1O2FTfcqzL7TnJ04IQ)
 
 ## 10. 免责声明
 
@@ -188,6 +195,7 @@ https://gh.idayer.com/
 ## 11. 联系我们 <a name="Precautions5"></a>
 
 如果您在使用过程中遇到任何问题或有任何建议，我们鼓励您通过以下渠道联系我们：
+
 - **GitHub Issues**: [提交问题](https://github.com/misitechan/-QuantumultX-/issues/new)
 - **电子邮件**: [电子邮件地址](chenjunf1147262614@gmail.com)
 
@@ -199,29 +207,25 @@ https://gh.idayer.com/
 
 - **网易云音乐分流**
   [NeteaseMusic.list](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/list-gather/NeteaseMusic.list)
-
 - **ChatGPT 分流**
   [OpenAi.list](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/list-gather/OpenAi.list)
-
 - **中国大陆软件IP修改分流**
   [Anti-ip.list](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/list-gather/Anti-ip.list)
-
 - **TikTok地区分流**
   [TikTok.list](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/list-gather/TikTok.list)
-
 - **抖音IP分流**
   [DouYin.list](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/list-gather/DouYin.list)
-
 - **GitHub分流**
   [GitHub.list](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/list-gather/GitHub.list)
-
 - **哔哩哔哩港澳台解锁分流**
   [GitHub.list](https://raw.githubusercontent.com/ddgksf2013/Filter/master/StreamingSE.list)
 
 > 更多的分流请参考 [*@blackmatrix7*](https://github.com/blackmatrix7) 提供的 [***Quantumult X 分流***](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX)， [*@deezertidal*](https://github.com/deezertidal/QuantumultX-Rewrite) 提供的 [***Quantumult X 分流***](https://whatshub.top/rule)
 
 ## 3️⃣QuantumultX 复写：
-###  注意：带 ● 的需配合boxjs使用         
+
+### 注意：带 ● 的需配合boxjs使用
+
 <table>
     <tr> <th> 类别 </th> <th> 序号 </th> <th> 功能 </th> <th> 链接 </th> <th> 作者 </th> <th> 更新日期 </th></tr >
     <tr>
@@ -251,7 +255,7 @@ https://gh.idayer.com/
 		<td > 8 </td> <td > BuyiTunes多合一 </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/9e0f6c7341beea09a31aa309d9d7f502/raw/buyitunes.js"><em>buyitunes.js</em></a></td><td>ddgksf2013</td><td>2024.5.23</td>
     </tr>
 	<tr>
-		<td > 9</td> <td > 喜马拉雅解锁 </td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/privilege/ximalayaVIP.js"><em>ximalayaVIP.js</em></a></td><td>GieGie777</td><td>2024.5.23</td>
+		<td > 9</td> <td > 喜马拉雅VIP</td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/privilege/ximalayaVIP.js"><em>ximalayaVIP.js</em></a></td><td>GieGie777</td><td>2024.5.23</td>
     </tr>
 	<tr>
 		<td > 10 </td> <td > Emby解锁 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Function/EmbyPlugin.conf"><em>EmbyPlugin.conf</em></a></td><td>rartv</td><td>2024.5.23</td>
@@ -428,8 +432,8 @@ https://gh.idayer.com/
 
 > 更多的重写请参考 [*@ddgksf2013*](https://github.com/ddgksf2013) 提供的 [***Quantumult X 重写配置***](https://github.com/ddgksf2013/Rewrite/tree/master)，[*@deezertidal*](https://github.com/deezertidal/QuantumultX-Rewrite) 提供的 [***Quantumult X 重写配置***](https://whatshub.top/quantumultx)
 
-
 ## 4️⃣QuantumultX 脚本Task：
+
 - [x] QX每日色图脚本 [*setu.js*](https://github.com/ddgksf2013/Scripts/raw/master/setu.js)
 - [x] 得宝小程序签到 [*db.js*](https://github.com/ddgksf2013/Scripts/raw/master/debao.js)
 - [x] 同程旅行小程序签到 [*tclx.js*](https://github.com/ddgksf2013/Scripts/raw/master/tclx.js)
@@ -437,10 +441,10 @@ https://gh.idayer.com/
 - [x] 每天60s读懂世界 [*60s.js*](https://github.com/ddgksf2013/Scripts/raw/master/60s.js)
 - [x] Glados签到 [*glados.js*](https://gist.githubusercontent.com/ddgksf2013/32b3d37d78433a34370cbfb69780160d/raw/glados.js)
 - [x] Emby自动保号 [*emby.js*](https://gist.githubusercontent.com/ddgksf2013/e6793129fba99bb539cd7a49f74a48fa/raw/embyAutoSign.js)
+
 > 更多的签到脚本请参考 [*@Chavyleung*](https://github.com/chavyleung) 提供的 [***Quantumult X 签到脚本***](https://github.com/chavyleung/scripts/blob/master/QuantumultX_Remote_Task.conf)
 
 ## 5️⃣QuantumultX 图标库
-
 
 | 序号 | 点击名称快捷添加图标订阅 | 作者 |
 | :----: | :---- | :----: |
@@ -467,11 +471,10 @@ https://gh.idayer.com/
 * 如何有效减少Android、IOS端应用开屏广告的打扰？[*WeChat.web*](https://mp.weixin.qq.com/s/DOwEQs4Z7eFpGWOVAO-2QA)
 * 一些自用优质安卓APPS [***Awesome-Android-Apps***](https://github.com/misitechan/Android)
 
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 ## 7️⃣ [免责声明](https://github.com/misitechan/-QuantumultX-)  <a name="7️⃣"></a>
+
 ### 本仓库声明
 
 **本仓库**（以下简称“**本库**”）提供的所有信息、文档、脚本、配置文件（以下简称“**内容**”）均由用户自主收集、整理和分享，旨在为QuantumultX等工具的用户提供参考和便利。使用本库内容时，请用户自行承担风险，并遵守以下条款：
@@ -515,7 +518,7 @@ https://gh.idayer.com/
 
 [**@ddgksf2013**](https://github.com/ddgksf2013) [*@Blackmatrix7*](https://github.com/blackmatrix7/ios_rule_script) [*@DivineEngine*](https://github.com/DivineEngine) [*@App2smile*](https://github.com/app2smile/rules)  [*@Peng-YM*](https://github.com/Peng-YM) [*@Nick-workflow*](https://github.com/Nick-workflow) [*@KOP-XIAO*](https://github.com/KOP-XIAO) [*@NobyDa*](https://github.com/NobyDa) [*@Neurogram-R*](https://github.com/Neurogram-R) [*@yjqiang*](https://github.com/yjqiang) [*@O7Y0*](https://github.com/O7Y0) [*@Choler*](https://github.com/Choler) [*@id77*](https://github.com/id77) [*@zmqcherish*](https://github.com/zmqcherish) [*@Qure*](https://github.com/Koolson/Qure) [*@Orz-3*](https://github.com/Orz-3) [*@kyle*](https://github.com/Xirou) [*@HotKids*](https://github.com/hotKids) [*@langkach*](https://github.com/langkhach270389) [*@lxk0301*](https://github.com/lxk0301) [*@zqzess*](https://github.com/zqzess/rule_for_quantumultX) [*@Anti-AD*](https://github.com/privacy-protection-tools/anti-AD) [*@VirgilClyne*](https://github.com/VirgilClyne/iRingo#iringo) [*@zZPiglet*](https://github.com/zZPiglet/Task/tree/master) [*@Chavyleung*](https://github.com/chavyleung) [*@tugepaopao*](https://github.com/tugepaopao/Image-Storage) [*@Yuanxsxs*](https://github.com/Yuanxsxs) [*@LovedGM*](https://github.com/LovedGM/Quantumult-X-TuBiao) [*@Semporia*](https://github.com/Semporia) [*@Koolson*](https://github.com/Koolson)
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+---
 
 ### [回到顶部](https://github.com/misitechan/-QuantumultX-)
+
