@@ -14,6 +14,7 @@
 - 2024-05-03 (67)：移除了TikTok重写规则，新版已无需重写解锁，建议将手机地区设置为非国区，然后使用TikTok分流规则。
 
 ### 变更
+- 2024-06-07 (81)：更改了酷我音乐VIP的地址，修复失效。
 - 2024-04-24 (66)：修复了用户反馈的开启running_mode后，在WiFi直连下，掌上银行或招商银行无法联网的问题。
 - 2024-03-21 (65)：由于广告屏蔽无法做到100%完美，故由墨鱼维护的Unbreak.list分流规则，用以修正误屏蔽的域名，请及时更新替换。
 - 2024-05-23 (70)：将广告屏蔽的分流规则链接更换为[新链接](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/ad%20guard/adblock.conf)。
