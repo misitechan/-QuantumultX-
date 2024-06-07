@@ -240,7 +240,7 @@
 		<td > 3</td> <td > 墨鱼专属VIP </td> <td ><a href="https://github.com/ddgksf2013/dev/raw/master/ForOwnUse.conf"><em>ForOwnUse.conf</em></a></td><td>ddgksf2013</td><td>2024.5.23</td>
     </tr>
 	<tr>
-		<td > 4 </td> <td ><s>  酷我纯净版SVIP+</s> 净化 </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/0f76e952f0c4a2579932f45a209b40c3/raw/Kuwo.conf"><em>Kuwo.conf</em></a></td><td>ddgksf2013</td><td>2024.5.23</td>
+		<td > 4 </td> <td >酷我纯净版SVIP </td> <td ><a href="[raw.githubusercontent.com/Yuheng0101/X/main/Scripts/kuwo.js](https://raw.githubusercontent.com/Yuheng0101/X/main/Scripts/kuwo.js)"><em>Kuwo.conf</em></a></td><td>ddgksf2013</td><td>2024.6.7</td>
     </tr>
 	<tr>
 		<td > 5 </td> <td > 财新周刊VIP </td> <td ><a href="https://github.com/ddgksf2013/MoYu/raw/master/CaiXinZhouKanProCrack.js"><em>CXZK.vip.js</em></a></td><td>ddgksf2013</td><td>2024.5.23</td>
