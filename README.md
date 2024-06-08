@@ -161,32 +161,27 @@
 ## 9. 其他贡献者教程<a name="Precautions3"></a>
 
 ### GitHub加速代理
-
 - 为了加速GitHub的访问速度，您可以使用`ghproxy`服务。使用时，在GitHub raw链接前添加以下代理地址：
   https://gh.idayer.com/
-
 例如，将 `https://raw.githubusercontent.com/` 替换为 `https://gh.idayer.com/`
 
 ### BoxJs教程
-
 - 如果您需要BoxJs的安装及订阅教程，可以参考[@limboprossr](https://t.me/limboprossr) 提供的指南：
 - [**BoxJS 安装及订阅**](https://limbopro.com/archives/19265.html)
 - [**本配置需要配置的BoxJs订阅-iRingo**](https://github.com/VirgilClyne/iRingo/raw/main/BoxJs/iRingo.BoxJs.json) 
 - [**本配置需要配置的BoxJs订阅-NobyDa**](https://raw.githubusercontent.com/NobyDa/Script/master/NobyDa_BoxJs.json)
 - [**本配置需要配置的BoxJs订阅-XiaoMao**](https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/XiaoMao.json)
-- [**本配置需要配置的BoxJs订阅-*Yuheng0101**](https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/boxjs.json)
-### 更多去开屏广告教程
+- [**本配置需要配置的BoxJs订阅-Yuheng0101**](https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/boxjs.json)
 
+### 更多去开屏广告教程
 - 如果您需要更多的iOS和Android去开屏广告教程，可以参考[@dgksf2013](https://github.com/ddgksf2013) 提供的：
   [**如何有效减少Android、IOS端应用开屏广告的打扰**](https://mp.weixin.qq.com/s/DOwEQs4Z7eFpGWOVAO-2QA)
 
 ### Quantumult X 视频指南
-
 - 另外，我们推荐[@Serdongchanyo](https://github.com/erdongchanyo) 提供的详细视频指南，它将帮助您更好地理解和使用Quantumult X：
   [**Quantumult X 小白系列教程**](https://github.com/erdongchanyo/Rules/blob/main/Quantumult%20X/README.md)
 
 ### 解锁网易云音乐教程
-
 - 如果您需要解锁网易云音乐，可以参考[@dgksf2013](https://github.com/ddgksf2013) 提供的：
   [**利用QuantumultX解锁网易云付费及非版权音乐**](https://mp.weixin.qq.com/s/ca6U1O2FTfcqzL7TnJ04IQ)
 
