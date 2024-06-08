@@ -171,6 +171,7 @@
 
 - 如果您需要BoxJs的安装及订阅教程，可以参考[@limboprossr](https://t.me/limboprossr) 提供的指南：
   [**BoxJS 安装及订阅**](https://limbopro.com/archives/19265.html)
+  [**本配置需要配置的BoxJs订阅**](https://github.com/VirgilClyne/iRingo/raw/main/BoxJs/iRingo.BoxJs.json) (https://raw.githubusercontent.com/NobyDa/Script/master/NobyDa_BoxJs.json)
 
 ### 更多去开屏广告教程
 
