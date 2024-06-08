@@ -171,10 +171,10 @@
 
 - 如果您需要BoxJs的安装及订阅教程，可以参考[@limboprossr](https://t.me/limboprossr) 提供的指南：
 - [**BoxJS 安装及订阅**](https://limbopro.com/archives/19265.html)
-- [**本配置需要配置的BoxJs订阅1**](https://github.com/VirgilClyne/iRingo/raw/main/BoxJs/iRingo.BoxJs.json) 
-- [**本配置需要配置的BoxJs订阅2**](https://raw.githubusercontent.com/NobyDa/Script/master/NobyDa_BoxJs.json)
-- [**本配置需要配置的BoxJs订阅3**](https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/XiaoMao.json)
-- [**本配置需要配置的BoxJs订阅4**](https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/boxjs.json)
+- [**本配置需要配置的BoxJs订阅-iRingo**](https://github.com/VirgilClyne/iRingo/raw/main/BoxJs/iRingo.BoxJs.json) 
+- [**本配置需要配置的BoxJs订阅-NobyDa**](https://raw.githubusercontent.com/NobyDa/Script/master/NobyDa_BoxJs.json)
+- [**本配置需要配置的BoxJs订阅-XiaoMao**](https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/XiaoMao.json)
+- [**本配置需要配置的BoxJs订阅-*Yuheng0101**](https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/boxjs.json)
 ### 更多去开屏广告教程
 
 - 如果您需要更多的iOS和Android去开屏广告教程，可以参考[@dgksf2013](https://github.com/ddgksf2013) 提供的：
