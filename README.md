@@ -361,7 +361,7 @@
 		<td > 27 </td> <td > 去广告合集 </td> <td ><a href="https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/rewrite/chongxie.txt"><em>chongxie.txt</em></a></td><td>fmz200</td><td>2024.6.02</td>  
     </tr>
 	<tr>
-		<td > 28 </td> <td > 去广告合集 </td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/ad%20guard/kuwoadblock.conf"><em>kuwoadblock.conf</em></a></td><td>ddgksf2013</td><td>2024.6.08</td>  
+		<td > 28 </td> <td > 酷我广告净化 </td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/ad%20guard/kuwoadblock.conf"><em>kuwoadblock.conf</em></a></td><td>ddgksf2013</td><td>2024.6.08</td>  
     </tr>
 	<tr>
 		<td colspan="5">  </td>
