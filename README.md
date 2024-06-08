@@ -229,7 +229,7 @@
 <table>
     <tr> <th> 类别 </th> <th> 序号 </th> <th> 功能 </th> <th> 链接 </th> <th> 作者 </th> <th> 更新日期 </th></tr >
     <tr>
-		<td rowspan="15"><strong>会员解锁</strong></td>
+		<td rowspan="16"><strong>会员解锁</strong></td>
 		<td > 1 </td> <td > 哔哩哔哩广告净化</td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Bilibili.conf"><em>BilibiliVip.conf</em></a></td><td>ddgksf2013</td><td>2024.5.23</td>
     </tr>	
 	<tr>
@@ -267,13 +267,16 @@
 		<td > 12 </td> <td > 网易云VIP </td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/privilege/NeteaseMusicVipCrack.js"><em>weiboVIP.js</em></a></td><td>Hausd0rff</td><td>2024.5.23</td>
     </tr>
 	<tr>
-		<td > 13 </td> <td > WPS VIP ●</td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/privilege/WPSVIP.js"><em>WPS VIP.js</em></a></td><td>aXiaoMao</td><td>2024.5.23</td>
+		<td > 13 </td> <td > WPS VIP ●</td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/privilege/WPSVIP.js"><em>WPS VIP.js</em></a></td><td>XiaoMao</td><td>2024.5.23</td>
     </tr>
 	<tr>
 		<td > 14 </td> <td > 知音漫客VIP </td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/privilege/Zymh.js"><em>zymkVIP.js</em></a></td><td>admin</td><td>2024.5.23</td>
     </tr>
 	<tr>
 		<td > 15 </td> <td > 懒人听书VIP </td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/privilege/lrts.js"><em>lrtsVIP.js</em></a></td><td>GieGie777</td><td>2024.5.26</td>
+    </tr>
+	<tr>
+		<td > 16 </td> <td > 阿里云盘VIP </td> <td ><a href="https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/XiaoMaoALiCloud.js"><em>xiaoMaoALiCloud.js</em></a></td><td>XiaoMao</td><td>2024.6.08</td>
     </tr>
 	<tr>
 		<td colspan="5">  </td>
