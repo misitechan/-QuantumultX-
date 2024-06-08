@@ -2,6 +2,7 @@
 
 ## [2.0] - 2024-05-23
 ### 新增
+- 2024-06-08 (84)：增加了本配置需要的BoxJs订阅的地址。
 - 2024-06-08 (83)：增加了阿里云盘vip解锁，需要配合[XiaoMao BoxJs](https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/XiaoMao.json)的订阅。
 - 2024-06-02 (80)：增加了去广告重写合集。
 - 2024-05-26 (76)：增加了懒人听书解锁VIP。
