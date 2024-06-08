@@ -276,7 +276,7 @@
 		<td > 15 </td> <td > 懒人听书VIP </td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/privilege/lrts.js"><em>lrtsVIP.js</em></a></td><td>GieGie777</td><td>2024.5.26</td>
     </tr>
 	<tr>
-		<td > 16 </td> <td > 阿里云盘VIP </td> <td ><a href="https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/XiaoMaoALiCloud.js"><em>xiaoMaoALiCloud.js</em></a></td><td>XiaoMao</td><td>2024.6.08</td>
+		<td > 16 </td> <td > 阿里云盘VIP ● </td> <td ><a href="https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/XiaoMaoALiCloud.js"><em>xiaoMaoALiCloud.js</em></a></td><td>XiaoMao</td><td>2024.6.08</td>
     </tr>
 	<tr>
 		<td colspan="5">  </td>
