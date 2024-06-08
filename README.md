@@ -61,7 +61,7 @@
 
 ## 1️⃣QuantumultX 配置：<a name="usage"></a>
 
-**最后更新时间：2024-06-02**
+**最后更新时间：2024-06-08**
 
 - 欢迎使用本仓库提供的QuantumultX配置和脚本资源。在开始使用之前，请仔细阅读以下指南以确保您能够正确并安全地使用本仓库提供的内容。
 
@@ -227,7 +227,7 @@
 <table>
     <tr> <th> 类别 </th> <th> 序号 </th> <th> 功能 </th> <th> 链接 </th> <th> 作者 </th> <th> 更新日期 </th></tr >
     <tr>
-		<td rowspan="16"><strong>会员解锁</strong></td>
+		<td rowspan="20"><strong>会员解锁</strong></td>
 		<td > 1 </td> <td > 哔哩哔哩广告净化</td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Bilibili.conf"><em>BilibiliVip.conf</em></a></td><td>ddgksf2013</td><td>2024.5.23</td>
     </tr>	
 	<tr>
@@ -276,6 +276,19 @@
 	<tr>
 		<td > 16 </td> <td > 阿里云盘VIP ● </td> <td ><a href="https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/XiaoMaoALiCloud.js"><em>xiaoMaoALiCloud.js</em></a></td><td>XiaoMao</td><td>2024.6.08</td>
     </tr>
+	<tr>
+		<td > 17 </td> <td > 加藤视频VIP  </td> <td ><a href="https://raw.githubusercontent.com/WeiGiegie/666/main/jtsp.js"><em>jtsp.js</em></a></td><td>WeiGiegie</td><td>2024.6.08</td>
+    </tr>
+	<tr>
+		<td > 18 </td> <td > 迅雷VIP  </td> <td ><a href="https://whatshub.top/rewrite/thunder.conf"><em>thunder.conf</em></a></td><td>Marol62926</td><td>2024.6.08</td>
+    </tr>
+		<tr>
+		<td > 19 </td> <td > KeepVIP  </td> <td ><a href="https://whatshub.top/rewrite/keep.conf"><em>keep.conf</em></a></td><td>89996462</td><td>2024.6.08</td>
+    </tr>
+   </tr>
+		<tr>
+		<td > 20 </td> <td > 喜马拉雅儿童VIP  </td> <td ><a href="https://raw.githubusercontent.com/WeiGiegie/666/main/xmet.js"><em>xmet.js</em></a></td><td>WeiGiegie</td><td>2024.6.08</td>
+    </tr>		
 	<tr>
 		<td colspan="5">  </td>
     </tr>
