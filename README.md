@@ -458,7 +458,7 @@
 - [x] 每天60s读懂世界 [*60s.js*](https://github.com/ddgksf2013/Scripts/raw/master/60s.js)
 - [x] Glados签到 [*glados.js*](https://gist.githubusercontent.com/ddgksf2013/32b3d37d78433a34370cbfb69780160d/raw/glados.js)
 - [x] Emby自动保号 [*emby.js*](https://gist.githubusercontent.com/ddgksf2013/e6793129fba99bb539cd7a49f74a48fa/raw/embyAutoSign.js)
-
+- [x] 收集的一些 [***脚本合集***](https://github.com/misitechan/-QuantumultX-/tree/main/Task)
 > 更多的签到脚本请参考 [*@Chavyleung*](https://github.com/chavyleung) 提供的 [***Quantumult X 签到脚本***](https://github.com/chavyleung/scripts/blob/master/QuantumultX_Remote_Task.conf)
 
 ## 5️⃣QuantumultX 图标库
@@ -486,7 +486,6 @@
 * 微信屏蔽朋友圈广告[*WeChat.web*](https://mp.weixin.qq.com/s/f_miMTmLOTDnk4C0OanHyw)
 * IOS、Android[TV]、Web、AppleTV观影方案[***Notion.md***](https://ddgksf2013.notion.site/IOS-Android-TV-Web-AppleTV-737275e3de2c4def86196d8c982ef86e?pvs=4)
 * 一些自用优质安卓APPS [***Awesome-Android-Apps***](https://github.com/misitechan/Android)
-* 收集[***脚本合集***](https://github.com/misitechan/-QuantumultX-/tree/main/Task)：各种自动签到脚本、日报、提醒...
 ---
 
 ## 7️⃣ [免责声明](https://github.com/misitechan/-QuantumultX-)  <a name="7️⃣"></a>
