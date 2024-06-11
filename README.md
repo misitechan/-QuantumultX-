@@ -486,7 +486,7 @@
 * 微信屏蔽朋友圈广告[*WeChat.web*](https://mp.weixin.qq.com/s/f_miMTmLOTDnk4C0OanHyw)
 * IOS、Android[TV]、Web、AppleTV观影方案[***Notion.md***](https://ddgksf2013.notion.site/IOS-Android-TV-Web-AppleTV-737275e3de2c4def86196d8c982ef86e?pvs=4)
 * 一些自用优质安卓APPS [***Awesome-Android-Apps***](https://github.com/misitechan/Android)
-* 收集脚本[***合集***](https://github.com/misitechan/-QuantumultX-/tree/main/Task)：各种自动签到脚本、日报、提醒...
+* 收集[***脚本合集***](https://github.com/misitechan/-QuantumultX-/tree/main/Task)：各种自动签到脚本、日报、提醒...
 ---
 
 ## 7️⃣ [免责声明](https://github.com/misitechan/-QuantumultX-)  <a name="7️⃣"></a>
