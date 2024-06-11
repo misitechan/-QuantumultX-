@@ -14,8 +14,12 @@
 
   4.弹出界面点加号，将之前复制的地址粘贴进弹出的输入框中<br>
 
-  5.点击 好<br>
+  5.点击<br>
   
+➽ [MisiteChan](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/Task/misitechan.json)
+
+脚本合集
+
 ➽ [NobyDa](https://raw.githubusercontent.com/Orz-3/QuantumultX/master/Task/Nobyda.json)
 
 京东多合一|爱奇艺|吾爱破解|哔哩哔哩漫画|百度贴吧|快看漫画
