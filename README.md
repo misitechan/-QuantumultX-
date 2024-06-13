@@ -303,7 +303,7 @@
 		<td > 3 </td> <td > ✅油管广告屏蔽<br><strong><em>视频自动PIP+背景播放</strong></em> </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/YoutubeAds.conf"><em>YoutubeAds.conf</em></a></td><td>divineEngine<br>Maasea</td>  <td>2024.5.23</td>
     </tr>
 	<tr>
-		<td > 4 </td> <td > <s> 🟥公众号图文去广告 </s><br></td> <td ><s> <a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/WeChat.conf"><em>WeChatAdBlock.conf</em></a></s> </td><td>ddgksf2013</td><td>2024.5.23</td>
+		<td > 4 </td> <td >🟥公众号图文去广告<br></td> <td ><s> <a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/WeChat.conf"><em>WeChatAdBlock.conf</em></a></s> </td><td>ddgksf2013</td><td>2024.5.23</td>
     </tr>
 	<tr>
 		<td > 5 </td> <td > ✅知乎去广告 </td> <td ><a href="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zheye/zheye.snippet"><em>Zhihu_Plus.conf</em></a></td><td>blackmatrix7</td>  <td>2024.5.23</td>
@@ -382,7 +382,7 @@
     </tr>
 	<tr>
 		<td rowspan="13"><strong>应用增强</strong></td>
-		<td > 1 </td> <td > <s>✅B站自动换区 ●</s></td> <td ><s><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Function/BilibiliAutoRegion.conf"><em>BilibiliAutoRegion.conf</em></a></s></td><td>Nobyda</td><td>2024.5.23</td>
+		<td > 1 </td> <td >✅B站自动换区 ●</td> <td ><s><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Function/BilibiliAutoRegion.conf"><em>BilibiliAutoRegion.conf</em></a></s></td><td>Nobyda</td><td>2024.5.23</td>
     </tr>
 	<tr>
 		<td > 2 </td> <td > <strong>🟨B站CC繁体字幕转简体</strong> </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Function/Bilibili_CC.conf"><em>Bilibili_CC.conf</em></a></td><td>ddgksf2013</td><td>2024.5.23</td>
