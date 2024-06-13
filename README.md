@@ -265,7 +265,7 @@
 		<td > 12 </td> <td >✅网易云VIP </td> <td ><a href="https://raw.githubusercontent.com/WeiGiegie/666/main/wangyiyun.js"><em>NeteaseMusicVip.js</em></a></td><td>WeiGiegie/</td><td>2024.4.14</td>
     </tr>
 	<tr>
-		<td > 13 </td> <td > ✅WPS VIP ●</td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/privilege/WPSVIP.js"><em>WPS VIP.js</em></a></td><td>XiaoMao</td><td>2024.5.23</td>
+		<td > 13 </td> <td > ✅WPS VIP ❗ </td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/privilege/WPSVIP.js"><em>WPS VIP.js</em></a></td><td>XiaoMao</td><td>2024.5.23</td>
     </tr>
 	<tr>
 		<td > 14 </td> <td > ✅知音漫客VIP </td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/privilege/Zymh.js"><em>zymkVIP.js</em></a></td><td>admin</td><td>2024.5.23</td>
@@ -274,7 +274,7 @@
 		<td > 15 </td> <td > ✅懒人听书VIP </td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/privilege/lrts.js"><em>lrtsVIP.js</em></a></td><td>WeiGiegie/</td><td>2024.6.14</td>
     </tr>
 	<tr>
-		<td > 16 </td> <td > ✅阿里云盘VIP ● </td> <td ><a href="https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/XiaoMaoALiCloud.js"><em>xiaoMaoALiCloud.js</em></a></td><td>XiaoMao</td><td>2024.6.08</td>
+		<td > 16 </td> <td > ✅阿里云盘VIP ❗ </td> <td ><a href="https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/XiaoMaoALiCloud.js"><em>xiaoMaoALiCloud.js</em></a></td><td>XiaoMao</td><td>2024.6.08</td>
     </tr>
 	<tr>
 		<td > 17 </td> <td >🟨加藤视频VIP  </td> <td ><a href="https://raw.githubusercontent.com/WeiGiegie/666/main/jtsp.js"><em>jtsp.js</em></a></td><td>WeiGiegie</td><td>2024.6.08</td>
@@ -382,7 +382,7 @@
     </tr>
 	<tr>
 		<td rowspan="13"><strong>应用增强</strong></td>
-		<td > 1 </td> <td >✅B站自动换区 ●</td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Function/BilibiliAutoRegion.conf"><em>BilibiliAutoRegion.conf</em></a></td><td>Nobyda</td><td>2024.5.23</td>
+		<td > 1 </td> <td >✅B站自动换区 ❗ </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Function/BilibiliAutoRegion.conf"><em>BilibiliAutoRegion.conf</em></a></td><td>Nobyda</td><td>2024.5.23</td>
     </tr>
 	<tr>
 		<td > 2 </td> <td > <strong>🟨B站CC繁体字幕转简体</strong> </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Function/Bilibili_CC.conf"><em>Bilibili_CC.conf</em></a></td><td>ddgksf2013</td><td>2024.5.23</td>
@@ -400,10 +400,10 @@
 		<td > 6 </td> <td > ✅微信110解锁被屏蔽的URL </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/Function/UnblockURLinWeChat.conf"><em>WeChat110.conf</em></a></td><td>zZPiglet</td><td>2024.5.23</td>
     </tr>
 	<tr>
-		<td > 7 </td> <td > ✅指南针解锁经纬度 ●</td> <td ><a href="https://raw.githubusercontent.com/VirgilClyne/iRingo/main/snippet/Location.snippet"><em>Location.conf</em></a></td><td>VirgilClyne</td><td>2024.5.23</td>
+		<td > 7 </td> <td > ✅指南针解锁经纬度 ❗ </td> <td ><a href="https://raw.githubusercontent.com/VirgilClyne/iRingo/main/snippet/Location.snippet"><em>Location.conf</em></a></td><td>VirgilClyne</td><td>2024.5.23</td>
     </tr>
 	<tr>
-		<td > 8 </td> <td >🟨Testflight共享+解锁区域限制 ●</td> <td ><a href="https://raw.githubusercontent.com/NobyDa/Script/master/TestFlight/TestFlightAccount.js"><em>TestFlightAccount.conf</em></a></td><td>NobyDa</td><td>2024.5.23</td>
+		<td > 8 </td> <td >🟨Testflight共享+解锁区域限制 ❗ </td> <td ><a href="https://raw.githubusercontent.com/NobyDa/Script/master/TestFlight/TestFlightAccount.js"><em>TestFlightAccount.conf</em></a></td><td>NobyDa</td><td>2024.5.23</td>
     </tr>
 	<tr>
 		<td > 9 </td> <td >🟨UposRedirect </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Function/UposRedirect.conf"><em>UposRedirect.conf</em></a></td><td>ddgksf2013</td><td>2024.5.23</td>
@@ -412,13 +412,13 @@
 		<td > 10 </td> <td > <strong>✅阿里云盘倍速</strong> </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/f4752e632fd3375ea2811985c5b635dc/raw/alicloud.js"><em>alicloud.js</em></a></td><td>ddgksf2013</td><td>2024.5.23</td>
     </tr>
 	<tr>
-		<td > 11 </td> <td >✅Spotify歌词翻译 [需要API] ●</td> <td ><a href="https://raw.githubusercontent.com/app2smile/rules/master/js/spotify-lyric.js"><em>spotify-lyric.js</em></a></td><td>app2smile</td><td>2024.5.23</td>
+		<td > 11 </td> <td >✅Spotify歌词翻译 [需要API] ❗ </td> <td ><a href="https://raw.githubusercontent.com/app2smile/rules/master/js/spotify-lyric.js"><em>spotify-lyric.js</em></a></td><td>app2smile</td><td>2024.5.23</td>
     </tr>
 	<tr>
 		<td > 12 </td> <td >🟨VVebo修复用户时间线 </td> <td ><a href="https://raw.githubusercontent.com/bin64/Scripts/main/QuantumultX/vvebo.js"><em>vvebo.js</em></a></td><td>suiyuran</td>  <td>2024.5.23</td>
     </tr>
 	<tr>
-		<td > 13 </td> <td >✅Siri解锁全功能 ●</td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/other/Siri.snippet"><em>Siri.js</em></a></td><td>iRingo</td>  <td>2024.5.23</td>
+		<td > 13 </td> <td >✅Siri解锁全功能 ❗ </td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/other/Siri.snippet"><em>Siri.js</em></a></td><td>iRingo</td>  <td>2024.5.23</td>
     </tr>
 	<tr>
 		<td colspan="5">  </td>
@@ -443,7 +443,7 @@
 		<td > 6 </td> <td > ✅毒奶网页去广告 </td> <td ><a href="https://raw.githubusercontent.com/limbopro/Adblock4limbo/main/Adblock4limbo.conf"><em>Adblock4limbo.conf</em></a></td><td>limbopro</td><td>2024.5.23</td>
     </tr>
 	<tr>
-		<td > 7 </td> <td > ✅解决Google搜索人机验证 ●</td> <td ><a href="https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Snippet/GoogleCAPTCHA.snippet"><em>CAPTCHA.snippet</em></a></td><td>NobyDa</td><td>2024.5.23</td>
+		<td > 7 </td> <td > ✅解决Google搜索人机验证 ❗ </td> <td ><a href="https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Snippet/GoogleCAPTCHA.snippet"><em>CAPTCHA.snippet</em></a></td><td>NobyDa</td><td>2024.5.23</td>
     </tr>
 </table>
 
