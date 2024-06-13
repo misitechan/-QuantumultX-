@@ -262,7 +262,7 @@
 		<td > 11 </td> <td > 微博VIP </td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/privilege/weiboVIP.js"><em>weiboVIP.js</em></a></td><td>XiaoMao</td><td>2024.5.23</td>
     </tr>
 	<tr>
-		<td > 12 </td> <td > 网易云VIP </td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/privilege/NeteaseMusicVipCrack.js"><em>weiboVIP.js</em></a></td><td>Hausd0rff</td><td>2024.5.23</td>
+		<td > 12 </td> <td > 网易云VIP </td> <td ><a href="https://raw.githubusercontent.com/WeiGiegie/666/main/wangyiyun.js"><em>NeteaseMusicVipCrackVIP.js</em></a></td><td>WeiGiegie/</td><td>2024.4.14</td>
     </tr>
 	<tr>
 		<td > 13 </td> <td > WPS VIP ●</td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/privilege/WPSVIP.js"><em>WPS VIP.js</em></a></td><td>XiaoMao</td><td>2024.5.23</td>
@@ -271,7 +271,7 @@
 		<td > 14 </td> <td > 知音漫客VIP </td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/privilege/Zymh.js"><em>zymkVIP.js</em></a></td><td>admin</td><td>2024.5.23</td>
     </tr>
 	<tr>
-		<td > 15 </td> <td > 懒人听书VIP </td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/privilege/lrts.js"><em>lrtsVIP.js</em></a></td><td>GieGie777</td><td>2024.5.26</td>
+		<td > 15 </td> <td > 懒人听书VIP </td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/privilege/lrts.js"><em>lrtsVIP.js</em></a></td><td>WeiGiegie/</td><td>2024.6.14</td>
     </tr>
 	<tr>
 		<td > 16 </td> <td > 阿里云盘VIP ● </td> <td ><a href="https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/XiaoMaoALiCloud.js"><em>xiaoMaoALiCloud.js</em></a></td><td>XiaoMao</td><td>2024.6.08</td>
