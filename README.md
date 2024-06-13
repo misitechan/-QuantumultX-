@@ -222,7 +222,7 @@
 
 ## 3️⃣QuantumultX 复写：
 
-### 注意：带 ● 的需配合boxjs使用
+### 注意：带 ❗ 的需配合boxjs使用
 ### ✅正常 🟨待验证 🟥失效
 <table>
     <tr> <th> 类别 </th> <th> 序号 </th> <th> 功能 </th> <th> 链接 </th> <th> 作者 </th> <th> 更新日期 </th></tr >
@@ -303,7 +303,7 @@
 		<td > 3 </td> <td > ✅油管广告屏蔽<br><strong><em>视频自动PIP+背景播放</strong></em> </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/YoutubeAds.conf"><em>YoutubeAds.conf</em></a></td><td>divineEngine<br>Maasea</td>  <td>2024.5.23</td>
     </tr>
 	<tr>
-		<td > 4 </td> <td > <s> 🟥公众号图文去广告 </s><br><strong><em>无法去除朋友圈AD</strong></em> </td> <td ><s> <a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/WeChat.conf"><em>WeChatAdBlock.conf</em></a></s> </td><td>ddgksf2013</td><td>2024.5.23</td>
+		<td > 4 </td> <td > <s> 🟥公众号图文去广告 </s><br></td> <td ><s> <a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/WeChat.conf"><em>WeChatAdBlock.conf</em></a></s> </td><td>ddgksf2013</td><td>2024.5.23</td>
     </tr>
 	<tr>
 		<td > 5 </td> <td > ✅知乎去广告 </td> <td ><a href="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zheye/zheye.snippet"><em>Zhihu_Plus.conf</em></a></td><td>blackmatrix7</td>  <td>2024.5.23</td>
@@ -333,7 +333,7 @@
 		<td > 13 </td> <td >🟨12306去广告</td> <td ><a href="https://github.com/ddgksf2013/Scripts/raw/master/12306.js"><em>12306.js</em></a></td><td>ddgksf2013</td> <td>2024.5.23</td> 
     </tr>
 	<tr>
-		<td > 14 </td> <td >[未适配新版] <s> 🟥多多视频去广告</s>  </td> <td ><s> <a href="https://raw.githubusercontent.com/ddgksf2013/Scripts/master/rrtv_json.js"><em>DuoduoVideoAds.js</em></a></s> </td><td>ddgksf2013</td>  <td>2024.5.23</td>
+		<td > 14 </td> <td >🟥多多视频去广告</td> <td ><s> <a href="https://raw.githubusercontent.com/ddgksf2013/Scripts/master/rrtv_json.js"><em>DuoduoVideoAds.js</em></a></s> </td><td>ddgksf2013</td>  <td>2024.5.23</td>
     </tr>
 	<tr>
 		<td > 15 </td> <td > <strong>✅微博(国际版)去广告 </strong></td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Weibo.conf"><em>Weibo.conf</em></a></td><td>ddgksf2013</td>  <td>2024.5.23</td>
@@ -357,7 +357,7 @@
 		<td > 21 </td> <td > 🟥Bing首页简化 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/BingSimplify.conf"><em>BingSimplify.conf</em></a></td><td>ddgksf2013</td>  <td>2024.5.23</td>
     </tr>
 	<tr>
-		<td > 22 </td> <td >[新版失效]<s> 🟥优酷净化[卸载重装]</s> </td> <td ><s> <a href="https://gist.githubusercontent.com/ddgksf2013/5b431857f8b88acbc7ac2453a21e676a/raw/youku.adblock.js"><em>youku.adblock.js</em></a></s> </td><td>ddgksf2013</td>  <td>2024.5.23</td>
+		<td > 22 </td> <td > 🟥优酷净化[卸载重装]</td> <td ><s> <a href="https://gist.githubusercontent.com/ddgksf2013/5b431857f8b88acbc7ac2453a21e676a/raw/youku.adblock.js"><em>youku.adblock.js</em></a></s> </td><td>ddgksf2013</td>  <td>2024.5.23</td>
     </tr>
     <tr>
 		<td > 23 </td> <td > 🟨百度地图净化[卸载重装] </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/beec132ca0c3570ffa0cf331bce8f82a/raw/baidumap.adblock.conf"><em>baidumap.conf</em></a></td><td>ddgksf2013</td>  <td>2024.5.23</td>
