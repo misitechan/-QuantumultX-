@@ -462,7 +462,7 @@
 		<td > 4 </td> <td >✅策略流量查询<br></td> <td ><a href="https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/traffic-check.js"><em>traffic-check.js</em></a></td><td>XIAO_KOP</td><td>2024.5.23</td>
     </tr>
 	<tr>
-		<td > 5 </td> <td >✅ 节点链路查询 </td> <td ><a href="https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/NodeLinkCheck/Script/NodeLinkCheck.js"><em>NodeLinkCheck.js</em></a></td><td>XIAO_KOP<br>ddgksf2013</td><td>2024.5.23</td>
+		<td > 5 </td> <td >✅ 节点链路查询 </td> <td ><a href="https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/NodeLinkCheck/Script/NodeLinkCheck.js"><em>NodeLinkCheck.js</em></a></td><td>XIAO_KOP</td><td>2024.5.23</td>
     </tr>
 	<tr>
 		<td > 6 </td> <td > ✅谷歌送中查询 </td> <td ><a href="https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/switch-check-google.js"><em>switch-check-google.js</em></a></td><td>XIAO_KOP</td><td>2024.5.23</td>
