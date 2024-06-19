@@ -12,7 +12,7 @@
   - [复写规则使用](#Replication)
   - [注意事项](#Precautions1)
   - [其他贡献者教程](#Precautions3)
-  - [自用QX配置](#Precautions2)
+  - ##[自用QX配置](#Precautions2)
 - [QuantumultX 分流](#2️⃣quantumultx-分流)
 - [QuantumultX 复写](#3️⃣quantumultx-复写)
 - [QuantumultX 脚本Task](#4️⃣quantumultx-脚本task)
