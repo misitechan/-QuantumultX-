@@ -1,6 +1,5 @@
 # 使用说明
 # QuantumultX 配置仓库
-
 ## 目录
 
 - [简介](#introduction)
@@ -63,7 +62,7 @@
 
 - 欢迎使用本仓库提供的QuantumultX配置和脚本资源。在开始使用之前，请仔细阅读以下指南以确保您能够正确并安全地使用本仓库提供的内容。
 
-## 1. 准备工作  <a name="preparation"></a>
+### 1. 准备工作  <a name="preparation"></a>
 
 在开始使用之前，请确保您已经满足以下条件：
 
@@ -71,7 +70,7 @@
 - 已安装[QuantumultX](https://apps.apple.com/us/app/quantumult-x/id1443988620)应用，并能够正常使用。
 - 理解基本的网络代理和分流概念。
 
-## 2. 下载配置文件 <a name="download-configuration"></a>
+### 2. 下载配置文件 <a name="download-configuration"></a>
 
 本仓库提供了多种配置文件，您可以根据需要下载：
 
@@ -80,14 +79,14 @@
 - 选择您需要的配置文件，例如 `Misitechan.conf`。
 - 点击文件名，然后点击 "Raw" 按钮，文件将自动下载到您的设备。
 
-## 3. 导入配置文件至QuantumultX <a name="Import"></a>
+### 3. 导入配置文件至QuantumultX <a name="Import"></a>
 
 - 打开QuantumultX应用。
 - 进入配置管理界面。
 - 选择 "导入" 功能，然后上传您刚才下载的配置文件。
 - 配置文件将被导入QuantumultX，您可以根据需要进行调整。
 
-## 4. 配置证书文件
+### 4. 配置证书文件
 
 如果您之前已经生成并信任了证书，可以跳过此步骤。
 
@@ -111,7 +110,7 @@
 - 找到 **重写** 模块，将其开关设置为 **开启** 状态。
 - 找到 **MitM** 模块，同样将其开关设置为 **开启** 状态。
 
-## 5. 使用分流规则 <a name="Use"></a>
+### 5. 使用分流规则 <a name="Use"></a>
 
 本仓库还提供了多种分流规则，用于优化您的网络体验：
 
@@ -120,7 +119,7 @@
 - 在QuantumultX中，进入分流规则管理界面。
 - 导入下载的分流规则文件。
 
-## 6. 复写规则使用 <a name="Replication"></a>
+### 6. 复写规则使用 <a name="Replication"></a>
 
 复写规则可以解锁会员服务、屏蔽广告等：
 
@@ -129,19 +128,19 @@
 - 在QuantumultX中，进入复写规则管理界面。
 - 导入下载的复写规则文件。
 
-## 7. 注意事项<a name="Precautions1"></a>
+### 7. 注意事项<a name="Precautions1"></a>
 
 - 在使用过程中，如果遇到任何问题，请先查阅本仓库的 [FAQ](https://github.com/misitechan/Frequently-Asked-Questions/blob/main/README.md) 或在 [Issues](https://github.com/misitechan/-QuantumultX-/issues) 中搜索或提问。
 - 本仓库内容仅供学习和研究使用，不得用于任何商业用途。
 - 使用本仓库内容时，请遵守当地法律法规。
 - 要查看最新的更新和历史版本记录，请访问 [QuantumultX 历史版本存档](https://github.com/misitechan/-QuantumultX-/tree/main/historic%20version)。
 
-## 8. 自用QX配置<a name="Precautions2"></a>
+### 8. 自用QX配置<a name="Precautions2"></a>
 
 - 我们提供了一个自用的QX配置文件，您可以通过以下链接访问并下载：
   [**Misitechan.conf**](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/Profile-gather/misitechan.conf)
 
-### 配置详情
+#### 配置详情
 
 - 上述配置文件支持QX商店最新版，并包含以下功能：
   - 图标库订阅
@@ -156,14 +155,14 @@
   - 高德地图和知乎去广告
   - 节点信息查询
 
-## 9. 其他贡献者教程<a name="Precautions3"></a>
+### 9. 其他贡献者教程<a name="Precautions3"></a>
 
-### GitHub加速代理
+#### GitHub加速代理
 - 为了加速GitHub的访问速度，您可以使用`ghproxy`服务。使用时，在GitHub raw链接前添加以下代理地址：
   https://gh.idayer.com/
 例如，将 `https://raw.githubusercontent.com/` 替换为 `https://gh.idayer.com/`
 
-### BoxJs教程
+#### BoxJs教程
 - 如果您需要BoxJs的安装及订阅教程，可以参考[@limboprossr](https://t.me/limboprossr) 提供的指南：
 - [**BoxJS 安装及订阅**](https://limbopro.com/archives/19265.html)
 - [**本配置需要配置的BoxJs订阅-iRingo**](https://github.com/VirgilClyne/iRingo/raw/main/BoxJs/iRingo.BoxJs.json) 
@@ -171,24 +170,24 @@
 - [**本配置需要配置的BoxJs订阅-XiaoMao**](https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/XiaoMao.json)
 - [**本配置需要配置的BoxJs订阅-Yuheng0101**](https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/boxjs.json)
 
-### 更多去开屏广告教程
+#### 更多去开屏广告教程
 - 如果您需要更多的iOS和Android去开屏广告教程，可以参考[@dgksf2013](https://github.com/ddgksf2013) 提供的：
   [**如何有效减少Android、IOS端应用开屏广告的打扰**](https://mp.weixin.qq.com/s/DOwEQs4Z7eFpGWOVAO-2QA)
 
-### Quantumult X 视频指南
+#### Quantumult X 视频指南
 - 另外，我们推荐[@Serdongchanyo](https://github.com/erdongchanyo) 提供的详细文字与视频指南，它将帮助您更好地理解和使用Quantumult X：
   [**Quantumult X 小白系列教程**](https://github.com/erdongchanyo/Rules/blob/main/Quantumult%20X/README.md)
 - 最新版本的视频教程也可参考[**最极简的圈叉（Quantumult X）配置教程**](https://www.youtube.com/watch?v=xa_jApzNZjg)
-### 解锁网易云音乐教程
+#### 解锁网易云音乐教程
 - 如果您需要解锁网易云音乐，可以参考[@dgksf2013](https://github.com/ddgksf2013) 提供的：
   [**利用QuantumultX解锁网易云付费及非版权音乐**](https://mp.weixin.qq.com/s/ca6U1O2FTfcqzL7TnJ04IQ)
 
-## 10. 免责声明
+### 10. 免责声明
 
 - 本仓库提供的所有内容均由用户自主收集和分享，作者不对使用过程中可能出现的任何问题承担责任。
 - 使用本仓库内容即表示您已阅读并同意 [免责声明](#7️⃣)。
 
-## 11. 联系我们 <a name="Precautions5"></a>
+### 11. 联系我们 <a name="Precautions5"></a>
 
 如果您在使用过程中遇到任何问题或有任何建议，我们鼓励您通过以下渠道联系我们：
 
@@ -219,9 +218,7 @@
 > 更多的分流请参考 [*@blackmatrix7*](https://github.com/blackmatrix7) 提供的 [***Quantumult X 分流***](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX)， [*@deezertidal*](https://github.com/deezertidal/QuantumultX-Rewrite) 提供的 [***Quantumult X 分流***](https://whatshub.top/rule)
 
 ## 3️⃣QuantumultX 复写：
-
-### 注意：带 ❗ 的需配合boxjs使用
-### ✅正常 🟨待验证 🟥失效
+### ✅正常 🟨待验证 🟥失效 ❗BoxJS
 <table>
     <tr> <th> 类别 </th> <th> 序号 </th> <th> 功能 </th> <th> 链接 </th> <th> 作者 </th> <th> 更新日期 </th></tr >
     <tr>
@@ -448,15 +445,52 @@
 > 更多的重写请参考 [*@ddgksf2013*](https://github.com/ddgksf2013) 提供的 [***Quantumult X 重写配置***](https://github.com/ddgksf2013/Rewrite/tree/master)，[*@deezertidal*](https://github.com/deezertidal/QuantumultX-Rewrite) 提供的 [***Quantumult X 重写配置***](https://whatshub.top/quantumultx)
 
 ## 4️⃣QuantumultX 脚本Task：
-
-- [x] QX每日色图脚本 [*setu.js*](https://github.com/ddgksf2013/Scripts/raw/master/setu.js)
-- [x] 得宝小程序签到 [*db.js*](https://github.com/ddgksf2013/Scripts/raw/master/debao.js)
-- [x] 同程旅行小程序签到 [*tclx.js*](https://github.com/ddgksf2013/Scripts/raw/master/tclx.js)
-- [x] 书香门第网页签到 [*sxmd.js*](https://github.com/ddgksf2013/Scripts/raw/master/shuxiangmendi.js)
-- [x] 每天60s读懂世界 [*60s.js*](https://github.com/ddgksf2013/Scripts/raw/master/60s.js)
-- [x] Glados签到 [*glados.js*](https://gist.githubusercontent.com/ddgksf2013/32b3d37d78433a34370cbfb69780160d/raw/glados.js)
-- [x] Emby自动保号 [*emby.js*](https://gist.githubusercontent.com/ddgksf2013/e6793129fba99bb539cd7a49f74a48fa/raw/embyAutoSign.js)
-- [x] 收集的一些 [***脚本合集***](https://github.com/misitechan/-QuantumultX-/tree/main/Task)
+### ✅正常 🟨待验证 🟥失效 ❗BoxJS
+<table>
+<tr>
+		<td rowspan="7"><strong>脚本Task</strong></td>
+		<td > 1 </td> <td >✅黑料不打烊🔞 ❗</td> <td ><a href="https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/hlbdy.js"><em>hlbdy.js</em></a></td><td>yqc_123</td><td>2024.4.15</td>
+    </tr>
+	<tr>
+		<td > 2 </td> <td >✅𝐉𝐀𝐕𝐃𝐚𝐲每日推荐🔞 ❗</td> <td ><a href="https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/javday.js"><em>javday.js</em></a></td><td>lyqc_123</td><td>2024.4.11</td>
+    </tr>
+	<tr>
+		<td > 3 </td> <td >✅节点网速查询</td> <td ><a href="https://raw.githubusercontent.com/getsomecat/Qx/main/Net_Speed.js"><em>Net_Speed.js</em></a></td><td>wuhu_zzz</td><td>2024.6.20</td>
+    </tr>
+	<tr>
+		<td > 4 </td> <td >✅策略流量查询<br></td> <td ><a href="https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/traffic-check.js"><em>traffic-check.js</em></a></td><td>XIAO_KOP</td><td>2024.5.23</td>
+    </tr>
+	<tr>
+		<td > 5 </td> <td >✅ 节点链路查询 </td> <td ><a href="https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/NodeLinkCheck/Script/NodeLinkCheck.js"><em>NodeLinkCheck.js</em></a></td><td>XIAO_KOP<br>ddgksf2013</td><td>2024.5.23</td>
+    </tr>
+	<tr>
+		<td > 6 </td> <td > ✅谷歌送中查询 </td> <td ><a href="https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/switch-check-google.js"><em>switch-check-google.js</em></a></td><td>XIAO_KOP</td><td>2024.5.23</td>
+    </tr>
+	<tr>
+		<td > 7 </td> <td > ✅节点位置查询</td> <td ><a href="https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/script/txt/ipinfo.txt"><em>ipinfo.txt"</em></a></td><td>XiaoMao</td><td>2024.5.23</td>
+    </tr>
+	<tr>
+		<td > 7 </td> <td > ✅节点风险查询</td> <td ><a href="https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/server-info-plus.js"><em>server-info-plus.js</em></a></td><td>XIAO_KOP</td><td>2024.5.23</td>
+    </tr>
+	<tr>
+		<td > 7 </td> <td > ✅网易云解锁查询</td> <td ><a href="https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/TaskLocal/NeteaseMusicUnlockCheck.js"><em>NeteaseMusicUnlockCheck.js</em></a></td><td>R·E</td><td>2024.5.23</td>
+    </tr>
+	<tr>
+		<td > 7 </td> <td > ✅每日新闻60s ❗</td> <td ><a href="https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/XiaoMaoNewsPic.js"><em>XiaoMaoNewsPic.js</em></a></td><td>XiaoMao</td><td>2024.5.23</td>
+    </tr>
+	<tr>
+		<td > 7 </td> <td > ✅GeoIP 查询 </td> <td ><a href="https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/geo_location.js"><em>geo_location.js</em></a></td><td>XIAO_KOP</td><td>2024.5.23</td>
+    </tr>
+	<tr>
+		<td > 7 </td> <td > ✅流媒体解锁查询</td> <td ><a href="https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/streaming-ui-check.js"><em>streaming-ui-check.js</em></a></td><td>XIAO_KOP</td><td>2023.2.14</td>
+    </tr>
+	<tr>
+		<td > 7 </td> <td > 🟨每日色图脚本🔞</td> <td ><a href="https://github.com/ddgksf2013/Scripts/raw/master/setu.js"><em>setu.js</em></a></td><td>ddgksf2021</td><td>2021.2.12</td>
+    </tr>
+	<tr>
+		<td > 7 </td> <td > 🟨Emby自动保号</td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/e6793129fba99bb539cd7a49f74a48fa/raw/embyAutoSign.js"><em>embyAutoSign.js</em></a></td><td>ddgksf2013</td><td>2023.3.21</td>
+    </tr>
+</table>
 > 更多的签到脚本请参考 [*@Chavyleung*](https://github.com/chavyleung) 提供的 [***Quantumult X 签到脚本***](https://github.com/chavyleung/scripts/blob/master/QuantumultX_Remote_Task.conf)
 
 ## 5️⃣QuantumultX 图标库
