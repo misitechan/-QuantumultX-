@@ -492,6 +492,7 @@
 		<td > 14 </td> <td > 🟨Emby自动保号</td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/e6793129fba99bb539cd7a49f74a48fa/raw/embyAutoSign.js"><em>embyAutoSign.js</em></a></td><td>ddgksf2013</td><td>2023.3.21</td>
     </tr>
 </table>
+
 > 更多的签到脚本请参考 [*@Chavyleung*](https://github.com/chavyleung) 提供的 [***Quantumult X 签到脚本***](https://github.com/chavyleung/scripts/blob/master/QuantumultX_Remote_Task.conf)
 
 ## 5️⃣QuantumultX 图标库
