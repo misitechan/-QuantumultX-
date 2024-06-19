@@ -449,7 +449,7 @@
 <table>
  <tr> <th> 类别 </th> <th> 序号 </th> <th> 功能 </th> <th> 链接 </th> <th> 作者 </th> <th> 更新日期 </th></tr >
 <tr>
-		<td rowspan="14"><strong>脚本Task</strong></td>
+		<td rowspan="15"><strong>脚本Task</strong></td>
 		<td > 1 </td> <td >✅黑料不打烊🔞 ❗</td> <td ><a href="https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/hlbdy.js"><em>hlbdy.js</em></a></td><td>yqc_123</td><td>2024.4.15</td>
     </tr>
 	<tr>
@@ -490,6 +490,9 @@
     </tr>
 	<tr>
 		<td > 14 </td> <td > 🟨Emby自动保号</td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/e6793129fba99bb539cd7a49f74a48fa/raw/embyAutoSign.js"><em>embyAutoSign.js</em></a></td><td>ddgksf2013</td><td>2023.3.21</td>
+    </tr>
+	<tr>
+		<td > 15 </td> <td > <strong>🟨脚本合集</strong></td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/Task/misitechan.json"><em>misitechan.json</em></a></td><td>misitechan</td><td>2023.6.20</td>
     </tr>
 </table>
 
