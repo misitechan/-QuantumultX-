@@ -272,7 +272,7 @@
 		<td > 16 </td> <td > ✅阿里云盘VIP ❗ </td> <td ><a href="https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/XiaoMaoALiCloud.js"><em>xiaoMaoALiCloud.js</em></a></td><td>XiaoMao</td><td>2024.6.08</td>
     </tr>
 	<tr>
-		<td > 17 </td> <td >🟨加藤视频VIP  </td> <td ><a href="https://raw.githubusercontent.com/WeiGiegie/666/main/jtsp.js"><em>jtsp.js</em></a></td><td>WeiGiegie</td><td>2024.6.08</td>
+		<td > 17 </td> <td >🟨加藤视频VIP🔞  </td> <td ><a href="https://raw.githubusercontent.com/WeiGiegie/666/main/jtsp.js"><em>jtsp.js</em></a></td><td>WeiGiegie</td><td>2024.6.08</td>
     </tr>
 	<tr>
 		<td > 18 </td> <td > ✅迅雷VIP  </td> <td ><a href="https://whatshub.top/rewrite/thunder.conf"><em>thunder.conf</em></a></td><td>Marol62926</td><td>2024.6.08</td>
