@@ -447,6 +447,7 @@
 ## 4️⃣QuantumultX 脚本Task：
 ### ✅正常 🟨待验证 🟥失效 ❗BoxJS
 <table>
+ <tr> <th> 类别 </th> <th> 序号 </th> <th> 功能 </th> <th> 链接 </th> <th> 作者 </th> <th> 更新日期 </th></tr >
 <tr>
 		<td rowspan="14"><strong>脚本Task</strong></td>
 		<td > 1 </td> <td >✅黑料不打烊🔞 ❗</td> <td ><a href="https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/hlbdy.js"><em>hlbdy.js</em></a></td><td>yqc_123</td><td>2024.4.15</td>
