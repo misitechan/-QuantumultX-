@@ -176,9 +176,9 @@
   [**如何有效减少Android、IOS端应用开屏广告的打扰**](https://mp.weixin.qq.com/s/DOwEQs4Z7eFpGWOVAO-2QA)
 
 ### Quantumult X 视频指南
-- 另外，我们推荐[@Serdongchanyo](https://github.com/erdongchanyo) 提供的详细视频指南，它将帮助您更好地理解和使用Quantumult X：
+- 另外，我们推荐[@Serdongchanyo](https://github.com/erdongchanyo) 提供的详细文字与视频指南，它将帮助您更好地理解和使用Quantumult X：
   [**Quantumult X 小白系列教程**](https://github.com/erdongchanyo/Rules/blob/main/Quantumult%20X/README.md)
-- 最新的视频教程可以参考[**最极简的圈叉（Quantumult X）配置教程**](https://www.youtube.com/watch?v=xa_jApzNZjg)
+- 最新版本的视频教程也可参考[**最极简的圈叉（Quantumult X）配置教程**](https://www.youtube.com/watch?v=xa_jApzNZjg)
 ### 解锁网易云音乐教程
 - 如果您需要解锁网易云音乐，可以参考[@dgksf2013](https://github.com/ddgksf2013) 提供的：
   [**利用QuantumultX解锁网易云付费及非版权音乐**](https://mp.weixin.qq.com/s/ca6U1O2FTfcqzL7TnJ04IQ)
