@@ -448,7 +448,7 @@
 ### ✅正常 🟨待验证 🟥失效 ❗BoxJS
 <table>
 <tr>
-		<td rowspan="7"><strong>脚本Task</strong></td>
+		<td rowspan="14"><strong>脚本Task</strong></td>
 		<td > 1 </td> <td >✅黑料不打烊🔞 ❗</td> <td ><a href="https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/hlbdy.js"><em>hlbdy.js</em></a></td><td>yqc_123</td><td>2024.4.15</td>
     </tr>
 	<tr>
@@ -470,25 +470,25 @@
 		<td > 7 </td> <td > ✅节点位置查询</td> <td ><a href="https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/script/txt/ipinfo.txt"><em>ipinfo.txt"</em></a></td><td>XiaoMao</td><td>2024.5.23</td>
     </tr>
 	<tr>
-		<td > 7 </td> <td > ✅节点风险查询</td> <td ><a href="https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/server-info-plus.js"><em>server-info-plus.js</em></a></td><td>XIAO_KOP</td><td>2024.5.23</td>
+		<td > 8 </td> <td > ✅节点风险查询</td> <td ><a href="https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/server-info-plus.js"><em>server-info-plus.js</em></a></td><td>XIAO_KOP</td><td>2024.5.23</td>
     </tr>
 	<tr>
-		<td > 7 </td> <td > ✅网易云解锁查询</td> <td ><a href="https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/TaskLocal/NeteaseMusicUnlockCheck.js"><em>NeteaseMusicUnlockCheck.js</em></a></td><td>R·E</td><td>2024.5.23</td>
+		<td > 9 </td> <td > ✅网易云解锁查询</td> <td ><a href="https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/TaskLocal/NeteaseMusicUnlockCheck.js"><em>NeteaseMusicUnlockCheck.js</em></a></td><td>R·E</td><td>2024.5.23</td>
     </tr>
 	<tr>
-		<td > 7 </td> <td > ✅每日新闻60s ❗</td> <td ><a href="https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/XiaoMaoNewsPic.js"><em>XiaoMaoNewsPic.js</em></a></td><td>XiaoMao</td><td>2024.5.23</td>
+		<td > 10 </td> <td > ✅每日新闻60s ❗</td> <td ><a href="https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/XiaoMaoNewsPic.js"><em>XiaoMaoNewsPic.js</em></a></td><td>XiaoMao</td><td>2024.5.23</td>
     </tr>
 	<tr>
-		<td > 7 </td> <td > ✅GeoIP 查询 </td> <td ><a href="https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/geo_location.js"><em>geo_location.js</em></a></td><td>XIAO_KOP</td><td>2024.5.23</td>
+		<td > 11 </td> <td > ✅GeoIP 查询 </td> <td ><a href="https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/geo_location.js"><em>geo_location.js</em></a></td><td>XIAO_KOP</td><td>2024.5.23</td>
     </tr>
 	<tr>
-		<td > 7 </td> <td > ✅流媒体解锁查询</td> <td ><a href="https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/streaming-ui-check.js"><em>streaming-ui-check.js</em></a></td><td>XIAO_KOP</td><td>2023.2.14</td>
+		<td > 12 </td> <td > ✅流媒体解锁查询</td> <td ><a href="https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/streaming-ui-check.js"><em>streaming-ui-check.js</em></a></td><td>XIAO_KOP</td><td>2023.2.14</td>
     </tr>
 	<tr>
-		<td > 7 </td> <td > 🟨每日色图脚本🔞</td> <td ><a href="https://github.com/ddgksf2013/Scripts/raw/master/setu.js"><em>setu.js</em></a></td><td>ddgksf2021</td><td>2021.2.12</td>
+		<td > 13 </td> <td > 🟨每日色图脚本🔞</td> <td ><a href="https://github.com/ddgksf2013/Scripts/raw/master/setu.js"><em>setu.js</em></a></td><td>ddgksf2021</td><td>2021.2.12</td>
     </tr>
 	<tr>
-		<td > 7 </td> <td > 🟨Emby自动保号</td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/e6793129fba99bb539cd7a49f74a48fa/raw/embyAutoSign.js"><em>embyAutoSign.js</em></a></td><td>ddgksf2013</td><td>2023.3.21</td>
+		<td > 14 </td> <td > 🟨Emby自动保号</td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/e6793129fba99bb539cd7a49f74a48fa/raw/embyAutoSign.js"><em>embyAutoSign.js</em></a></td><td>ddgksf2013</td><td>2023.3.21</td>
     </tr>
 </table>
 > 更多的签到脚本请参考 [*@Chavyleung*](https://github.com/chavyleung) 提供的 [***Quantumult X 签到脚本***](https://github.com/chavyleung/scripts/blob/master/QuantumultX_Remote_Task.conf)
