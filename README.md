@@ -133,7 +133,7 @@
 - 在使用过程中，如果遇到任何问题，请先查阅本仓库的 [FAQ](https://github.com/misitechan/Frequently-Asked-Questions/blob/main/README.md) 或在 [Issues](https://github.com/misitechan/-QuantumultX-/issues) 中搜索或提问。
 - 本仓库内容仅供学习和研究使用，不得用于任何商业用途。
 - 使用本仓库内容时，请遵守当地法律法规。
-- 要查看最新的更新和历史版本记录，请访问 [QuantumultX 历史版本存档](https://github.com/misitechan/-QuantumultX-/tree/main/historic%20version)。
+- 要查看最新的更新和历史版本记录，请访问 [QuantumultX 历史版本存档](https://github.com/misitechan/-QuantumultX-/tree/main/historic%20version/document)。
 
 ### 8. 自用QX配置<a name="Precautions2"></a>
 
