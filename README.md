@@ -200,22 +200,40 @@
 ### 分流规则列表
 
 获取以下分流规则，以优化您的网络体验和访问特定服务：
-
-- **网易云音乐分流**
-  [NeteaseMusic.list](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/list-gather/NeteaseMusic.list)
-- **ChatGPT 分流**
-  [OpenAi.list](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/list-gather/OpenAi.list)
-- **中国大陆软件IP修改分流**
-  [Anti-ip.list](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/list-gather/Anti-ip.list)
-- **TikTok地区分流**
-  [TikTok.list](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/list-gather/TikTok.list)
-- **抖音IP分流**
-  [DouYin.list](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/list-gather/DouYin.list)
-- **GitHub分流**
-  [GitHub.list](https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/list-gather/GitHub.list)
-- **哔哩哔哩港澳台解锁分流**
-  [GitHub.list](https://raw.githubusercontent.com/ddgksf2013/Filter/master/StreamingSE.list)
-
+<table>
+ <tr> <th> 类别 </th> <th> 序号 </th> <th> 功能 </th> <th> 链接 </th></tr >
+<tr>
+		<td rowspan="15"><strong>分流规则</strong></td>
+		<td > 1 </td> <td >GitHub分流</td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/list-gather/GitHub.list"><em>GitHub.list</em></a></td>
+</tr>
+<tr>
+		<td > 2 </td> <td >Telegram分流</td> <td ><a href="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Telegram/Telegram.list"><em>Telegram.list</em></a></td>
+</tr>
+<tr>
+		<td > 3 </td> <td >TikTok分流</td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/list-gather/TikTok.list"><em>TikTok.list</em></a></td>
+</tr>
+<tr>
+		<td > 4 </td> <td >ChatGPT 分流</td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/list-gather/OpenAi.list"><em>OpenAi.list</em></a></td>
+</tr>
+<tr>
+		<td > 5 </td> <td >抖音分流</td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/list-gather/DouYin.list"><em>DouYin.list</em></a></td>
+</tr>
+<tr>
+		<td > 6 </td> <td >网易云音乐分流</td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/list-gather/NeteaseMusic.list"><em>NeteaseMusic.list</em></a></td>
+</tr>
+<tr>
+		<td > 6 </td> <td >哔哩哔哩分流</td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Filter/master/StreamingSE.list"><em>StreamingSE.list</em></a></td>
+</tr>
+<tr>
+		<td > 7 </td> <td >中国大陆软件IP修改分流</td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/list-gather/Anti-ip.list"><em>Anti-ip.list</em></a></td>
+</tr>
+<tr>
+		<td > 8 </td> <td >微信直连分流 </td> <td ><a href="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/WeChat/WeChat.list"><em>WeChat.list</em></a></td>
+</tr>
+<tr>
+		<td > 8 </td> <td >苹果服务分流 </td> <td ><a href="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Apple/Apple.list"><em>Apple.list</em></a></td>
+</tr>
+</table>
 > 更多的分流请参考 [*@blackmatrix7*](https://github.com/blackmatrix7) 提供的 [***Quantumult X 分流***](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX)， [*@deezertidal*](https://github.com/deezertidal/QuantumultX-Rewrite) 提供的 [***Quantumult X 分流***](https://whatshub.top/rule)
 
 ## 3️⃣QuantumultX 复写：
