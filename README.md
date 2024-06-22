@@ -363,7 +363,7 @@
 		<td > 18 </td> <td > 🟨菜鸟裹裹去广告 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Cainiao.conf"><em>Cainiao.conf</em></a></td><td>ddgksf2013</td>  <td>2024.5.23</td>
     </tr>
 	<tr>
-		<td > 19 </td> <td > 🟥起点去广告[卸载重装] </td> <td ><a href="https://raw.githubusercontent.com/app2smile/rules/master/module/qidian.conf"><em>qidian.conf</em></a></td><td>app2smile</td>  <td>2024.5.23</td>
+		<td > 19 </td> <td > ✅起点去广告[卸载重装] </td> <td ><a href="https://raw.githubusercontent.com/app2smile/rules/master/module/qidian.conf"><em>qidian.conf</em></a></td><td>app2smile</td>  <td>2024.5.23</td>
     </tr>
 	<tr>
 		<td > 20 </td> <td > 🟨随手记去广告 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/SuiShouJi.conf"><em>SuiShouJi.conf</em></a></td><td>ddgksf2013</td>  <td>2024.5.23</td>
@@ -536,7 +536,7 @@
 
 ## 6️⃣Awesome Resource：
 
-* 1080P超清IPTV国内[***直播源***](https://github.com/ddgksf2013/M3U8LIST/raw/master/IPTV2022.m3u)
+* 1080P超清IPTV国内[***直播源***](https://raw.githubusercontent.com/ddgksf2013/M3U8LIST/master/IPTV2024.m3u)
 * 网盘资源 [*Tg.md*](https://t.me/ddgksf2023): TrollStore、Windows、Cracker.ipa、Android.apk...
 * [***优秀Web网站合集***](https://github.com/misitechan/html)：影视、工具、下载、阅读、Porn...
 * IOS手机端应用推荐[*Appraven.net*](https://appraven.net/collection/37743082)
