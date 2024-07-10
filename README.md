@@ -354,7 +354,7 @@
 		<td > 15 </td> <td > <strong>✅微博(国际版)去广告 </strong></td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Weibo.conf"><em>Weibo.conf</em></a></td><td>ddgksf2013</td>  <td>2024.5.23</td>
     </tr>
 	<tr>
-		<td > 16 </td> <td >✅ 高德地图去广告[卸载重装] </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Amap.conf"><em>Amap.conf</em></a></td><td>ddgksf2013</td>  <td>2024.5.23</td>
+		<td > 16 </td> <td >✅ 高德地图去广告</td> <td ><a href="https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Amap_remove_ads.plugin"><em>Amap.conf</em></a></td><td>Keywos</td>  <td>2024.7.10</td>
     </tr>
 	<tr>
 		<td > 17 </td> <td > ✅网易云去广告 </td> <td ><a href="https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/NeteaseCloudMusic_remove_ads.plugin"><em>Netease.conf</em></a></td><td>Keywos</td> <td>2024.7.10</td> 
