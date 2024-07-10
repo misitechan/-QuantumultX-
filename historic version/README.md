@@ -2,8 +2,7 @@
 
 ## [2.0] - 2024
 ### 新增
-- 2024-07-10 (96)：新增微博去广告净化规则。
-- 2024-07-10 (92)：新增滴滴去广告净化规则。
+- 2024-07-10 (96)：新增滴滴、微博、qq音乐去广告净化规则。
 - 2024-06-11 (85)：增加了各种脚本订阅合集，由[@NobyDa](https://github.com/NobyDa)大佬收集。
 - 2024-06-08 (84)：增加了本配置需要的BoxJs订阅的地址。
 - 2024-06-08 (83)：增加了阿里云盘vip解锁，需要配合[XiaoMao BoxJs](https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/XiaoMao.json)的订阅。
