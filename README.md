@@ -324,7 +324,7 @@
 		<td > 5 </td> <td > ✅知乎去广告 </td> <td ><a href="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zheye/zheye.snippet"><em>Zhihu_Plus.conf</em></a></td><td>blackmatrix7</td>  <td>2024.5.23</td>
     </tr>
 	<tr>
-		<td > 6 </td> <td > ✅百度贴吧去广告 </td> <td ><a href="https://github.com/app2smile/rules/raw/master/module/tieba-qx.conf"><em>Tieba_Ads.conf</em></a></td><td>app2smile</td> <td>2024.5.23</td> 
+		<td > 6 </td> <td > ✅百度贴吧净化 </td> <td ><a href="https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Tieba_remove_ads.plugin"><em>Tieba_Ads.conf</em></a></td><td>app2smile</td> <td>2024.7.10</td> 
     </tr>
 	<tr>
 		<td > 7 </td> <td > ✅百度网盘去广告 </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/f43026707830c7818ee3ba624e383c8d/raw/baiduCloud.vip.js"><em>BdPanAdBlock.conf</em></a></td><td>ddgksf2013</td><td>2024.6.21</td>
