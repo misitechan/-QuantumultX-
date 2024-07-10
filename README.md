@@ -357,7 +357,7 @@
 		<td > 16 </td> <td >✅ 高德地图去广告[卸载重装] </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Amap.conf"><em>Amap.conf</em></a></td><td>ddgksf2013</td>  <td>2024.5.23</td>
     </tr>
 	<tr>
-		<td > 17 </td> <td > ✅网易云去广告 </td> <td ><a href="https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/NeteaseCloudMusic_remove_ads.plugin"><em>Netease.conf</em></a></td><td>dKeywos</td> <td>2024.7.10</td> 
+		<td > 17 </td> <td > ✅网易云去广告 </td> <td ><a href="https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/NeteaseCloudMusic_remove_ads.plugin"><em>Netease.conf</em></a></td><td>Keywos</td> <td>2024.7.10</td> 
     </tr>
 	<tr>
 		<td > 18 </td> <td > 🟨菜鸟裹裹去广告 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Cainiao.conf"><em>Cainiao.conf</em></a></td><td>ddgksf2013</td>  <td>2024.5.23</td>
@@ -381,7 +381,7 @@
 		<td > 24 </td> <td > 🟨皮皮虾净化及去水印 </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/bb1dadbd32f67c68772caebcc70b0a33/raw/pipixia.adblock.js"><em>pipixia.adblock.js</em></a></td><td>Liquor030</td> <td>2024.5.23</td> 
     </tr>
 	<tr>
-		<td > 25 </td> <td > ✅什么值得买 </td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/ad%20guard/smzdm.conf"><em>smzdmAds.conf</em></a></td><td>blackmatrix7＆ZenmoFeiShi</td>  <td>2024.7.10</td>
+		<td > 25 </td> <td > ✅什么值得买[卸载重装]</td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/ad%20guard/smzdm.conf"><em>smzdmAds.conf</em></a></td><td>blackmatrix7＆ZenmoFeiShi</td>  <td>2024.7.10</td>
     </tr>
 	<tr>
 		<td > 26 </td> <td > 🟨微信阅读精简 </td> <td ><a href="https://raw.githubusercontent.com/Maasea/sgmodule/master/WeRead.sgmodule"><em>WeRead.sgmodule</em></a></td><td>Maasea</td><td>2024.5.23</td>  
