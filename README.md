@@ -308,7 +308,7 @@
 		<td colspan="5">  </td>
     </tr>
     <tr>
-		<td rowspan="28"><strong>广告屏蔽</strong></td>
+		<td rowspan="29"><strong>广告屏蔽</strong></td>
 		<td > 1 </td> <td > ✅微信小程序去广告 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Applet.conf"><em>Applet.conf</em></a></td><td>ddgksf2013</td><td>2024.5.23</td>
     </tr>
     <tr>
@@ -391,6 +391,9 @@
     </tr>
 	<tr>
 		<td > 28 </td> <td > ✅酷我广告净化 </td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/ad%20guard/kuwoadblock.conf"><em>kuwoadblock.conf</em></a></td><td>ddgksf2013</td><td>2024.6.08</td>  
+    </tr>
+	<tr>
+		<td > 29 </td> <td > ✅滴滴广告净化 </td> <td ><a href="https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/DiDi_remove_ads.plugin"><em>DiDi_ads.plugin</em></a></td><td>ZenmoFeiShi</td><td>2024.7.10</td>  
     </tr>
 	<tr>
 		<td colspan="5">  </td>
