@@ -246,7 +246,7 @@
 		<td > 1 </td> <td >✅哔哩哔哩广告净化</td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Bilibili.conf"><em>BilibiliVip.conf</em></a></td><td>ddgksf2013</td><td>2024.5.23</td>
     </tr>	
 	<tr>
-		<td > 2 </td> <td >✅Spotify会员 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/UnlockVip/Spotify.conf"><em>SpotifyPro.conf</em></a></td><td>app2smile
+		<td > 2 </td> <td >✅Spotify会员[音质≤超高]</td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/UnlockVip/Spotify.conf"><em>SpotifyPro.conf</em></a></td><td>app2smile
 		</td><td>2024.5.23</td>
     </tr>
 	<tr>
