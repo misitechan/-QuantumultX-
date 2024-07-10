@@ -308,8 +308,8 @@
 		<td colspan="5">  </td>
     </tr>
     <tr>
-		<td rowspan="29"><strong>广告屏蔽</strong></td>
-		<td > 1 </td> <td > ✅微信小程序去广告 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Applet.conf"><em>Applet.conf</em></a></td><td>ddgksf2013</td><td>2024.5.23</td>
+		<td rowspan="31"><strong>广告屏蔽</strong></td>
+		<td > 1 </td> <td > 🟨微信小程序去广告 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Applet.conf"><em>Applet.conf</em></a></td><td>ddgksf2013</td><td>2024.5.23</td>
     </tr>
     <tr>
 		<td > 2 </td> <td > ✅墨鱼去开屏2.0 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/StartUp.conf"><em>StartUp.conf</em></a></td><td>ddgksf2013</td><td>2024.5.23</td>
@@ -318,7 +318,7 @@
 		<td > 3 </td> <td > ✅油管广告屏蔽<br><strong><em>视频自动PIP+背景播放</strong></em> </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/YoutubeAds.conf"><em>YoutubeAds.conf</em></a></td><td>divineEngine<br>Maasea</td>  <td>2024.5.23</td>
     </tr>
 	<tr>
-		<td > 4 </td> <td >🟥公众号图文去广告<br></td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/WeChat.conf"><em>WeChatAdBlock.conf</em></a> </td><td>ddgksf2013</td><td>2024.5.23</td>
+		<td > 4 </td> <td >🟨公众号图文去广告<br></td> <td ><a href="https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Weixin_Official_Accounts_remove_ads.plugin"><em>WeChatAdBlock.conf</em></a> </td><td> RuCu6</td><td>2024.7.10</td>
     </tr>
 	<tr>
 		<td > 5 </td> <td > ✅知乎去广告 </td> <td ><a href="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zheye/zheye.snippet"><em>Zhihu_Plus.conf</em></a></td><td>blackmatrix7</td>  <td>2024.5.23</td>
@@ -351,7 +351,7 @@
 		<td > 14 </td> <td >🟥多多视频去广告</td> <td > <a href="https://raw.githubusercontent.com/ddgksf2013/Scripts/master/rrtv_json.js"><em>DuoduoVideoAds.js</em></a></td><td>ddgksf2013</td>  <td>2024.5.23</td>
     </tr>
 	<tr>
-		<td > 15 </td> <td > <strong>✅微博(国际版)去广告 </strong></td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Weibo.conf"><em>Weibo.conf</em></a></td><td>ddgksf2013</td>  <td>2024.5.23</td>
+		<td > 15 </td> <td > <strong>✅微博(国际轻享版)去广告 </strong></td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Weibo.conf"><em>Weibo.conf</em></a></td><td>ddgksf2013</td>  <td>2024.5.23</td>
     </tr>
 	<tr>
 		<td > 16 </td> <td >✅ 高德地图去广告</td> <td ><a href="https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Amap_remove_ads.plugin"><em>Amap.conf</em></a></td><td>Keywos</td>  <td>2024.7.10</td>
@@ -363,7 +363,7 @@
 		<td > 18 </td> <td > 🟨菜鸟裹裹去广告 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Cainiao.conf"><em>Cainiao.conf</em></a></td><td>ddgksf2013</td>  <td>2024.5.23</td>
     </tr>
 	<tr>
-		<td > 19 </td> <td > ✅起点去广告[卸载重装] </td> <td ><a href="https://raw.githubusercontent.com/app2smile/rules/master/module/qidian.conf"><em>qidian.conf</em></a></td><td>app2smile</td>  <td>2024.5.23</td>
+		<td > 19 </td> <td > ✅起点去广告</td> <td ><a href="https://raw.githubusercontent.com/app2smile/rules/master/module/qidian.conf"><em>qidian.conf</em></a></td><td>app2smile</td>  <td>2024.5.23</td>
     </tr>
 	<tr>
 		<td > 20 </td> <td > 🟨随手记去广告 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/SuiShouJi.conf"><em>SuiShouJi.conf</em></a></td><td>ddgksf2013</td>  <td>2024.5.23</td>
@@ -372,7 +372,7 @@
 		<td > 21 </td> <td > 🟥Bing首页简化 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/BingSimplify.conf"><em>BingSimplify.conf</em></a></td><td>ddgksf2013</td>  <td>2024.5.23</td>
     </tr>
 	<tr>
-		<td > 22 </td> <td > 🟥优酷净化[卸载重装]</td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/5b431857f8b88acbc7ac2453a21e676a/raw/youku.adblock.js"><em>youku.adblock.js</em></a></td><td>ddgksf2013</td>  <td>2024.5.23</td>
+		<td > 22 </td> <td > 🟨优酷净化[11.0.48版本以下]</td> <td ><a href="https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/YouKu_Video_remove_ads.plugin"><em>youku.adblock.js</em></a></td><td>ddgksf2013</td>  <td>2024.5.23</td>
     </tr>
     <tr>
 		<td > 23 </td> <td > 🟨百度地图净化[卸载重装] </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/beec132ca0c3570ffa0cf331bce8f82a/raw/baidumap.adblock.conf"><em>baidumap.conf</em></a></td><td>ddgksf2013</td>  <td>2024.5.23</td>
@@ -394,6 +394,13 @@
     </tr>
 	<tr>
 		<td > 29 </td> <td > ✅滴滴广告净化 </td> <td ><a href="https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/DiDi_remove_ads.plugin"><em>DiDi_ads.plugin</em></a></td><td>ZenmoFeiShi</td><td>2024.7.10</td>  
+    </tr>
+		<tr>
+		<td > 30 </td> <td > 🟨微博去广告 </td> <td ><a href="https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Weibo_remove_ads.plugin"><em>Weibo_ads.plugin</em></a></td><td>ZenmoFeiShi</td><td>2024.7.10</td>  
+    </tr>
+	  </tr>
+		<tr>
+		<td > 31 </td> <td > 🟨qq音乐去广告 </td> <td ><a href="https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/QQMusic_remove_ads.plugin"><em>QQMusic_ads.plugin</em></a></td><td>Keywos</td><td>2024.7.10</td>  
     </tr>
 	<tr>
 		<td colspan="5">  </td>
