@@ -268,7 +268,7 @@
 		<td > 8 </td> <td >🟨BuyiTunes多合一 </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/9e0f6c7341beea09a31aa309d9d7f502/raw/buyitunes.js"><em>buyitunes.js</em></a></td><td>ddgksf2013</td><td>2024.5.23</td>
     </tr>
 	<tr>
-		<td > 9</td> <td >✅喜马拉雅VIP</td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/privilege/ximalayaVIP.js"><em>ximalayaVIP.js</em></a></td><td>GieGie777</td><td>2024.5.23</td>
+		<td > 9</td> <strong><td >✅喜马拉雅VIP</td> <td ></strong><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/privilege/ximalayaVIP.js"><em>ximalayaVIP.js</em></a></td><td>GieGie777</td><td>2024.5.23</td>
     </tr>
 	<tr>
 		<td > 10 </td> <td >🟨Emby解锁 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Function/EmbyPlugin.conf"><em>EmbyPlugin.conf</em></a></td><td>rartv</td><td>2024.5.23</td>
@@ -289,7 +289,7 @@
 		<td > 15 </td> <td > ✅懒人听书VIP </td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/privilege/lrts.js"><em>lrtsVIP.js</em></a></td><td>WeiGiegie/</td><td>2024.6.14</td>
     </tr>
 	<tr>
-		<td > 16 </td> <td > ✅阿里云盘VIP ❗ </td> <td ><a href="https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/XiaoMaoALiCloud.js"><em>xiaoMaoALiCloud.js</em></a></td><td>XiaoMao</td><td>2024.6.08</td>
+		<td > 16 </td> <td > 🟨阿里云盘VIP ❗ </td> <td ><a href="https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/XiaoMaoALiCloud.js"><em>xiaoMaoALiCloud.js</em></a></td><td>XiaoMao</td><td>2024.6.08</td>
     </tr>
 	<tr>
 		<td > 17 </td> <td >🟨加藤视频VIP🔞  </td> <td ><a href="https://raw.githubusercontent.com/WeiGiegie/666/main/jtsp.js"><em>jtsp.js</em></a></td><td>WeiGiegie</td><td>2024.6.08</td>
@@ -390,7 +390,7 @@
 		<td > 27 </td> <td >🟨 去广告合集[与部分规则冲突] </td> <td ><a href="https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/rewrite/chongxie.txt"><em>chongxie.txt</em></a></td><td>fmz200</td><td>2024.6.02</td>  
     </tr>
 	<tr>
-		<td > 28 </td> <td > ✅酷我广告净化 </td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/ad%20guard/kuwoadblock.conf"><em>kuwoadblock.conf</em></a></td><td>ddgksf2013</td><td>2024.6.08</td>  
+		<td > 28 </td> <td > 🟥酷我广告净化 </td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/ad%20guard/kuwoadblock.conf"><em>kuwoadblock.conf</em></a></td><td>ddgksf2013</td><td>2024.6.08</td>  
     </tr>
 	<tr>
 		<td > 29 </td> <td > ✅滴滴广告净化 </td> <td ><a href="https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/DiDi_remove_ads.plugin"><em>DiDi_ads.plugin</em></a></td><td>ZenmoFeiShi</td><td>2024.7.10</td>  
