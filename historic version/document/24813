@@ -1,0 +1,311 @@
+// 🔖🔖🔖🔖🔖🔖🔖🔖🔖🔖
+// 📃自用的QX配置文件,本配置文件由@ddgksf2013大佬创建，稍作修改符合自己的使用习惯，请勿转载
+// 🚀@UpdateTime        2024/06/18 19:10 UTC/GMT +8
+// 💬@Function          请参考对应的注释或Tag
+// 🏷️@MainFunction      去开屏广告、应用净化、超级VIP、智能分流、自动优选、图标订阅、流媒体查询、Boxjs订阅、网易云解灰色Music、IOS更新屏蔽、IP伪装、节点查询、脚本订阅...
+// 🙏@ExpressThanks     @Blackmatrix7，@DivineEngine，@App2smile，@Peng-YM，@Nick-workflow，@KOP-XIAO，@NobyDa，@Neurogram-R，@yjqiang，@O7Y0，@Choler，@id77，@zmqcherish，@Qure，@Orz-3，@kyle，@HotKids，@langkach，@lxk0301，@zqzess，@Anti-AD，@VirgilClyne，@zZPiglet，@Chavyleung，@tugepaopao，@Yuanxsxs，@LovedGM，@Semporia，@Koolson
+// 🔗@ConfigURL         https://github.com/misitechan/-QuantumultX-/edit/main/Profile-gather/misitechan.conf
+// 🟡@emoji             https://emoji6.com/emojiall
+// 🟡@Disclaimer        本内容仅供参考，不保证准确性。使用信息造成的后果，本方不承担责任。
+// 🔖🔖🔖🔖🔖🔖🔖🔖🔖🔖
+# 🟢建议在「其他设置」里「GeoLite2」的「来源」填写使用下面链接「可选一个」，并开启「自动更新」
+; https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb
+; https://github.com/Hackl0us/GeoIP2-CN/raw/release/Country.mmdb
+# 🟢解锁网易云灰色音乐，获取证书链接
+; https://raw.githubusercontent.com/nondanee/UnblockNeteaseMusic/master/ca.crt
+# 🟢 QuantumultX设置推荐
+; 「通知」栏中，建议仅开启[策略检测通知]和[脚本通知]开关，「VPN」栏中，建议关闭[兼容性增强]、[分流匹配优化]和[MPM]开关
+
+
+[一般的]
+# ✅✅✅✅✅✅✅✅✅✅ 通用配置 ✅✅✅✅✅✅✅✅✅✅
+# 🟢用于节点延迟测试
+server_check_url = http://www.gstatic.com/generate_204
+# 🟢 服务器测试超时时间（毫秒）
+服务器检查超时= 3000
+# 🟢用于设置图标显示
+profile_img_url=https://github.githubassets.com/images/modules/site/integrators/google.png
+# 🟢用于检查节点IP地址(以下geo_location_checker任选一个即可)
+geo_location_checker=禁用
+;geo_location_checker=http://ip-api.com/json/?lang=zh-CN, https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/IP_API.js
+# 🟢功能强大的解析器，用于引用资源的转换
+resources_parser_url=https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/resource-parser.js
+# 🟢以下路径将不经过QuanX的处理
+排除的路由=239.255.255.250/32、24.105.30.129/32、185.60.112.157/32、185.60.112.158/32、182.162.132.1/32
+udp_whitelist=1-442, 444-65535
+# 🟢第一个filter为4g模式开启规则分流，第一个filter为其他wifi下开启规则分流，第3个wifi1修改成你的路由器翻墙的wifi名开启直连模式，第四个wifi2为你公司或者其他有路由器翻墙的WiFi名走直连）
+# 🟢默认根据wifi切换模式关闭，如需开启，删除下方的“#”即可
+#running_mode_trigger=过滤器，过滤器，wifi1：​​all_direct，wifi2：all_direct
+# 🟢DNS域名解析
+dns_exclusion_list=*.cmpassport.com、*.jegotrip.com.cn、*.icitymobile.mobi、id6.me、*.pingan.com.cn、*.cmbchina.com
+
+
+[任务本地]
+# ✅✅✅✅✅✅✅✅✅✅ 自动任务 ✅✅✅✅✅✅✅✅✅✅
+# ✅正常🟨待验证🟥失效❗BoxJs
+# 0 15 05 06 2024➡️定时任务脚本类型，分别代表分时日月年
+# event-interactionI➡️交互查询脚本类型
+# event-network➡️交互查询脚本网络切换/变化时触发的脚本类型
+# 🟢每日黑料（需订阅boxjs）
+0 9,15 * * * https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/hlbdy.js, tag=✅黑料不打烊🔞❗, img-url=https://raw.githubusercontent .com/Toperlock/Quantumult/main/icon/heilio.png，启用= true
+# 🟢jav每日推荐（需订阅boxjs）
+0 22 * * * https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/javday.js, tag=✅𝐉𝐀𝐕𝐃𝐚𝐲每日推荐🔞❗, img-url=https://raw.githubusercontent.com /yuheng0101/X/main/Assets/javday.png,enabled=true
+# 🟢节点网速查询
+event-interaction https://raw.githubusercontent.com/getsomecat/Qx/main/Net_Speed.js, tag=✅节点网速查询, img-url=https://raw.githubusercontent.com/Koolson/Qure/master /IconSet/Color/Speedtest.png，启用= true
+# 🟢策略流量查询
+事件交互 https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/traffic-check.js, tag=✅策略流量查询, img-url=https://raw.githubusercontent.com/ Koolson/Qure/master/IconSet/Color/Download.png，启用=true
+# 🟢节点火车站查询
+event-interaction https://raw.githubusercontent.com/I-am-RE/Functional-Store-Hub/Master/NodeLinkCheck/Script/NodeLinkCheck.js, tag=✅ 跨境贸易查询, img-url=https:// /raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Stack.png，启用= true
+# 🟢谷歌送中查询
+事件交互 https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/switch-check-google.js, tag=✅谷歌送中查询, img-url=https://raw.githubusercontent .com/Koolson/Qure/master/IconSet/Color/Puzzle.png，启用=true
+# 🟢节点位置查询
+事件交互 https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/script/txt/ipinfo.txt, tag=✅节点位置查询, img-url=https://raw.githubusercontent.com/ tugepaopao/Image-Storage/master/cartoon/Cute/3icon.png，启用= true
+# 🟢节点风险查询
+event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/server-info-plus.js，tag=✅节点风险查询，img-url=https://raw.githubusercontent。 com/Orz-3/mini/master/Color/SaySS.png，启用=true
+#🟢网易云解锁查询
+事件交互 https://raw.githubusercontent.com/I-am-RE/QuantumultX/main/TaskLocal/NeteaseMusicUnlockCheck.js, tag=✅网易云解锁查询, img-url=https://raw.githubusercontent.com /Koolson/Qure/master/IconSet/Color/Netease_Music_Unlock.png，启用= true
+# 🟢每日新闻60s
+0 0 9 * * ？ https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/XiaoMaoNewsPic.js，tag=✅每日新闻60s❗，img-url=https://raw.githubusercontent.com/tugepaopao/Image -Storage/master/cartoon/Cute1/1689251.png，启用=true
+# 🟢GeoIP 查询 - ip.sb
+事件交互 https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/geo_location.js，tag=✅GeoIP 查询，img-url=location.fill.viewfinder.system，enabled=true
+#🟢流媒体解锁查询
+事件交互 https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/streaming-ui-check.js, tag=✅流媒体解锁查询, img-url=arrowtriangle.right.square.system , 启用=真
+# 🟢更多请手动添加下面的订阅
+; https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/UI-Action.json【流媒体节点查询合集】
+; https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/Task/misitechan.json【自用定时任务合集】
+; https://raw.githubusercontent.com/fmz200/wool_scripts/main/Loon/script/tasks.scripts【定时任务合集@fmz200】
+
+
+[rewrite_local]
+# ✅✅✅✅✅✅✅✅✅✅✅ 本地重写 ✅✅✅✅✅✅✅✅✅✅✅
+
+
+[rewrite_remote]
+# ✅✅✅✅✅✅✅✅✅✅✅ 远程重写 ✅✅✅✅✅✅✅✅✅✅✅
+# ✅正常 🟨待验证 🟥失效❗BoxJs
+# 🟢🟢🟢会员解锁🟢🟢🟢
+https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Bilibili.conf, tag=✅B站广告去+1080P高码率@ddgksf2013, update-interval=86400, opt-parser=false, 启用=真
+https://github.com/ddgksf2013/Rewrite/raw/master/UnlockVip/Spotify.conf，tag=✅Spotify音乐VIP[音质≤高]@app2smile，update-interval=86400，opt-parser=true，enabled=真的
+https://github.com/ddgksf2013/dev/raw/master/ForOwnUse.conf，tag=✅墨鱼专属VIP@ddgksf2013，update-interval=86400，opt-parser=false，enabled=true
+https://raw.githubusercontent.com/Yuheng0101/X/main/Scripts/kuwo.js, tag=✅酷我解锁, update-interval=172800, opt-parser=true,enabled=true
+https://raw.githubusercontent.com/ddgksf2013/MoYu/master/CaiXinZhouKanProCrack.js，tag=🟨财新周刊VIP，update-interval=172800，opt-parser=true，enabled=false
+https://github.com/ddgksf2013/MoYu/raw/master/NicegramProCrack.js，tag=🟨Nicegram高级版，update-interval=172800，opt-parser=true，enabled=false
+https://gist.githubusercontent.com/ddgksf2013/dbb1695cd96743eef18f3fac5c6fe227/raw/revenuecat.js，tag=🟨墨鱼多合一解锁，update-interval=172800，opt-parser=true，enabled=false
+https://gist.githubusercontent.com/ddgksf2013/9e0f6c7341beea09a31aa309d9d7f502/raw/buyitunes.js，tag=🟨BuyiTunes多合一，update-interval=172800，opt-parser=true，enabled=false
+https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/privilege/ximalayaVIP.js，tag=✅喜马拉雅VIP，update-interval=172800，opt-parser=true，enabled=false
+https://github.com/ddgksf2013/Rewrite/raw/master/Function/EmbyPlugin.conf，tag=🟨Emby解锁，update-interval=172800，opt-parser=true，enabled=false
+https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/XiaoMaoWeiBo.js，tag=✅微博图标解锁，update-interval=172800，opt-parser=true，enabled=true
+https://raw.githubusercontent.com/WeiGiegie/666/main/wangyiyun.js，tag=✅网易云VIP，update-interval=172800，opt-parser=true，enabled=false
+https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/XiaoMaoWps.js，tag=✅WPS VIP❗，update-interval=172800，opt-parser=true，enabled=true
+https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/Zymh.js，tag=✅知音漫客VIP，update-interval=172800，opt-parser=true，enabled=true
+https://raw.githubusercontent.com/WeiGiegie/666/main/lrts.js, tag=✅懒人听书VIP, update-interval=172800, opt-parser=true,enabled=true
+https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/XiaoMaoALiCloud.js, tag=✅会员脚本·阿里云盘·小猫自定义❗, update-interval=172800, opt-parser=true , 启用=真
+https://raw.githubusercontent.com/WeiGiegie/666/main/jtsp.js，tag=🟨加藤视频VIP，update-interval=172800，opt-parser=true，enabled=true
+https://whatshub.top/rewrite/thunder.conf, tag=✅迅雷会员解锁, update-interval=172800, opt-parser=false,enabled=true
+https://whatshub.top/rewrite/keep.conf，tag=🟨Keep解锁VIP，update-interval=172800，opt-parser=false，enabled=false
+https://raw.githubusercontent.com/WeiGiegie/666/main/xmet.js, tag=🟨喜马拉雅儿童VIP, update-interval=172800, opt-parser=true,enabled=false
+#🟢🟢🟢广告净化🟢🟢🟢
+https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Applet.conf，tag=🟨微信小程序去广告@ddgksf2013，update-interval=86400，opt-parser=false，enabled=true
+https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/StartUp.conf，tag=✅墨去鱼开屏2.0@ddgksf2013，update-interval=86400，opt-parser=false，enabled=true
+https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/YoutubeAds.conf，tag=✅油管广告去@Maasea，update-interval=86400，opt-parser=false，enabled=true
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Weixin_Official_Accounts_remove_ads.plugin, tag=🟨公众号图文去广告, update-interval=86400, opt-parser=false,启用=假
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zheye/zheye.snippet，tag=✅知乎去广告及体验增强@blackmatrix7，update-interval=86400，opt-parser=false，已启用=真
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Tieba_remove_ads.plugin，tag=✅百度贴吧净化@app2smile，update-interval=86400，opt-parser=false，已启用=真
+https://gist.githubusercontent.com/ddgksf2013/f43026707830c7818ee3ba624e383c8d/raw/baiduCloud.vip.js，tag=✅百度网盘解锁+净化，update-interval=172800，opt-parser=true，enabled=false
+https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Ximalaya.conf，tag=✅喜马拉雅广告去@ddgksf2013，update-interval=86400，opt-parser=false，enabled=true
+https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/XiaoHongShu.conf，tag=🟨小红书去水印，update-interval=86400，opt-parser=false，enabled=false
+https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/KeepStyle.conf，tag=🟨Keep超级净化，update-interval=86400，opt-parser=false，enabled=false
+https://github.com/ddgksf2013/Scripts/raw/master/pixivAds.js, tag=🟨Pixiv去广告, update-interval=86400, opt-parser=false,enabled=false
+https://raw.githubusercontent.com/ddgksf2013/Scripts/master/coolapk.js, tag=✅酷去安广告, update-interval=172800, opt-parser=true,enabled=true
+https://github.com/ddgksf2013/Scripts/raw/master/12306.js，tag=🟨12306去广告，update-interval=86400，opt-parser=false，enabled=false
+https://raw.githubusercontent.com/ddgksf2013/Scripts/master/rrtv_json.js, tag=🟥多多视频去广告, update-interval=86400, opt-parser=false,enabled=false
+https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Weibo.conf, tag=✅微博(国际版)去广告, update-interval=86400, opt-parser=false,enabled=true
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Amap_remove_ads.plugin，tag=✅高德地图净化，update-interval=86400，opt-parser=false，enabled=真的
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/NeteaseCloudMusic_remove_ads.plugin，tag=✅网易云去广告，update-interval=86400，opt-parser=false，enabled=真的
+https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Cainiao.conf，tag=🟨菜鸟裹裹去广告，update-interval=86400，opt-parser=false，enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/QiDian_remove_ads.plugin，tag=✅起点去广告，update-interval=172800，opt-parser=true，enabled=false
+https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/SuiShouJi.conf，tag=🟨随手记去广告，update-interval=86400，opt-parser=false，enabled=false
+https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/BingSimplify.conf，tag=🟥Bing首页简化，update-interval=172800，opt-parser=false，enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/YouKu_Video_remove_ads.plugin, tag=🟨优酷净化[11.0.48版本以下], update-interval=172800, opt-parser =假，启用=假
+https://gist.githubusercontent.com/ddgksf2013/beec132ca0c3570ffa0cf331bce8f82a/raw/baidumap.adblock.conf，tag=🟨百度地图净化[卸载重装]@ddgksf2013，update-interval=86400，opt-parser=false，enabled=错误的
+https://gist.githubusercontent.com/ddgksf2013/bb1dadbd32f67c68772caebcc70b0a33/raw/pipixia.adblock.js, tag=🟨皮皮虾净化及去水印, update-interval=86400, opt-parser=false,enabled=false
+https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/ad%20guard/smzdm.conf, tag=✅广告拦截·值得买, update-interval=172800, opt-parser=true , 启用=真
+https://raw.githubusercontent.com/Maasea/sgmodule/master/WeRead.sgmodule, tag=🟨微信阅读专业版, update-interval=86400, opt-parser=false,enabled=false
+https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/rewrite/chongxie.txt, tag=🟨去广告合集（与部分规则冲突）, update-interval=172800, opt-parser=true, 已启用=假
+https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/ad%20guard/kuwoadblock.conf, tag=✅酷我去广告, update-interval=86400, opt-parser=false,启用=真
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/DiDi_remove_ads.plugin，tag=✅滴滴广告净化，update-interval=86400，opt-parser=false，enabled=真的
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Weibo_remove_ads.plugin，tag=🟨微博广告净化，update-interval=86400，opt-parser=false，enabled=真的
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/QQMusic_remove_ads.plugin，tag=🟨qq音乐广告净化，update-interval=86400，opt-parser=false，enabled=真的
+# 🟢🟢🟢应用增强🟢🟢🟢
+https://github.com/ddgksf2013/Rewrite/raw/master/Function/BilibiliAutoRegion.conf，tag=✅B站换区❗@NobyDa，update-interval=86400，opt-parser=false，enabled=true
+https://github.com/ddgksf2013/Rewrite/raw/master/Function/Bilibili_CC.conf, tag=🟨B站CC繁体字幕转简体, update-interval=172800, opt-parser=true,enabled=false
+https://github.com/ddgksf2013/Rewrite/raw/master/Function/BaiduCloud.conf，tag=✅百度网盘倍速@ddgksf2013，update-interval=86400，opt-parser=false，enabled=true
+https://raw.githubusercontent.com/id77/QuantumultX/master/rewrite/Youtube_CC.conf#out=Hant, tag=✅油管字幕翻译@id77, update-interval=86400, opt-parser=false,enabled=true
+https://raw.githubusercontent.com/Neurogram-R/Quantumult-X/main/snippet/Dualsub.snippet, tag=🟨各种流媒体字幕翻译, update-interval=172800, opt-parser=true,enabled=错误的
+https://raw.githubusercontent.com/zZPiglet/Task/master/UnblockURLinWeChat.conf, tag=✅微信解锁被发光的URL@zZPiglet, update-interval=86400, opt-parser=false,enabled=true
+https://raw.githubusercontent.com/VirgilClyne/iRingo/main/snippet/Location.snippet，tag=✅指南针解锁经纬度❗，update-interval=172800，opt-parser=false，enabled=true
+https://raw.githubusercontent.com/NobyDa/Script/master/TestFlight/TestFlightAccount.js，tag=🟨Testflight共享+解锁区域限制❗，update-interval=172800，opt-parser=true，enabled=false
+https://github.com/ddgksf2013/Rewrite/raw/master/Function/UposRedirect.conf，tag=🟨UposRedirect，update-interval=172800，opt-parser=true，enabled=false
+https://gist.githubusercontent.com/ddgksf2013/f4752e632fd3375ea2811985c5b635dc/raw/alicloud.js，tag=✅阿里云盘倍速 update-interval=172800，opt-parser=true，enabled=false
+https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/XiaoMaoSpotify.js，tag=✅Spotify歌词（需要翻译api）❗，update-interval=172800，opt-parser=true，enabled=错误的
+https://raw.githubusercontent.com/bin64/Scripts/main/QuantumultX/vvebo.js，tag=🟨VVebo修复用户时间线，update-interval=172800，opt-parser=true，enabled=false
+https://github.com/VirgilClyne/iRingo/raw/main/snippet/Siri.snippet，tag=✅超级Siri建议❗，update-interval=172800，opt-parser=false，enabled=true
+# 🟢🟢🟢网页优化🟢🟢🟢
+https://github.com/ddgksf2013/Rewrite/raw/master/Html/WebAdBlock.conf，tag=✅影视网站去广告@ddgksf2013，update-interval=86400，opt-parser=false，enabled=true
+https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/Html/EndlessGoogle.conf，tag=✅谷歌自动翻页，update-interval=172800，opt-parser=false，enabled=true
+https://github.com/ddgksf2013/Rewrite/raw/master/Html/Q-Search.conf，tag=✅Safari超级搜索@ddgksf2013，update-interval=86400，opt-parser=false，enabled=true
+https://github.com/ddgksf2013/Rewrite/raw/master/Html/Douban.conf，tag=✅豆瓣电影网页相册跳转@ddgksf2013，update-interval=86400，opt-parser=false，enabled=true
+https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/Html/NewBing.conf，tag=✅解锁NewBing搜索，update-interval=172800，opt-parser=true，enabled=true
+https://raw.githubusercontent.com/limbopro/Adblock4limbo/main/Adblock4limbo.conf，tag=去毒奶网页广告，update-interval=172800，opt-parser=false，enabled=true
+https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Snippet/GoogleCAPTCHA.snippet，tag=✅解决谷歌人机验证❗，update-interval=172800，opt-parser=false，enabled=true
+# 🟢🟢🟢待定，未添加文档🟢🟢🟢
+https://raw.githubusercontent.com/Orz-3/QuantumultX/master/Netflix_ ratings.conf，tag=🟨Netflix评分@Orz-3，update-interval=86400，opt-parser=false，enabled=true
+https://raw.githubusercontent.com/Orz-3/QuantumultX/master/JD_TB_price.conf，tag=✅比价脚本@Orz-3，update-interval=86400，opt-parser=false，enabled=true
+https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.quanx.conf，tag=✅BoxJS商店版@chavyleung，update-interval=86400，opt-parser=true，已启用=真
+https://github.com/Moli-X/Resources/raw/main/Rewrite/Bilibili/AutoBilibili.conf，tag=✅哔哩哔哩换区，update-interval=172800，opt-parser=false，enabled=真的
+https://raw.githubusercontent.com/WeiGiegie/666/main/wuzei.js, tag=🟨乌贼直播解锁, update-interval=172800, opt-parser=true,enabled=true
+https://raw.githubusercontent.com/chxm1023/Rewrite/main/JavDB.js, tag=✅JavDB解锁+解锁, update-interval=172800, opt-parser=true,enabled=true
+https://raw.githubusercontent.com/wf021325/qx/master/js/storm.js, tag=✅storm sniffer解锁, update-interval=172800, opt-parser=true,enabled=true
+https://raw.githubusercontent.com/Yuheng0101/X/main/Scripts/NeteaseCloudMusic/netease.js，tag=🟥网易云音乐解锁，update-interval=172800，opt-parser=true，enabled=false
+https://raw.githubusercontent.com/WeiGiegie/666/main/wxds.js，tag=🟨微信读书VIP，update-interval=172800，opt-parser=true，enabled=false
+https://raw.githubusercontent.com/WeiGiegie/666/main/xboy.js，tag=✅xboy VIP，update-interval=172800，opt-parser=true，enabled=true
+https://raw.githubusercontent.com/WeiGiegie/666/main/byhz.js，tag=🟨鲍鱼盒子VIP，update-interval=172800，opt-parser=true，enabled=true
+https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/XiaoMaoPure.js，tag=🟨纯VIP，update-interval=172800，opt-parser=true，enabled=false
+https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/XiaoMaoKuaiDui.js，tag=🟨快对VIP，update-interval=172800，opt-parser=true，enabled=false
+https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/XiaoMaoAnatomist.js，tag=🟨解剖大师VIP，update-interval=172800，opt-parser=true，enabled=false
+https://raw.githubusercontent.com/Yu9191/Script/main/Xmind2.js，tag=✅Xmind VIP，update-interval=172800，opt-parser=true，enabled=false
+https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/xjsp.js，tag=香蕉视频VIP，update-interval=172800，opt-parser=true，enabled=true
+https://raw.githubusercontent.com/ClydeTime/Quantumult/main/Script/XMLY/xmly.js, tag=🟥喜马拉雅解锁+解锁, update-interval=172800, opt-parser=true,enabled=false
+https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/rewrite/cleanup.snippet，tag=🟨小程序APP净化@fmz200，update-interval=172800，opt-parser=true，enabled=false
+https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/script/QX_XiaoMao_rw3.conf, tag=🟨广告拦截·应用·XiaoMao重写3, update-interval=172800, opt-parser=false, 已启用=假
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/SevenCat_remove_ads.plugin, tag=🟨七猫小说去广告, update-interval=172800, opt-parser=true, 启用=假
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/DragonRead_remove_ads.plugin，tag=🟨番茄小说去广告，update-interval=172800，opt-parser=true，enabled=错误的
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/ZongHeng_remove_ads.plugin，tag=🟨纵横小说去广告，update-interval=172800，opt-parser=true，enabled=错误的
+https://raw.githubusercontent.com/RuCu6/QuanX/main/Rewrites/Cube/cnftp.snippet，tag=🟨爱优腾去广告，update-interval=172800，opt-parser=false，inserted-resource=true , 启用=假
+https://whatshub.top/rewrite/adultraplus.conf，tag=🟨去开屏广告@deezertidal，update-interval=172800，opt-parser=false，enabled=false
+https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/WexinMiniPrograms_Remove_ads.plugin, tag=🟨微信小程序去广告@Keywos, update-interval=86400, opt-parser=false , 启用=真
+
+[server_local]
+# ✅✅✅✅✅✅✅✅✅✅✅ 本地节点 ✅✅✅✅✅✅✅✅✅✅✅
+
+
+
+[server_remote]
+# ✅✅✅✅✅✅✅✅✅✅✅ 远程节点 ✅✅✅✅✅✅✅✅✅✅✅
+# 🟢机场节点链接添加到下方
+# 🟢网易云节点，可自行收集添加
+# 🔴https://gist.githubusercontent.com/xiaomaoJT/921025f761277153bebb30abde7f784f/raw/XiaoMao-NM, tag=网易云解锁节点, update-interval=172800, opt-parser=false, enabled=true
+
+
+[域名]
+# ✅✅✅✅✅✅✅✅✅✅ DNS 解析服务 ✅✅✅✅✅✅✅✅✅✅
+# 🟢DOH（DNS over HTTPS）是一种通过HTTPS协议进行DNS查询的技术，可以提高隐私保护
+;更喜欢-doh3
+;doh-服务器 = https://223.5.5.5/dns-query, https://223.6.6.6/dns-query
+# 🟢QuantumultX开启IPV6方法，删去下面的「no-ipv6」，在「VPN」地带，开启「兼容性增强」
+无ipv6
+无系统
+服务器=223.5.5.5
+服务器=119.29.29.29
+服务器=114.114.114.114
+服务器=/*.icloud.com/119.29.29.29
+服务器=/*.icloud.com.cn/119.29.29.29
+服务器=/*.tencent.com/119.29.29.29
+服务器=/*.weixin.com/119.29.29.29
+
+
+[policy]
+# ✅✅✅✅✅✅✅✅✅✅✅ 策略组 ✅✅✅✅✅✅✅✅✅✅✅
+# 🟢默认设置10分钟测速一次
+# 🟢static➡️静态策略-手动选择节点
+# 🟢available➡️健康检查-自动选择节点，从第一个节点开始检查是否可用，直到选择可用节点
+# 🟢round-robin➡️负载均衡-轮询调度，轮流调用节点使用，IP可能会一直变
+# 🟢dest-hash➡️根据请求的目标地址进行哈希，然后根据哈希值选择节点
+# 🟢url-latency-benchmark➡️自动测速-自动选择延迟低的节点
+static=抖音IP伪装, direct, 美国节点, 狮城节点, 台湾节点, 日本节点, 香港节点, 韩国节点, 英国节点, 冷门节点, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/TikTok_1.png
+static=国内常用软件IP伪装, direct, 日本节点, 香港节点, 台湾节点, 狮城节点, 美国节点, 英国节点, 韩国节点, 冷门节点, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/China.png
+static=网易云音乐解锁, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netease_Music_Unlock.png
+static=Telegram, direct, 美国节点, 狮城节点, 台湾节点, 日本节点, 香港节点, 韩国节点, 英国节点, 冷门节点, 自动选择, 欧盟节点, 零倍率节点, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Telegram.png
+static=GitHub, direct, 美国节点, 狮城节点, 台湾节点, 日本节点, 香港节点, 韩国节点, 英国节点, 冷门节点, 零倍率节点, 欧盟节点, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/GitHub.png
+static=Tik Tok, direct, 香港节点, 台湾节点, 日本节点, 狮城节点, 美国节点, 英国节点, 韩国节点, 冷门节点, 零倍率节点, 欧盟节点, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/TikTok_2.png
+static=OpenAI, direct, 香港节点, 台湾节点, 日本节点, 狮城节点, 美国节点, 英国节点, 韩国节点, 冷门节点, img-url=https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/Air_Bnb.png
+static=全球加速, 自动选择, direct, 香港节点, 台湾节点, 日本节点, 狮城节点, 美国节点, 英国节点, 韩国节点, 冷门节点, 零倍率节点, 欧盟节点, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Global.png
+static=苹果服务, direct, 香港节点, 台湾节点, 美国节点, 日本节点, 狮城节点, proxy, 英国节点, 韩国节点, 冷门节点, 零倍率节点, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple.png
+static=哔哩哔哩, direct, 香港节点, 台湾节点, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/bilibili.png
+static=国际媒体, 自动选择, 台湾节点, direct, 香港节点, 日本节点, 美国节点, 狮城节点, 英国节点, 韩国节点, 冷门节点, 零倍率节点, 欧盟节点, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Streaming.png
+url-latency-benchmark=自动选择, server-tag-regex=^(.(?!(网易|墨鱼)))*$, check-interval=600, tolerance=0, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Auto.png
+url-latency-benchmark=香港节点, server-tag-regex=(?=.*(港|HK|(?i)Hong))^((?!(台|日|韩|新|美)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/HK.png
+static=台湾节点, server-tag-regex=(?=.*(台|TW|(?i)Taiwan))^((?!(港|日|韩|新|美)).)*$, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/TW.png
+static=日本节点, server-tag-regex=(?=.*(日|JP|(?i)Japan))^((?!(港|台|韩|新|美)).)*$|Tokyo, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/JP.png
+url-latency-benchmark=狮城节点, server-tag-regex=(?=.*(新|狮|獅|SG|(?i)Singapore))^((?!(港|台|日|韩|美)).)*$, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/SG.png
+static=美国节点, server-tag-regex=California|(?=.*(美|US|(?i)States|American))^((?!(港|台|日|韩|新)).)*$, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/US.png
+static=英国节点, server-tag-regex=Kingdom|(?=.*(英|UK|England))(?!.*?(港|台|日|韩|新))/g, img-url=https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Rounded_Rectangle/England.png
+static=冷门节点, server-tag-regex=家宽|冷门, img-url=https://raw.githubusercontent.com/RuCu6/QuanX/main/Icons/area/un.png
+static=韩国节点, server-tag-regex=(?=.*(韩|韩国|KR|Korea))(?!.*?(排除关键词)), img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/KR.png
+static=欧盟节点, server-tag-regex=(?i)(🇦🇹|🇧🇪|🇨🇿|🇩🇰|🇫🇮|🇫🇷|🇩🇪|🇮🇪|🇮🇹|🇱🇹|🇱🇺|🇳🇱|🇵🇱|🇸🇪|奥地利|比利时|捷克|丹麦|芬兰|法国|德国|爱尔兰|意大利|立陶宛|卢森堡|荷兰|波兰|瑞典), img-url=https://raw.githubusercontent.com/RuCu6/QuanX/main/Icons/area/eu.png
+url-latency-benchmark=零倍率节点, server-tag-regex=0.0, check-interval=600, tolerance=0, alive-checking=false, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Rocket.png
+static=兜底分流, 自动选择, 全球加速, direct, 香港节点, 台湾节点, 日本节点, 狮城节点, 美国节点, proxy, 韩国节点, 英国节点, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/Final.png
+
+
+[过滤器远程]
+# ✅✅✅✅✅✅✅✅✅✅ 远程分流 ✅✅✅✅✅✅✅✅✅✅✅
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/GitHub/GitHub.list，tag=🐙GitHub，force-policy=GitHub，update-interval=172800，opt-parser=false，已启用=真
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Telegram/Telegram.list，tag=✈️Telegram，force-policy=Telegram，update-interval=172800，opt-parser=false，已启用=真
+https://raw.githubusercontent.com/RuCu6/QuanX/main/Rules/MyBlockAds.list，tag=⛔️MyBlockAds，force-policy=reject，update-interval=172800，opt-parser=false，inserted-resource=true , 启用=假
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Advertising/Advertising.list，tag=⛔️广告拦截·正式，force-policy=reject，update-interval=604800，opt-parser=假，启用=假
+https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/list-gather/TikTok.list，tag=🎥Tik Tok，force-policy=Tik Tok，update-interval=172800，opt-parser=true , 启用=真
+https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/list-gather/OpenAi.list，tag=🤖OpenAi，force-policy=OpenAI，update-interval=172800，opt-parser=true，已启用=真
+https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/list-gather/DouYin.list，tag=📹️抖音分流，force-policy=抖音IP伪装，update-interval=172800，opt-解析器=假，启用=真
+https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/list-gather/NeteaseMusic.list，tag=🎸网易云音乐分流，force-policy=网易云音乐解锁，update-interval=172800，opt -解析器=假，启用=真
+https://raw.githubusercontent.com/ddgksf2013/Filter/master/Unbreak.list，tag=🛠️修改规则，force-policy=direct，update-interval=172800，opt-parser=true，enabled=true
+https://anti-ad.net/surge2.txt，tag=⛔️广告终结者，force-policy=reject，update-interval=172800，opt-parser=true，enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/WeChat/WeChat.list，tag=💬微信直连，force-policy=direct，update-interval=172800，opt-parser=false , 启用=真
+https://raw.githubusercontent.com/ddgksf2013/Filter/master/Streaming.list，tag=国际媒体，force-policy=🚀国际媒体，update-interval=172800，opt-parser=true，enabled=true
+https://raw.githubusercontent.com/ddgksf2013/Filter/master/StreamingSE.list，tag=哔哩哔哩，force-policy=📺️哔哩哔哩，update-interval=172800，opt-parser=true，已启用=真
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Apple/Apple.list，tag=🍎苹果服务，force-policy=苹果服务，update-interval=172800，opt-parser=true , 启用=真
+https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.list，tag=🌏全球加速，force-policy=全球加速，update-interval=172800，opt-parser=true，enabled=true
+https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/ruleset/ASN.China.list，tag=🐼国内网站，force-policy=direct，update-interval=172800，opt-parser=true，enabled=真的
+https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/list-gather/Anti-ip.list，tag=🎭️国内IP分流，force-policy=国内常用软件IP加密，update-interval=172800 ，opt-parser = false，插入资源= true，启用= true
+
+
+[过滤器本地]
+# ✅✅✅✅✅✅✅✅✅✅ 本地分流 ✅✅✅✅✅✅✅✅✅✅✅
+# 🟢一些比较容易注意到的分流
+主机，ad.12306.cn，直接
+主持人，gg.caixin.com，直接
+主持人，sdkapp.uve.weibo.com，直接
+主机后缀，ucweb.com，直接
+主机，ntb.lanjie100.com，拒绝
+主机后缀，kuwo.cn，直接
+# 🟢贴吧屏蔽域名dns查询
+ip-cidr, 180.76.76.200/32, reject
+# 🟢 B站自动换区
+ip-cidr, 203.107.1.1/24, reject
+# 🟢本地
+ip-cidr，10.0.0.0/8，直接
+ip-cidr，127.0.0.0/8，直接
+ip-cidr，172.16.0.0/12，直接
+ip-cidr，192.168.0.0/16，直连
+ip-cidr，224.0.0.0/24，直接
+ip-cidr，182.254.116.0/24，直接
+geoip, cn, 直接
+最终，兜底分流
+
+
+[http_backend]
+# ✅✅✅✅✅✅✅✅✅✅✅ 后端服务 ✅✅✅✅✅✅✅✅✅✅✅
+# 🟢Boxjs设置，改为使用http backend方式，访问地址改为http://127.0.0.1:9999，更新配置后请长按风车-更新，然后重启代理
+https://raw.githubusercontent.com/chavyleung/scripts/master/chavy.box.js, host=boxjs.com, tag=BoxJS, path=^/, enabled=false
+
+
+[mitm]
+# ✅✅✅✅✅✅✅✅✅✅✅ 证书＆劫持 ✅✅✅✅✅✅✅✅✅✅✅
+# 🟢 passphrase和p12代为证书&主机名部分, 更新配置前可把旧的配置中passphrase和p12代码拷贝下来, 导入新的配置文件把内容粘贴在对应位置就不用重装证书
+# 🟢 已生成的 passphrase 与 p12 参数不可更改，否则证书将会失效
+# 🟢 请自行生成证书，详细教程参考https://github.com/erdongchanyo/Rules/blob/main/Quantumult%20X/README.md
+# 🟢若你在登录AppleStore账户时遇到问题，请将 -*apple.com, 内容复制粘贴在上面 hostname = 后面
+passphrase = 
+p12 = 
+force_sni_domain_name = false
+hostname = -consumer.fcbox.com, -*huami.com, -weather-data.apple.com, -*amemv.com, -*snssdk.com, -www.google.com
+
