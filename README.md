@@ -58,7 +58,7 @@
 
 ## 1️⃣QuantumultX 配置：<a name="usage"></a>
 
-**最后更新时间：2024-07-23**
+**最后更新时间：2024-08-13**
 
 - 欢迎使用本仓库提供的QuantumultX配置和脚本资源。在开始使用之前，请仔细阅读以下指南以确保您能够正确并安全地使用本仓库提供的内容。
 
@@ -253,7 +253,7 @@
 		<td > 3</td> <td >✅墨鱼专属VIP </td> <td ><a href="https://github.com/ddgksf2013/dev/raw/master/ForOwnUse.conf"><em>ForOwnUse.conf</em></a></td><td>ddgksf2013</td><td>2024.5.23</td>
     </tr>
 	<tr>
-		<td > 4 </td> <td >✅酷我SVIP</td> <td ><a href="https://raw.githubusercontent.com/Yuheng0101/X/main/Scripts/kuwo.js"><em>Kuwo.conf</em></a></td><td>dyqc_777</td><td>2024.6.7</td>
+		<td > 4 </td> <td >✅酷我SVIP[音质≤超品]</td> <td ><a href="https://raw.githubusercontent.com/Yuheng0101/X/main/Scripts/kuwo.js"><em>Kuwo.conf</em></a></td><td>dyqc_777</td><td>2024.8.13</td>
     </tr>
 	<tr>
 		<td > 5 </td> <td >🟨财新周刊VIP </td> <td ><a href="https://github.com/ddgksf2013/MoYu/raw/master/CaiXinZhouKanProCrack.js"><em>CXZK.vip.js</em></a></td><td>ddgksf2013</td><td>2024.5.23</td>
@@ -277,7 +277,7 @@
 		<td > 11 </td> <td >✅微博图标解锁 </td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/privilege/weiboVIP.js"><em>weiboVIP.js</em></a></td><td>XiaoMao</td><td>2024.5.23</td>
     </tr>
 	<tr>
-		<td > 12 </td> <td >✅网易云VIP </td> <td ><a href="https://raw.githubusercontent.com/WeiGiegie/666/main/wangyiyun.js"><em>NeteaseMusicVip.js</em></a></td><td>WeiGiegie/</td><td>2024.4.14</td>
+		<td > 12 </td> <td >✅网易云黑胶VIP</td> <td ><a href="https://raw.githubusercontent.com/WeiGiegie/666/main/wangyiyun.js"><em>NeteaseMusicVip.js</em></a></td><td>WeiGiegie/</td><td>2024.8.13</td>
     </tr>
 	<tr>
 		<td > 13 </td> <td > ✅WPS VIP ❗ </td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/privilege/WPSVIP.js"><em>WPS VIP.js</em></a></td><td>XiaoMao</td><td>2024.5.23</td>
@@ -292,7 +292,7 @@
 		<td > 16 </td> <td > 🟨阿里云盘VIP ❗ </td> <td ><a href="https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/XiaoMaoALiCloud.js"><em>xiaoMaoALiCloud.js</em></a></td><td>XiaoMao</td><td>2024.6.08</td>
     </tr>
 	<tr>
-		<td > 17 </td> <td >🟨加藤视频VIP🔞  </td> <td ><a href="https://raw.githubusercontent.com/WeiGiegie/666/main/jtsp.js"><em>jtsp.js</em></a></td><td>WeiGiegie</td><td>2024.6.08</td>
+		<td > 17 </td> <td >✅加藤视频VIP🔞 </td> <td ><a href="https://raw.githubusercontent.com/WeiGiegie/666/main/jtsp.js"><em>jtsp.js</em></a></td><td>WeiGiegie</td><td>2024.6.08</td>
     </tr>
 	<tr>
 		<td > 18 </td> <td > ✅迅雷VIP  </td> <td ><a href="https://whatshub.top/rewrite/thunder.conf"><em>thunder.conf</em></a></td><td>Marol62926</td><td>2024.6.08</td>
@@ -363,7 +363,7 @@
 		<td > 18 </td> <td > 🟨菜鸟裹裹去广告 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Cainiao.conf"><em>Cainiao.conf</em></a></td><td>ddgksf2013</td>  <td>2024.5.23</td>
     </tr>
 	<tr>
-		<td > 19 </td> <td > ✅起点去广告</td> <td ><a href="https://raw.githubusercontent.com/app2smile/rules/master/module/qidian.conf"><em>qidian.conf</em></a></td><td>app2smile</td>  <td>2024.5.23</td>
+		<td > 19 </td> <td > 🟥起点去广告</td> <td ><a href="https://raw.githubusercontent.com/app2smile/rules/master/module/qidian.conf"><em>qidian.conf</em></a></td><td>app2smile</td>  <td>2024.5.23</td>
     </tr>
 	<tr>
 		<td > 20 </td> <td > 🟨随手记去广告 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/SuiShouJi.conf"><em>SuiShouJi.conf</em></a></td><td>ddgksf2013</td>  <td>2024.5.23</td>
@@ -372,7 +372,7 @@
 		<td > 21 </td> <td > 🟥Bing首页简化 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/BingSimplify.conf"><em>BingSimplify.conf</em></a></td><td>ddgksf2013</td>  <td>2024.5.23</td>
     </tr>
 	<tr>
-		<td > 22 </td> <td > 🟨优酷净化[11.0.48版本以下]</td> <td ><a href="https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/YouKu_Video_remove_ads.plugin"><em>youku.adblock.js</em></a></td><td>ddgksf2013</td>  <td>2024.5.23</td>
+		<td > 22 </td> <td > 🟥优酷净化[11.0.48版本以下]</td> <td ><a href="https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/YouKu_Video_remove_ads.plugin"><em>youku.adblock.js</em></a></td><td>ddgksf2013</td>  <td>2024.5.23</td>
     </tr>
     <tr>
 		<td > 23 </td> <td > 🟨百度地图净化[卸载重装] </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/beec132ca0c3570ffa0cf331bce8f82a/raw/baidumap.adblock.conf"><em>baidumap.conf</em></a></td><td>ddgksf2013</td>  <td>2024.5.23</td>
