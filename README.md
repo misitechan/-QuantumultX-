@@ -170,7 +170,7 @@
 - [**本配置需要配置的BoxJs订阅-NobyDa**](https://raw.githubusercontent.com/NobyDa/Script/master/NobyDa_BoxJs.json)
 - [**本配置需要配置的BoxJs订阅-XiaoMao**](https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/XiaoMao.json)
 - [**本配置需要配置的BoxJs订阅-Yuheng0101**](https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/boxjs.json)
-
+- [**本配置需要配置的BoxJs订阅-evilbutcher**](https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/evilbutcher.boxjs.json)
 #### 更多去开屏广告教程
 - 如果您需要更多的iOS和Android去开屏广告教程，可以参考[@dgksf2013](https://github.com/ddgksf2013) 提供的：
   [**如何有效减少Android、IOS端应用开屏广告的打扰**](https://mp.weixin.qq.com/s/DOwEQs4Z7eFpGWOVAO-2QA)
