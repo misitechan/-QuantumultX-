@@ -231,7 +231,28 @@
 		<td > 8 </td> <td >微信直连分流 </td> <td ><a href="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/WeChat/WeChat.list"><em>WeChat.list</em></a></td>
 </tr>
 <tr>
-		<td > 8 </td> <td >苹果服务分流 </td> <td ><a href="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Apple/Apple.list"><em>Apple.list</em></a></td>
+		<td > 9 </td> <td >苹果服务分流 </td> <td ><a href="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Apple/Apple.list"><em>Apple.list</em></a></td>
+</tr>
+<tr>
+		<td > 10 </td> <td >腾讯服务分流 </td> <td ><a href="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Tencent/Tencent.list"><em>Apple.list</em></a></td>
+</tr>
+<tr>
+		<td > 8 </td> <td >Microsoft分流 </td> <td ><a href="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Microsoft/Microsoft.list"><em>Apple.list</em></a></td>
+</tr>
+<tr>
+		<td > 8 </td> <td >Google分流 </td> <td ><a href="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Google/Google.list"><em>Apple.list</em></a></td>
+</tr>
+<tr>
+		<td > 8 </td> <td >Disney分流 </td> <td ><a href="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Disney/Disney.list"><em>Apple.list</em></a></td>
+</tr>
+<tr>
+		<td > 8 </td> <td >Netflix分流 </td> <td ><a href="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Netflix/Netflix.list"><em>Apple.list</em></a></td>
+</tr>
+<tr>
+		<td > 8 </td> <td >YouTube分流 </td> <td ><a href="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/YouTube/YouTube.list"><em>Apple.list</em></a></td>
+</tr>
+<tr>
+		<td > 8 </td> <td >Emby分流 </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Filter/9a3860bf0e338c8376f48f4fcea6f166d5d7a4d1/Emby.list"><em>Apple.list</em></a></td>
 </tr>
 </table>
 
@@ -253,16 +274,16 @@
 		<td > 3</td> <td >✅墨鱼专属VIP </td> <td ><a href="https://github.com/ddgksf2013/dev/raw/master/ForOwnUse.conf"><em>ForOwnUse.conf</em></a></td><td>ddgksf2013</td><td>2024.5.23</td>
     </tr>
 	<tr>
-		<td > 4 </td> <td >✅酷我SVIP[音质≤超品]</td> <td ><a href="https://raw.githubusercontent.com/Yuheng0101/X/main/Scripts/kuwo.js"><em>Kuwo.conf</em></a></td><td>dyqc_777</td><td>2024.8.13</td>
+		<td > 4 </td> <td >✅酷我SVIP[音质≤超品]</td> <td ><a href="https://raw.githubusercontent.com/Yuheng0101/X/main/Scripts/kuwo.js"><em>Kuwo.conf</em></a></td><td>yqc_777</td><td>2024.8.13</td>
     </tr>
 	<tr>
 		<td > 5 </td> <td >🟨财新周刊VIP </td> <td ><a href="https://github.com/ddgksf2013/MoYu/raw/master/CaiXinZhouKanProCrack.js"><em>CXZK.vip.js</em></a></td><td>ddgksf2013</td><td>2024.5.23</td>
     </tr>
 	<tr>
-		<td > 6 </td> <td >🟨Nicegram高级版<br> [也可用Swiftgram]</td> <td ><a href="https://github.com/ddgksf2013/MoYu/raw/master/NicegramProCrack.js"><em>Nicegram.pro.js</em></a></td><td>ddgksf2013</td><td>2024.5.23</td>
+		<td > 6 </td> <td >✅Nicegram高级版</td> <td ><a href="https://github.com/ddgksf2013/MoYu/raw/master/NicegramProCrack.js"><em>Nicegram.pro.js</em></a></td><td>ddgksf2013</td><td>2024.9.5</td>
     </tr>
 	<tr>
-		<td > 7 </td> <td >🟨RevenueCat多合一 </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/dbb1695cd96743eef18f3fac5c6fe227/raw/revenuecat.js"><em>revenuecat.js</em></a></td><td>ddgksf2013</td><td>2024.5.23</td>
+		<td > 7 </td> <td >🟨墨鱼多合一解锁 </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/dbb1695cd96743eef18f3fac5c6fe227/raw/revenuecat.js"><em>revenuecat.js</em></a></td><td>ddgksf2013</td><td>2024.5.23</td>
     </tr>
 	<tr>
 		<td > 8 </td> <td >🟨BuyiTunes多合一 </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/9e0f6c7341beea09a31aa309d9d7f502/raw/buyitunes.js"><em>buyitunes.js</em></a></td><td>ddgksf2013</td><td>2024.5.23</td>
@@ -271,13 +292,13 @@
 		<td > 9</td> <strong><td >✅喜马拉雅VIP</td> <td ></strong><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/privilege/ximalayaVIP.js"><em>ximalayaVIP.js</em></a></td><td>GieGie777</td><td>2024.5.23</td>
     </tr>
 	<tr>
-		<td > 10 </td> <td >🟨Emby解锁 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Function/EmbyPlugin.conf"><em>EmbyPlugin.conf</em></a></td><td>rartv</td><td>2024.5.23</td>
+		<td > 10 </td> <td >✅Emby解锁 </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Function/EmbyPlugin.conf"><em>EmbyPlugin.conf</em></a></td><td>rartv</td><td>2024.9.5</td>
     </tr>
 	<tr>
 		<td > 11 </td> <td >✅微博图标解锁 </td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/privilege/weiboVIP.js"><em>weiboVIP.js</em></a></td><td>XiaoMao</td><td>2024.5.23</td>
     </tr>
 	<tr>
-		<td > 12 </td> <td >✅网易云黑胶VIP</td> <td ><a href="https://raw.githubusercontent.com/WeiGiegie/666/main/wangyiyun.js"><em>NeteaseMusicVip.js</em></a></td><td>WeiGiegie/</td><td>2024.8.13</td>
+		<td > 12 </td> <td >🟥网易云黑胶VIP</td> <td ><a href="https://raw.githubusercontent.com/WeiGiegie/666/main/wangyiyun.js"><em>NeteaseMusicVip.js</em></a></td><td>WeiGiegie/</td><td>2024.9.5</td>
     </tr>
 	<tr>
 		<td > 13 </td> <td > ✅WPS VIP ❗ </td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/rewrite-gather/privilege/WPSVIP.js"><em>WPS VIP.js</em></a></td><td>XiaoMao</td><td>2024.5.23</td>
@@ -292,7 +313,7 @@
 		<td > 16 </td> <td > 🟨阿里云盘VIP ❗ </td> <td ><a href="https://raw.githubusercontent.com/xiaomaoJT/QxScript/main/rewrite/boxJS/XiaoMaoALiCloud.js"><em>xiaoMaoALiCloud.js</em></a></td><td>XiaoMao</td><td>2024.6.08</td>
     </tr>
 	<tr>
-		<td > 17 </td> <td >✅加藤视频VIP🔞 </td> <td ><a href="https://raw.githubusercontent.com/WeiGiegie/666/main/jtsp.js"><em>jtsp.js</em></a></td><td>WeiGiegie</td><td>2024.6.08</td>
+		<td > 17 </td> <td >🟨加藤视频VIP🔞 </td> <td ><a href="https://raw.githubusercontent.com/WeiGiegie/666/main/jtsp.js"><em>jtsp.js</em></a></td><td>WeiGiegie</td><td>2024.6.08</td>
     </tr>
 	<tr>
 		<td > 18 </td> <td > ✅迅雷VIP  </td> <td ><a href="https://whatshub.top/rewrite/thunder.conf"><em>thunder.conf</em></a></td><td>Marol62926</td><td>2024.6.08</td>
@@ -327,7 +348,7 @@
 		<td > 6 </td> <td > ✅百度贴吧净化 </td> <td ><a href="https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/Tieba_remove_ads.plugin"><em>Tieba_Ads.conf</em></a></td><td>app2smile</td> <td>2024.7.10</td> 
     </tr>
 	<tr>
-		<td > 7 </td> <td > ✅百度网盘去广告 </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/f43026707830c7818ee3ba624e383c8d/raw/baiduCloud.vip.js"><em>BdPanAdBlock.conf</em></a></td><td>ddgksf2013</td><td>2024.6.21</td>
+		<td > 7 </td> <td > ✅PDD净化 </td> <td ><a href="https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/PinDuoDuo_remove_ads.plugin"><em>PinDuoDuoads.plugin</em></a></td><td>Keywos</td><td>2024.9.5</td>
     </tr>
 		<tr>
 		<td > 8 </td> <td > <strong><em>✅喜马拉雅去广告</strong></em> </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Ximalaya.conf"><em>XmlyAdBlock.conf</em></a></td><td>ddgksf2013</td><td>2024.5.23</td>
@@ -375,7 +396,7 @@
 		<td > 22 </td> <td > 🟥优酷净化[11.0.48版本以下]</td> <td ><a href="https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/YouKu_Video_remove_ads.plugin"><em>youku.adblock.js</em></a></td><td>ddgksf2013</td>  <td>2024.5.23</td>
     </tr>
     <tr>
-		<td > 23 </td> <td > 🟨百度地图净化[卸载重装] </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/beec132ca0c3570ffa0cf331bce8f82a/raw/baidumap.adblock.conf"><em>baidumap.conf</em></a></td><td>ddgksf2013</td>  <td>2024.5.23</td>
+		<td > 23 </td> <td > 🟨百度地图净化</td> <td ><a href="https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Plugin/BaiduMap_remove_ads.plugin"><em>baidumap.conf</em></a></td><td>	Keywos</td>  <td>2024.9.5</td>
     </tr>
 <tr>
 		<td > 24 </td> <td > 🟨皮皮虾净化及去水印 </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/bb1dadbd32f67c68772caebcc70b0a33/raw/pipixia.adblock.js"><em>pipixia.adblock.js</em></a></td><td>Liquor030</td> <td>2024.5.23</td> 
@@ -413,7 +434,7 @@
 		<td > 2 </td> <td > <strong>🟨B站CC繁体字幕转简体</strong> </td> <td ><a href="https://github.com/ddgksf2013/Rewrite/raw/master/Function/Bilibili_CC.conf"><em>Bilibili_CC.conf</em></a></td><td>ddgksf2013</td><td>2024.5.23</td>
     </tr>
 	<tr>
-		<td > 3 </td> <td > ✅百度网盘净化+解锁倍速 </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/f43026707830c7818ee3ba624e383c8d/raw/baiduCloud.vip.js"><em>BaiduCloud.conf</em></a></td><td>ddgksf2013</td><td>2024.5.23</td>
+		<td > 3 </td> <td > ✅百度网盘净化+解锁倍速 </td> <td ><a href="https://gist.githubusercontent.com/ddgksf2013/f43026707830c7818ee3ba624e383c8d/raw/baiduCloud.adblock.js"><em>BaiduCloud.conf</em></a></td><td>ddgksf2013</td><td>2024.9.5</td>
     </tr>
 	<tr>
 		<td > 4 </td> <td > ✅Youtube无中文字幕机翻方案 </td> <td ><a href="https://raw.githubusercontent.com/id77/QuantumultX/master/rewrite/Youtube_CC.conf#out=Hant"><em>Youtube_CC.conf</em></a></td><td>id77</td><td>2024.5.23</td>
@@ -483,7 +504,7 @@
 		<td > 1 </td> <td >✅黑料不打烊🔞 ❗</td> <td ><a href="https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/hlbdy.js"><em>hlbdy.js</em></a></td><td>yqc_123</td><td>2024.4.15</td>
     </tr>
 	<tr>
-		<td > 2 </td> <td >✅𝐉𝐀𝐕𝐃𝐚𝐲每日推荐🔞 ❗</td> <td ><a href="https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/javday.js"><em>javday.js</em></a></td><td>lyqc_123</td><td>2024.4.11</td>
+		<td > 2 </td> <td >✅𝐉𝐀𝐕𝐃𝐚𝐲每日推荐🔞 ❗</td> <td ><a href="https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/javday.js"><em>javday.js</em></a></td><td>yqc_123</td><td>2024.4.11</td>
     </tr>
 	<tr>
 		<td > 3 </td> <td >✅节点网速查询</td> <td ><a href="https://raw.githubusercontent.com/getsomecat/Qx/main/Net_Speed.js"><em>Net_Speed.js</em></a></td><td>wuhu_zzz</td><td>2024.6.20</td>
