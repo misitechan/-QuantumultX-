@@ -203,7 +203,7 @@
 <table>
  <tr> <th> 类别 </th> <th> 序号 </th> <th> 功能 </th> <th> 链接 </th></tr >
 <tr>
-		<td rowspan="15"><strong>分流规则</strong></td>
+		<td rowspan="16"><strong>分流规则</strong></td>
 		<td > 1 </td> <td >GitHub分流</td> <td ><a href="https://raw.githubusercontent.com/misitechan/-QuantumultX-/main/list-gather/GitHub.list"><em>GitHub.list</em></a></td>
 </tr>
 <tr>
@@ -237,22 +237,22 @@
 		<td > 10 </td> <td >腾讯服务分流 </td> <td ><a href="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Tencent/Tencent.list"><em>Apple.list</em></a></td>
 </tr>
 <tr>
-		<td > 8 </td> <td >Microsoft分流 </td> <td ><a href="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Microsoft/Microsoft.list"><em>Apple.list</em></a></td>
+		<td > 11 </td> <td >Microsoft分流 </td> <td ><a href="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Microsoft/Microsoft.list"><em>Apple.list</em></a></td>
 </tr>
 <tr>
-		<td > 8 </td> <td >Google分流 </td> <td ><a href="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Google/Google.list"><em>Apple.list</em></a></td>
+		<td > 12</td> <td >Google分流 </td> <td ><a href="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Google/Google.list"><em>Apple.list</em></a></td>
 </tr>
 <tr>
-		<td > 8 </td> <td >Disney分流 </td> <td ><a href="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Disney/Disney.list"><em>Apple.list</em></a></td>
+		<td > 13 </td> <td >Disney分流 </td> <td ><a href="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Disney/Disney.list"><em>Apple.list</em></a></td>
 </tr>
 <tr>
-		<td > 8 </td> <td >Netflix分流 </td> <td ><a href="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Netflix/Netflix.list"><em>Apple.list</em></a></td>
+		<td > 14 </td> <td >Netflix分流 </td> <td ><a href="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Netflix/Netflix.list"><em>Apple.list</em></a></td>
 </tr>
 <tr>
-		<td > 8 </td> <td >YouTube分流 </td> <td ><a href="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/YouTube/YouTube.list"><em>Apple.list</em></a></td>
+		<td > 15 </td> <td >YouTube分流 </td> <td ><a href="https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/YouTube/YouTube.list"><em>Apple.list</em></a></td>
 </tr>
 <tr>
-		<td > 8 </td> <td >Emby分流 </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Filter/9a3860bf0e338c8376f48f4fcea6f166d5d7a4d1/Emby.list"><em>Apple.list</em></a></td>
+		<td > 16 </td> <td >Emby分流 </td> <td ><a href="https://raw.githubusercontent.com/ddgksf2013/Filter/9a3860bf0e338c8376f48f4fcea6f166d5d7a4d1/Emby.list"><em>Apple.list</em></a></td>
 </tr>
 </table>
 
