@@ -2,19 +2,19 @@
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2024-04-29 13:36:21
-# HOST: 2
-# HOST-SUFFIX: 11
+# DOMAIN-SUFFIX: 2
+# DOMAIN-SUFFIX: 11
 # TOTAL: 13
-HOST,lf3-static.bytednsdoc.com,DouYin
-HOST,v5-dy-o-abtest.zjcdn.com,DouYin
-HOST-SUFFIX,amemv.com,DouYin
-HOST-SUFFIX,douyincdn.com,DouYin
-HOST-SUFFIX,douyinpic.com,DouYin
-HOST-SUFFIX,douyinstatic.com,DouYin
-HOST-SUFFIX,douyinvod.com,DouYin
-HOST-SUFFIX,idouyinvod.com,DouYin
-HOST-SUFFIX,ixigua.com,DouYin
-HOST-SUFFIX,ixiguavideo.com,DouYin
-HOST-SUFFIX,pstatp.com,DouYin
-HOST-SUFFIX,snssdk.com,DouYin
-HOST-SUFFIX,toutiao.com,DouYin
+DOMAIN-SUFFIX,lf3-static.bytednsdoc.com,DouYin
+DOMAIN-SUFFIX,v5-dy-o-abtest.zjcdn.com,DouYin
+DOMAIN-SUFFIX,amemv.com,DouYin
+DOMAIN-SUFFIX,douyincdn.com,DouYin
+DOMAIN-SUFFIX,douyinpic.com,DouYin
+DOMAIN-SUFFIX,douyinstatic.com,DouYin
+DOMAIN-SUFFIX,douyinvod.com,DouYin
+DOMAIN-SUFFIX,idouyinvod.com,DouYin
+DOMAIN-SUFFIX,ixigua.com,DouYin
+DOMAIN-SUFFIX,ixiguavideo.com,DouYin
+DOMAIN-SUFFIX,pstatp.com,DouYin
+DOMAIN-SUFFIX,snssdk.com,DouYin
+DOMAIN-SUFFIX,toutiao.com,DouYin
