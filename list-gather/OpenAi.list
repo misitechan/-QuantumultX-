@@ -14,4 +14,4 @@ DOMAIN-SUFFIX,sentry.io,OpenAI
 DOMAIN-SUFFIX,stripe.com,OpenAI
 DOMAIN-SUFFIX,oaistatic.com,OpenAI
 DOMAIN-SUFFIX,oaiusercontent.com,OpenAI
-HOST-KEYWORD,openai,OpenAI
+DOMAIN-SUFFIX,openai,OpenAI
